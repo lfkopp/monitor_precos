@@ -20,11 +20,11 @@ jobs:
         run: pip install -r requirements.txt
       - name: Run python script
         run: python guanabara.py
-      - name: Upload file as artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: job-result
-          path: guanabara.txt
+  #    - name: Upload file as artifact
+  #      uses: actions/upload-artifact@v3
+  #      with:
+  #        name: job-result
+  #        path: guanabara.txt
       - name: Commit and push changes
         run: |
           git config --global user.name "lfkopp"
