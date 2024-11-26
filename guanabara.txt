@@ -16220,3 +16220,263 @@ data;cod;setor;produto;preco
 2024-11-24;/produtos/72;SALGADOS;CARNE SECA P. A KG;33,98
 2024-11-24;/produtos/72;SALGADOS;LINGUIÇA CALABRESA PERDIGÃO kg;17,98
 2024-11-24;/produtos/72;SALGADOS;LINGUIÇA MISTA PERDIGAO FINA DEF kg;17,97
+2024-11-26;/produtos/42;AÇOUGUE;Alcatra Bov Friboi a Vácuo Kg (peça);36,98
+2024-11-26;/produtos/42;AÇOUGUE;Coxa c/ Sobrecoxa de Frango c/ porção Dorsal Kg;6,97
+2024-11-26;/produtos/42;AÇOUGUE;Filé de Costela Friboi Maturatta PEÇA Kg;47,98
+2024-11-26;/produtos/42;AÇOUGUE;Pá Bov Friboi a Vacuo Kg (peça);27,98
+2024-11-26;/produtos/42;AÇOUGUE;Peito Bov Friboi a Vacuo Kg (peça);27,98
+2024-11-26;/produtos/42;AÇOUGUE;Acém Bov Friboi a Vacuo Kg (peça);27,98
+2024-11-26;/produtos/42;AÇOUGUE;Peito de Frango kg;14,49
+2024-11-26;/produtos/42;AÇOUGUE;Frango a Passarinho Lar Pct Kg;11,98
+2024-11-26;/produtos/42;AÇOUGUE;Bisteca Suína Frimesa kg;18,98
+2024-11-26;/produtos/42;AÇOUGUE;Moela de Frango Sadia Bandeja kg;11,98
+2024-11-26;/produtos/42;AÇOUGUE;Filezinho de Frango Sassami Lar Bandeja kg;17,98
+2024-11-26;/produtos/42;AÇOUGUE;Filé de Peito de Frango Guibon Kg;16,98
+2024-11-26;/produtos/82;BEBIDA;Cerveja Antarctica 269ml;2,19
+2024-11-26;/produtos/82;BEBIDA;Cerveja Antarctica Latão 473ml;4,19
+2024-11-26;/produtos/82;BEBIDA;Cerveja Bohemia Latão 473ml;3,79
+2024-11-26;/produtos/82;BEBIDA;Cerveja Brahma Lata 269ml;1,99
+2024-11-26;/produtos/82;BEBIDA;Cerveja Brahma Long Neck 355ml;3,79
+2024-11-26;/produtos/82;BEBIDA;Cerveja Skol Latão 473ml;4,49
+2024-11-26;/produtos/82;BEBIDA;Cerveja Skol Puro Malte Latão 473ml;4,49
+2024-11-26;/produtos/82;BEBIDA;Refrigerante Pepsi 2 Litros+250ml Grátis;5,99
+2024-11-26;/produtos/82;BEBIDA;Refrigerante Pepsi Lata 269ml;2,59
+2024-11-26;/produtos/82;BEBIDA;Guaraná Antarctica lata 269ml;2,69
+2024-11-26;/produtos/82;BEBIDA;Suco Concentrado Dafruta Caju Leve 1L Pague 750ml;5,48
+2024-11-26;/produtos/82;BEBIDA;Suco de Laranja Campo Largo Pet 1350ml;16,90
+2024-11-26;/produtos/82;BEBIDA;Bebida Gatorade Pet 500ml ;5,49
+2024-11-26;/produtos/82;BEBIDA;Espumante Chandon Brutt 750ml;89,60
+2024-11-26;/produtos/82;BEBIDA;Gin Beefeater 750ml ;84,90
+2024-11-26;/produtos/82;BEBIDA;Gin Gordon's 750ml;84,40
+2024-11-26;/produtos/82;BEBIDA;Gin Tanqueray 750ml;99,90
+2024-11-26;/produtos/82;BEBIDA;Vinho Argentino Cavic  750ml ;24,71
+2024-11-26;/produtos/82;BEBIDA;Vinho Argentino Toro Centenario 750ml;29,90
+2024-11-26;/produtos/82;BEBIDA;Vodka Smirnoff 600ml;22,90
+2024-11-26;/produtos/82;BEBIDA;Vodka Smirnoff Ice 275ml;8,59
+2024-11-26;/produtos/82;BEBIDA;Whisky Johnnie Walker Black Label 1 litro ;202,92
+2024-11-26;/produtos/82;BEBIDA;Whisky Chivas Regal 12 Anos 750ml;99,90
+2024-11-26;/produtos/82;BEBIDA;Whisky Red Label 750ml;58,90
+2024-11-26;/produtos/82;BEBIDA;Whisky White Horse 1 Litro ;69,90
+2024-11-26;/produtos/82;BEBIDA;Cerveja Brahma Duplo Malte Latão 473ml;4,69
+2024-11-26;/produtos/82;BEBIDA;Cerveja Original Latão 473ml;4,39
+2024-11-26;/produtos/82;BEBIDA;Cerveja Spaten Lata 269ml	;2,29
+2024-11-26;/produtos/82;BEBIDA;Cerveja Stella Artois Long Neck 330ml;4,49
+2024-11-26;/produtos/82;BEBIDA;Refrigerante Pepsi Pet 200ml;1,49
+2024-11-26;/produtos/82;BEBIDA;Refresco em Pó Tang 18g;0,99
+2024-11-26;/produtos/82;BEBIDA;Vodka Smirnoff 1,750ml;49,30
+2024-11-26;/produtos/82;BEBIDA;Vodka Absolut Natural 750ml;59,90
+2024-11-26;/produtos/82;BEBIDA;Refrigerante Antarctica Guaraná 1,5 litros;6,29
+2024-11-26;/produtos/82;BEBIDA;Água Mineral Montanha s/ Gás 1,5L;1,79
+2024-11-26;/produtos/32;BISCOITO;Biscoito Recheado Maltado Piraquê 85g;1,99
+2024-11-26;/produtos/32;BISCOITO;Batata Palha Yoki 100g;5,99
+2024-11-26;/produtos/152;BOMBOM;Chocolate Garoto (Exc. Talento ) 80g/90g;4,99
+2024-11-26;/produtos/152;BOMBOM;Chocolate Nestle 80g;5,99
+2024-11-26;/produtos/152;BOMBOM;Chocolate Nestle kitkat 41,5g;2,39
+2024-11-26;/produtos/152;BOMBOM;Bis Lacta 100,8g;5,99
+2024-11-26;/produtos/203;CANTINHO DO BEBÊ;Toalha Umedecida Huggies Classic c/48 Unids. ;7,99
+2024-11-26;/produtos/203;CANTINHO DO BEBÊ;Fraldas Descartáveis Babysec Premium Mega;26,75
+2024-11-26;/produtos/203;CANTINHO DO BEBÊ;Fralda Descartável Huggies Supreme Care;17,98
+2024-11-26;/produtos/203;CANTINHO DO BEBÊ;Fralda Desc. Huggies Roupinha Supreme Care;17,98
+2024-11-26;/produtos/203;CANTINHO DO BEBÊ;Fraldas Descartáveis  Pampers Pants;19,75
+2024-11-26;/produtos/203;CANTINHO DO BEBÊ;Fralda Descartável Personal Baby Premium Mega;25,98
+2024-11-26;/produtos/203;CANTINHO DO BEBÊ;Fraldas Descartáveis Turma da Mônica  Baby Jumbinho;8,98
+2024-11-26;/produtos/203;CANTINHO DO BEBÊ;Condicionador Infantil Seda Juntinhos 300ml;7,99
+2024-11-26;/produtos/203;CANTINHO DO BEBÊ;Creme de Assaduras Huggies Reg 80g;11,99
+2024-11-26;/produtos/203;CANTINHO DO BEBÊ;Creme de Pentear Infantil Seda Juntinhos 300ml;7,99
+2024-11-26;/produtos/203;CANTINHO DO BEBÊ;Hastes Flexíveis Johnson & Johnson c/75 unids;4,99
+2024-11-26;/produtos/203;CANTINHO DO BEBÊ;Hastes Flexíveis Topz c/75 unids;0,99
+2024-11-26;/produtos/203;CANTINHO DO BEBÊ;Hastes Flexíveis Cottonbaby c/75 Unids.;1,49
+2024-11-26;/produtos/203;CANTINHO DO BEBÊ;Sabonete Huggies Camomila, Amêndoas ou Extra Suave 75g;1,99
+2024-11-26;/produtos/203;CANTINHO DO BEBÊ;Sabonete Dove Baby 75g;1,99
+2024-11-26;/produtos/203;CANTINHO DO BEBÊ;Sabonete Liquido Baby Dove 200ml;8,98
+2024-11-26;/produtos/203;CANTINHO DO BEBÊ;Sabonete Líquido Bebê Granado 250ml;13,98
+2024-11-26;/produtos/203;CANTINHO DO BEBÊ;Sabonete Liquido Baby Dove Refil 180ml ;9,98
+2024-11-26;/produtos/203;CANTINHO DO BEBÊ;Sabonete Líquido Huggies 200ml;9,98
+2024-11-26;/produtos/203;CANTINHO DO BEBÊ;Shampoo Granado Bebê Glicerina 250ml;12,98
+2024-11-26;/produtos/203;CANTINHO DO BEBÊ;Shampoo Infantil Seda Juntinhos 300ml	;7,99
+2024-11-26;/produtos/203;CANTINHO DO BEBÊ;Talco Granado Bebê 100g;12,98
+2024-11-26;/produtos/203;CANTINHO DO BEBÊ;Gel Dental Infantil Tandy 50g;5,90
+2024-11-26;/produtos/2;CEREAIS E FARINACEOS;Arroz Branco Ouro Nobre 5Kg;24,95
+2024-11-26;/produtos/2;CEREAIS E FARINACEOS;Arroz Tio João 5kg;35,95
+2024-11-26;/produtos/2;CEREAIS E FARINACEOS;Feijão Preto Copa Kg;6,99
+2024-11-26;/produtos/2;CEREAIS E FARINACEOS;Arroz Rei do Sul 5kg;22,95
+2024-11-26;/produtos/2;CEREAIS E FARINACEOS;Arroz Carreteiro 5kg;26,95
+2024-11-26;/produtos/2;CEREAIS E FARINACEOS;Feijão Preto Do Sul 1kg;6,57
+2024-11-26;/produtos/2;CEREAIS E FARINACEOS;Feijão Preto Panela de Barro 1kg;4,99
+2024-11-26;/produtos/2;CEREAIS E FARINACEOS;Feijão Combrasil Kg;7,57
+2024-11-26;/produtos/2;CEREAIS E FARINACEOS;Feijão Preto Máximo Kg;7,57
+2024-11-26;/produtos/92;CONSERVAS;Azeite Extra Virgem O-Live 400ml;29,98
+2024-11-26;/produtos/92;CONSERVAS;Azeitona Doypack Pramesa (Exc. Recheada) 150g;3,99
+2024-11-26;/produtos/92;CONSERVAS;Creme de Leite Italac TP 200g ;1,99
+2024-11-26;/produtos/92;CONSERVAS;Leite Condensado Italac 395g;4,77
+2024-11-26;/produtos/92;CONSERVAS;Leite Condensado Semidesnatado Moça TP 395g;5,99
+2024-11-26;/produtos/92;CONSERVAS;Passata Di Pomodoro Pramesa 680g;12,98
+2024-11-26;/produtos/92;CONSERVAS;Azeitona Verde Pramesa 420g;15,98
+2024-11-26;/produtos/92;CONSERVAS;Extrato de Tomate Elefante Tradicional 300g;7,29
+2024-11-26;/produtos/92;CONSERVAS;Alho em Pedaços Alinutri 1kg;18,98
+2024-11-26;/produtos/92;CONSERVAS;Molho de Tomate Pomarola Trad Sachê 300g;3,19
+2024-11-26;/produtos/92;CONSERVAS;Molho de Tomate Knorr Trad Sachê 300g;2,89
+2024-11-26;/produtos/92;CONSERVAS;Azeite Extra Virgem Gallo Portugal 250ml;24,98
+2024-11-26;/produtos/92;CONSERVAS;Ketchup Pramesa 300g;3,69
+2024-11-26;/produtos/92;CONSERVAS;Ketchup Pramesa 1,01kg;8,98
+2024-11-26;/produtos/92;CONSERVAS;Sardinha Ralada Gomes da Costa 110g;3,89
+2024-11-26;/produtos/92;CONSERVAS;Maionese Hellmanns Trad. 500g;9,98
+2024-11-26;/produtos/92;CONSERVAS;Azeite de Oliva Andorinha 500ml;37,47
+2024-11-26;/produtos/52;EMBUTIDOS;Lasanha Perdigão 600g;12,99
+2024-11-26;/produtos/52;EMBUTIDOS;Lasanha Forno de Minas 600g;8,98
+2024-11-26;/produtos/52;EMBUTIDOS;Lasanha Seara 600g;11,99
+2024-11-26;/produtos/52;EMBUTIDOS;Pizza Seara 440g/460g;13,99
+2024-11-26;/produtos/52;EMBUTIDOS;Hamburguer Perdigão 672g ;12,98
+2024-11-26;/produtos/52;EMBUTIDOS;Hamburguer Texas Burger Seara 672g;14,50
+2024-11-26;/produtos/52;EMBUTIDOS;Batata Palito Rapi Papi Cong 2kg;19,98
+2024-11-26;/produtos/52;EMBUTIDOS;Batata Palito OK Fries Cong 1,5kg;15,98
+2024-11-26;/produtos/52;EMBUTIDOS;Batata Rostie Beluga 300g;9,98
+2024-11-26;/produtos/52;EMBUTIDOS;Hamburguer Misto Montana 672g;12,98
+2024-11-26;/produtos/52;EMBUTIDOS;Steak de Frango Lar 100g;1,29
+2024-11-26;/produtos/52;EMBUTIDOS;Steak de Frango Seara 100g;2,19
+2024-11-26;/produtos/52;EMBUTIDOS;Tekitos Seara 1kg;18,98
+2024-11-26;/produtos/52;EMBUTIDOS;Mini Chicken Perdigão 1kg;14,98
+2024-11-26;/produtos/62;FRIOS E LATICÍNIOS;Blanquet de Peru Sadia Kg;39,99
+2024-11-26;/produtos/62;FRIOS E LATICÍNIOS;Peito de Frango Sadia Kg;29,98
+2024-11-26;/produtos/62;FRIOS E LATICÍNIOS;Peito de Peru Defumado Sadia Kg;53,99
+2024-11-26;/produtos/62;FRIOS E LATICÍNIOS;Presunto Cozido Império Kg;17,98
+2024-11-26;/produtos/62;FRIOS E LATICÍNIOS;Presunto Cozido Perdigão kg;22,98
+2024-11-26;/produtos/62;FRIOS E LATICÍNIOS;Queijo Minas Barão Kg;33,98
+2024-11-26;/produtos/62;FRIOS E LATICÍNIOS;Queijo Minas Juliana Kg;33,98
+2024-11-26;/produtos/62;FRIOS E LATICÍNIOS;Queijo Minas Monteminas Kg;33,98
+2024-11-26;/produtos/62;FRIOS E LATICÍNIOS;Queijo Ralado Presidente100g;11,75
+2024-11-26;/produtos/62;FRIOS E LATICÍNIOS;Queijo Bola Vitória Kg;49,98
+2024-11-26;/produtos/62;FRIOS E LATICÍNIOS;Salsicha Hot Dog Perdigão;9,59
+2024-11-26;/produtos/62;FRIOS E LATICÍNIOS;Salame Sadia Italiano Kg;103,99
+2024-11-26;/produtos/62;FRIOS E LATICÍNIOS;Margarina Claybom 500g;4,78
+2024-11-26;/produtos/62;FRIOS E LATICÍNIOS;Queijo Processado Polenguinho Trad. ou Ligth c/4 Unids 68g;5,85
+2024-11-26;/produtos/62;FRIOS E LATICÍNIOS;Sorvete Nestle Napolitano 1,5 Litros;19,99
+2024-11-26;/produtos/62;FRIOS E LATICÍNIOS;Sorvete Nobrelli Duo 1,3 litros;12,49
+2024-11-26;/produtos/62;FRIOS E LATICÍNIOS;Massa de Pastel Mezzani Disco 400g;5,49
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Absorvente Intimus Gel Noturno c/8 Unids;4,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Agua Micelar Loreal Paris 200ml ;24,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Base BB Cream 30ml;33,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Condicionador kolene 500ml;8,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Condicionador Neutrox 500ml ;8,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Condicionador Pantene 3 minutos 170ml ;21,90
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Condicionador S.O.S. Natutrat 300ml;9,90
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Condicionador Seda 325ml;10,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Cicatri Renove Elseve 50ml;18,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Creme de Tratamento Novex 1Kg ;14,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Creme de Tratamento Elseve Cachos 300g;21,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Creme de Tratamento OX 300g;16,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Creme Facial Nívea 100g;29,90
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Creme de Tratamento Intensivo Keraform 1Kg;12,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Creme p/ Pentear Elseve 250ml ;15,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Creme de Pentear Lola Meu Cacho Minha Vida 500g;31,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Creme de Pentear Pantene 240g;12,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Creme de Pentear Seda 300ml;8,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Creme p/ Pentear Tresemme 200ml ;10,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Desodorante Leite de Rosas 170ml;4,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Desodorante Bozzano Aerossol 150ml;9,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Desodorante Monange Aerossol 150ml;9,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Desodorante Nívea Aerossol 150ml ;8,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Desodorante Nívea Roll-On 50ml;6,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Desodorante Rexona Aerossol 250ml;16,65
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Loção Hidratante Monange 200ml;5,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Loção Hidratante Paixão 200ml;5,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Lenço de Limpeza Nívea c/25 Unids.;21,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Kit Shampoo 350ml + Cond. 175ml Dove;19,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Kit Elseve Shampoo 375ml + Cond. 170ml;26,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Kit Neutrox Shampoo 300ml + Cond. 200ml;11,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Kit Ox Shampoo 375ml + Condicionador 170ml;24,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Kit Shampoo 350ml + Cond. 175ml Pantene;19,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Kit Seda Shampoo 325ml + Condicionador 325ml;15,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Kit Shampoo + Condicionador Skala  325ml;9,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Locão Hidratante Nívea 200ml (EXC. Q10);12,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Óleo Extraordinário Elseve 100ml ;34,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Protetor Diário Intimus Days (Leve 80 Pague 60 Unids.);15,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Sabonete Palmolive 85g;1,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Sabonete Flor de Ypê Suave 85g;1,29
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Sabonete Francis Suave 85g;1,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Sabonete Líquido Íntimo Nívea 250ml;13,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Sabonete Intimo Dermacyd 200ml (Exc. Neutralize);17,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Sabonete Líquido Íntimo Oaz 200ml;9,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Sabonete Líquido Nívea 250ml;7,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Sabonete Líquido Nutriene 250ml ;2,97
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Sabonete Lux Suave 85g;1,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Sabonete Nívea 85g;1,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Sabonete Nívea Creme Care Box 90g ;2,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Shampoo Clear 400ml;24,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Shampoo Dove 400ml;15,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Shampoo Dove L670ml P500ml;16,73
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Shampoo Elseve  400ml (Exceto Anticaspa);21,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Shampoo Lola Meu Cacho Minha Vida 500ml;32,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Shampoo Lola Morte Súbita 250ml;26,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Shampoo Monange 325ml;5,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Shampoo Natutrat 300ml;7,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Shampoo OX 400ml;15,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Shampoo Pantene 400ml;15,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Shampoo Pantene Colágeno 510ml;24,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Shampoo Seda 325ml ;8,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Shampoo Tresemme 400ml;13,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Coloração Imedia Excellence L'Oreal (Exc.Tons Vermelhos);29,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Tintura Maxton Mini Kit (Exc. Free e Tons Vermelhos);9,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Tintura Nutrisse;24,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Coloração Koleston (Exc. Tons Vermelhos );17,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Antisséptico Bucal Cepacol L500ml P350ml;9,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Antisséptico Bucal Colgate Plax L750ml P500ml;17,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Creme Dental Colgate Tripla Ação 180g;5,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Creme Dental Sensodyne 90g;11,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Creme Dental Sorriso Tripla Limpeza Completa 120g;2,64
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Escova Dental Classic Confort;0,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Carga c/2 Unids. Gillette Mach 3 Carbono;17,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Aparelho recarregável c/1 Unid Gillette Mach 3 Carbono;17,98
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Talco Barla Antisséptico 140g;5,99
+2024-11-26;/produtos/112;HIGIÊNE PESSOAL;Toalha de Papel Yuri c/2 unids;3,29
+2024-11-26;/produtos/102;LIMPEZA;ALCOOL LIQ MONTENEGRO 46 1l;5,99
+2024-11-26;/produtos/102;LIMPEZA;AGUA SANITARIA VITRAL 2l;2,99
+2024-11-26;/produtos/102;LIMPEZA;ALVEJANTE VANISH SACHE REFIL 500ml;6,77
+2024-11-26;/produtos/102;LIMPEZA;AMACIANTE DOWNY CONCENTRADO 500ml;9,90
+2024-11-26;/produtos/102;LIMPEZA;AMACIANTE URCA 2L;4,99
+2024-11-26;/produtos/102;LIMPEZA;CERA BRILHO FACIL 750ml;10,98
+2024-11-26;/produtos/102;LIMPEZA;DESINFETANTE FACILITA 2l;2,99
+2024-11-26;/produtos/102;LIMPEZA;DESINFETANTE MINUANO PERFUMADO 500ml;1,99
+2024-11-26;/produtos/102;LIMPEZA;DESINFETANTE URCA 2L;4,47
+2024-11-26;/produtos/102;LIMPEZA;DETERGENTE YPE 500ML;1,87
+2024-11-26;/produtos/102;LIMPEZA;GLADE AEROSSOL 360ML C/20% DESC.;11,98
+2024-11-26;/produtos/102;LIMPEZA;INSETIC BAYGON AER AÇÃO T0TAL 360ml;10,98
+2024-11-26;/produtos/102;LIMPEZA;Inseticida SBP Multi 380ml;11,90
+2024-11-26;/produtos/102;LIMPEZA;MULT-INSETIC PROINSET 250ML;5,99
+2024-11-26;/produtos/102;LIMPEZA;LAVA ROUAS PO OMO LAVAGEM PERF 1,6KG Gts 320g;16,98
+2024-11-26;/produtos/102;LIMPEZA;LAVA ROU PO OMO LAVAGEM PERFEITA 2,2kg;21,97
+2024-11-26;/produtos/102;LIMPEZA;LAVA ROUPA LIQUIDO ARIEL 3 LITROS;29,98
+2024-11-26;/produtos/102;LIMPEZA;LAVA ROUPA LIQUIDO SURF 5L;33,30
+2024-11-26;/produtos/102;LIMPEZA;Lava Roupas Líquido Odd 3 litros;16,90
+2024-11-26;/produtos/102;LIMPEZA;LAVA ROUPA PÓ TIXAN YPE MACIEZ 1,6kg;11,99
+2024-11-26;/produtos/102;LIMPEZA;LAVA ROUPAS LIQ TIXAN YPE MACIEZ 3L;19,90
+2024-11-26;/produtos/102;LIMPEZA;LAVA ROUPAS UAU ROSA E SEDUCAO 3L;16,90
+2024-11-26;/produtos/102;LIMPEZA;LIMPADOR CASA & PERFUME 1L;5,98
+2024-11-26;/produtos/102;LIMPEZA;Limpador Mr. Músculo Refil Banheiro 400ml c/ 30% Desconto;7,99
+2024-11-26;/produtos/102;LIMPEZA;Limpador Mr. Músculo Refil Cozinha 400ml c/ 20% Desc;6,99
+2024-11-26;/produtos/102;LIMPEZA;Limpador Multiuso Uau 500ml;2,97
+2024-11-26;/produtos/102;LIMPEZA;Limpador Multiuso Ypê 500ml;2,77
+2024-11-26;/produtos/102;LIMPEZA;LIMPADO UAU CLORO ATIVO 500ml L3P2;8,98
+2024-11-26;/produtos/102;LIMPEZA;PURIFICADOR BOM AR AER LAVANDA 360ml C/20% DESC;12,98
+2024-11-26;/produtos/102;LIMPEZA;SABÃO PASTOSO ATOL ASSOLAN 500g;4,99
+2024-11-26;/produtos/102;LIMPEZA;SABÃO PASTOSO NEUTRAL 500g;7,99
+2024-11-26;/produtos/22;MASSAS;Mistura para Bolo Italac 400g;2,99
+2024-11-26;/produtos/22;MASSAS;Espaguete Sêmola Boa Sorte 400g;1,98
+2024-11-26;/produtos/12;MATINAIS E PADARIA;Aveia Yoki em Flocos 170g;3,99
+2024-11-26;/produtos/12;MATINAIS E PADARIA;Café  Melitta  500g;22,98
+2024-11-26;/produtos/12;MATINAIS E PADARIA;Café Pimpinela Golden  500g;22,98
+2024-11-26;/produtos/12;MATINAIS E PADARIA;Cereal Matinal Nescau 210g;6,99
+2024-11-26;/produtos/12;MATINAIS E PADARIA;Leite em Pó Desn. Molico LT Nestlé Leve 280g Pg 252g;13,98
+2024-11-26;/produtos/12;MATINAIS E PADARIA;Pão de Forma Seven Boys Tradicional 450g;5,29
+2024-11-26;/produtos/12;MATINAIS E PADARIA;Leite em Pó Inst. Italac Sachê 400g;12,98
+2024-11-26;/produtos/12;MATINAIS E PADARIA;Café Pimpinela Golden  L 500g P 475g;21,83
+2024-11-26;/produtos/12;MATINAIS E PADARIA;Bebida Láctea Italakinho 200ml;0,99
+2024-11-26;/produtos/12;MATINAIS E PADARIA;Café União Tradicional 500g;20,98
+2024-11-26;/produtos/12;MATINAIS E PADARIA;Bisnaguinha Visconti 240g;5,49
+2024-11-26;/produtos/12;MATINAIS E PADARIA;Leite em Pó Inst. Glória Sachê 360g;11,99
+2024-11-26;/produtos/12;MATINAIS E PADARIA;Açúcar Guarani Kg;3,99
+2024-11-26;/produtos/12;MATINAIS E PADARIA;Leite UHT Longa Vida  Italac Integral TP Litro;4,57
+2024-11-26;/produtos/72;SALGADOS;BACALHAU DO PORTO kg;89,50
+2024-11-26;/produtos/72;SALGADOS;CARNE SECA P. A KG;33,98
+2024-11-26;/produtos/72;SALGADOS;LINGUIÇA CALABRESA PERDIGÃO kg;17,98
+2024-11-26;/produtos/72;SALGADOS;LINGUIÇA MISTA PERDIGAO FINA DEF kg;17,97
