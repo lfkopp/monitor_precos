@@ -1,3 +1,4 @@
+data;cod;produto;preco;unidade;faot_unid;cod_id;cod_sku;marca
 2025-10-02;agua-de-coco-fresca-me-bebe-1l-93149;Água De Coco Fresca Me Bebe 1L;18.99;un;1.0;514;521;Me Bebe
 2025-10-02;agua-de-coco-fresca-me-bebe-500ml-93130;Água De Coco Fresca Me Bebe 500ml;11.99;un;1.0;513;520;Me Bebe
 2025-10-02;pizza-semipronta-calabresa-panetto-82163;Pizza Semipronta Calabresa Panetto;19.99;un;1.0;2755;2764;PANETTO
