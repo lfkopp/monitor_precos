@@ -3,3 +3,4 @@ beautifulsoup4
 requests
 datetime
 pandas
+openpyxl
