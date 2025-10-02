@@ -119,7 +119,7 @@ for j in [49, 89]:
                 #response = requests.get(url, cookies=cookies, headers=headers)
                 produtos = response.json().get('data', {}).get('productSearch', {}).get('products', [])
                 total = response.json().get('data', {}).get('productSearch', {}).get('recordsFiltered')
-                print('i',i,'tam',len(produtos),'total',total,'todos',len(todos),[x.get('productName') for x in produtos])  
+                #print('i',i,'tam',len(produtos),'total',total,'todos',len(todos),[x.get('productName') for x in produtos])  
                 todos += simplify_product_data(produtos)
                 i+= 50
                 erro = 0
@@ -163,3 +163,4 @@ with open('zsul.txt', 'a+', encoding='utf-8') as f:
     for index, row in df2.iterrows():
         f.write(f"{row['data']};{row['linkText']};{row['product_name']};{row['selling_price']};{row['measurement_unit']};{row['unit_multiplier']};{row['sku_id']};{row['product_id']};{row['brand']}\n")
 # %%
+
