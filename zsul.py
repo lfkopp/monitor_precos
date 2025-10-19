@@ -112,7 +112,7 @@ for j in [49, 89]:
                     'locale': 'pt-BR',
                     'operationName': 'productSearchV3',
                     'variables': '{}',
-                    'extensions': '{"persistedQuery":{"version":1,"sha256Hash":"00ce3d1c420a53a8424cc20b7b6af2102022062f60c0189357526a57c21443e6","sender":"vtex.store-resources@0.x","provider":"vtex.search-graphql@0.x"},"variables":"'+reencoded+'"}',
+                    'extensions': '{"persistedQuery":{"version":1,"sha256Hash":"efcfea65b452e9aa01e820e140a5b4a331adfce70470d2290c08bc4912b45212","sender":"vtex.store-resources@0.x","provider":"vtex.search-graphql@0.x"},"variables":"'+reencoded+'"}',
 }
                 url = 'https://www.zonasul.com.br/_v/segment/graphql/v1'
                 response = requests.get(url, params=params, cookies=cookies, headers=headers)
