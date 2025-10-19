@@ -36,19 +36,21 @@ cookies = {
     'vtex-search-anonymous': '1a9c5fd8336049e7b5d07bcae56ca508',
     'checkout.vtex.com': '__ofid=537e4eca01f040448ed142e728d5ecd0',
     'vtex_binding_address': 'zonasul.myvtex.com/',
-    'VtexWorkspace': 'master%3A-',
     '_fbp': 'fb.2.1759422199763.20541570871641954.Bg',
-    'vtex-search-session': '9850197450d140d193edae3caa43cdd8',
-    'vtex_session': 'eyJhbGciOiJFUzI1NiIsImtpZCI6IjZiYjNmNzc0LTljNGUtNDdmYi04MDE4LTJiYTg4OTdiOTBiNCIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50LmlkIjpbXSwiaWQiOiJiMjYxZjA3Zi1jY2Q3LTRlOTktODk3MS05NWY5NDVjNDhhOGYiLCJ2ZXJzaW9uIjoyLCJzdWIiOiJzZXNzaW9uIiwiYWNjb3VudCI6InNlc3Npb24iLCJleHAiOjE3NjAxMTM0MDAsImlhdCI6MTc1OTQyMjIwMCwianRpIjoiNmMxMzdkMDEtOTA0Zi00ZjNhLThmYzMtODM1NGZmZjBjMDUzIiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.xEpqBtFDqN98tHI1XLZek3Ci3LUDpVdLPBZTX3APueu64ZM5cR7K5sABA9CFlWEW6A93dMDD_gsnPnNRUfX5wQ',
+    'VtexWorkspace': 'master%3A-',
+    'vtex-search-session': '0bcbe2ddeee74e2aaa6d42ee68b3b22c',
+    'vtex_session': 'eyJhbGciOiJFUzI1NiIsImtpZCI6IjljZTY1YTc3LWNmNzMtNGM4Ni1hZGYzLWUyY2IzMWRhYjZiZiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50LmlkIjpbXSwiaWQiOiI5ZjQzNDdkOC1iOGM5LTQ0NzktYjE3My0zNjM0ZmZhZTU2ZDciLCJ2ZXJzaW9uIjoyLCJzdWIiOiJzZXNzaW9uIiwiYWNjb3VudCI6InNlc3Npb24iLCJleHAiOjE3NjE1NzgzODgsImlhdCI6MTc2MDg4NzE4OCwianRpIjoiYTA0ZThkNmMtNTMxNC00NmRkLWE1ODgtMGZjMDVjOGUwZmYxIiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9._sRhb8Ltk_RomIqvCkcf6W59G4GAeIfijK8GhwHgjo1JlV7G7gHzLZiaBKqqdPCS1FRMSZo1idwAIIvsjUpI4A',
     'vtex_segment': 'eyJjYW1wYWlnbnMiOm51bGwsImNoYW5uZWwiOiIxIiwicHJpY2VUYWJsZXMiOm51bGwsInJlZ2lvbklkIjpudWxsLCJ1dG1fY2FtcGFpZ24iOm51bGwsInV0bV9zb3VyY2UiOm51bGwsInV0bWlfY2FtcGFpZ24iOm51bGwsImN1cnJlbmN5Q29kZSI6IkJSTCIsImN1cnJlbmN5U3ltYm9sIjoiUiQiLCJjb3VudHJ5Q29kZSI6IkJSQSIsImN1bHR1cmVJbmZvIjoicHQtQlIiLCJjaGFubmVsUHJpdmFjeSI6InB1YmxpYyJ9',
+    'sp-variant': '68f272e09c5530284c150a2e-variantNull',
+    '_vss': '5DD86BF58350A03D169BC69D70A15BC2F3EF8AA6E6473F89FA1760AD02493CDC',
 }
 
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0',
     'Accept': '*/*',
     'Accept-Language': 'pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3',
     # 'Accept-Encoding': 'gzip, deflate, br, zstd',
-    'Referer': 'https://www.zonasul.com.br/hortifruti/legumes?page=2',
+    'Referer': 'https://www.zonasul.com.br/matinais/d',
     'content-type': 'application/json',
     'DNT': '1',
     'Sec-GPC': '1',
@@ -56,9 +58,8 @@ headers = {
     'Sec-Fetch-Mode': 'cors',
     'Sec-Fetch-Site': 'same-origin',
     'Connection': 'keep-alive',
-    # 'Cookie': 'vtex-search-anonymous=1a9c5fd8336049e7b5d07bcae56ca508; checkout.vtex.com=__ofid=537e4eca01f040448ed142e728d5ecd0; vtex_binding_address=zonasul.myvtex.com/; VtexWorkspace=master%3A-; _fbp=fb.2.1759422199763.20541570871641954.Bg; vtex-search-session=9850197450d140d193edae3caa43cdd8; vtex_session=eyJhbGciOiJFUzI1NiIsImtpZCI6IjZiYjNmNzc0LTljNGUtNDdmYi04MDE4LTJiYTg4OTdiOTBiNCIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50LmlkIjpbXSwiaWQiOiJiMjYxZjA3Zi1jY2Q3LTRlOTktODk3MS05NWY5NDVjNDhhOGYiLCJ2ZXJzaW9uIjoyLCJzdWIiOiJzZXNzaW9uIiwiYWNjb3VudCI6InNlc3Npb24iLCJleHAiOjE3NjAxMTM0MDAsImlhdCI6MTc1OTQyMjIwMCwianRpIjoiNmMxMzdkMDEtOTA0Zi00ZjNhLThmYzMtODM1NGZmZjBjMDUzIiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.xEpqBtFDqN98tHI1XLZek3Ci3LUDpVdLPBZTX3APueu64ZM5cR7K5sABA9CFlWEW6A93dMDD_gsnPnNRUfX5wQ; vtex_segment=eyJjYW1wYWlnbnMiOm51bGwsImNoYW5uZWwiOiIxIiwicHJpY2VUYWJsZXMiOm51bGwsInJlZ2lvbklkIjpudWxsLCJ1dG1fY2FtcGFpZ24iOm51bGwsInV0bV9zb3VyY2UiOm51bGwsInV0bWlfY2FtcGFpZ24iOm51bGwsImN1cnJlbmN5Q29kZSI6IkJSTCIsImN1cnJlbmN5U3ltYm9sIjoiUiQiLCJjb3VudHJ5Q29kZSI6IkJSQSIsImN1bHR1cmVJbmZvIjoicHQtQlIiLCJjaGFubmVsUHJpdmFjeSI6InB1YmxpYyJ9',
+    # 'Cookie': 'vtex-search-anonymous=1a9c5fd8336049e7b5d07bcae56ca508; checkout.vtex.com=__ofid=537e4eca01f040448ed142e728d5ecd0; vtex_binding_address=zonasul.myvtex.com/; _fbp=fb.2.1759422199763.20541570871641954.Bg; VtexWorkspace=master%3A-; vtex-search-session=0bcbe2ddeee74e2aaa6d42ee68b3b22c; vtex_session=eyJhbGciOiJFUzI1NiIsImtpZCI6IjljZTY1YTc3LWNmNzMtNGM4Ni1hZGYzLWUyY2IzMWRhYjZiZiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50LmlkIjpbXSwiaWQiOiI5ZjQzNDdkOC1iOGM5LTQ0NzktYjE3My0zNjM0ZmZhZTU2ZDciLCJ2ZXJzaW9uIjoyLCJzdWIiOiJzZXNzaW9uIiwiYWNjb3VudCI6InNlc3Npb24iLCJleHAiOjE3NjE1NzgzODgsImlhdCI6MTc2MDg4NzE4OCwianRpIjoiYTA0ZThkNmMtNTMxNC00NmRkLWE1ODgtMGZjMDVjOGUwZmYxIiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9._sRhb8Ltk_RomIqvCkcf6W59G4GAeIfijK8GhwHgjo1JlV7G7gHzLZiaBKqqdPCS1FRMSZo1idwAIIvsjUpI4A; vtex_segment=eyJjYW1wYWlnbnMiOm51bGwsImNoYW5uZWwiOiIxIiwicHJpY2VUYWJsZXMiOm51bGwsInJlZ2lvbklkIjpudWxsLCJ1dG1fY2FtcGFpZ24iOm51bGwsInV0bV9zb3VyY2UiOm51bGwsInV0bWlfY2FtcGFpZ24iOm51bGwsImN1cnJlbmN5Q29kZSI6IkJSTCIsImN1cnJlbmN5U3ltYm9sIjoiUiQiLCJjb3VudHJ5Q29kZSI6IkJSQSIsImN1bHR1cmVJbmZvIjoicHQtQlIiLCJjaGFubmVsUHJpdmFjeSI6InB1YmxpYyJ9; sp-variant=68f272e09c5530284c150a2e-variantNull; _vss=5DD86BF58350A03D169BC69D70A15BC2F3EF8AA6E6473F89FA1760AD02493CDC',
 }
-
 
 params = {
     'workspace': 'master',
@@ -68,7 +69,7 @@ params = {
     'locale': 'pt-BR',
     'operationName': 'productSearchV3',
     'variables': '{}',
-    'extensions': '{"persistedQuery":{"version":1,"sha256Hash":"00ce3d1c420a53a8424cc20b7b6af2102022062f60c0189357526a57c21443e6","sender":"vtex.store-resources@0.x","provider":"vtex.search-graphql@0.x"},"variables":"eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTCIsInNpbXVsYXRpb25CZWhhdmlvciI6ImRlZmF1bHQiLCJpbnN0YWxsbWVudENyaXRlcmlhIjoiTUFYX1dJVEhPVVRfSU5URVJFU1QiLCJwcm9kdWN0T3JpZ2luVnRleCI6dHJ1ZSwibWFwIjoiYyxjIiwicXVlcnkiOiJob3J0aWZydXRpL2xlZ3VtZXMiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjk2LCJ0byI6MTQzLCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoiaG9ydGlmcnV0aSJ9LHsia2V5IjoiYyIsInZhbHVlIjoibGVndW1lcyJ9XSwib3BlcmF0b3IiOiJhbmQiLCJmdXp6eSI6IjAiLCJzZWFyY2hTdGF0ZSI6bnVsbCwiZmFjZXRzQmVoYXZpb3IiOiJTdGF0aWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZSwiYWR2ZXJ0aXNlbWVudE9wdGlvbnMiOnsic2hvd1Nwb25zb3JlZCI6dHJ1ZSwic3BvbnNvcmVkQ291bnQiOjMsImFkdmVydGlzZW1lbnRQbGFjZW1lbnQiOiJ0b3Bfc2VhcmNoIiwicmVwZWF0U3BvbnNvcmVkUHJvZHVjdHMiOnRydWV9fQ=="}',
+    'extensions': '{"persistedQuery":{"version":1,"sha256Hash":"efcfea65b452e9aa01e820e140a5b4a331adfce70470d2290c08bc4912b45212","sender":"vtex.store-resources@0.x","provider":"vtex.search-graphql@0.x"},"variables":"eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTCIsInNpbXVsYXRpb25CZWhhdmlvciI6ImRlZmF1bHQiLCJpbnN0YWxsbWVudENyaXRlcmlhIjoiTUFYX1dJVEhPVVRfSU5URVJFU1QiLCJwcm9kdWN0T3JpZ2luVnRleCI6dHJ1ZSwibWFwIjoiYyIsInF1ZXJ5IjoibWF0aW5haXMiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjo0Nywic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6Im1hdGluYWlzIn1dLCJmYWNldHNCZWhhdmlvciI6IlN0YXRpYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlLCJ2YXJpYW50IjoiNjhmMjcyZTA5YzU1MzAyODRjMTUwYTJlLXZhcmlhbnROdWxsIiwiYWR2ZXJ0aXNlbWVudE9wdGlvbnMiOnsic2hvd1Nwb25zb3JlZCI6dHJ1ZSwic3BvbnNvcmVkQ291bnQiOjMsImFkdmVydGlzZW1lbnRQbGFjZW1lbnQiOiJ0b3Bfc2VhcmNoIiwicmVwZWF0U3BvbnNvcmVkUHJvZHVjdHMiOnRydWV9fQ=="}',
 }
 
 url = 'https://www.zonasul.com.br/_v/segment/graphql/v1'
