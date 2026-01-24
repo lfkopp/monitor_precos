@@ -47,7 +47,6 @@ data;cod;produto;preco;unidade;faot_unid;cod_id;cod_sku;marca
 2026-01-24;alho-roxo-cariorta-4-a-5-unidades-250g-99279;Alho Roxo Cariorta 4 a 5 unidades 250g;59.99;kg;0.25;24684;24608;CARIORTA
 2026-01-24;limao-cariorta-1kg-98981;Limão Cariorta 1Kg;11.99;kg;1.0;24698;24622;CARIORTA
 2026-01-24;manga-palmer-unidade-5130760;Manga Palmer Unidade;5.39;un;1.0;31977;31902;Zona Sul
-<<<<<<< HEAD
 2026-01-24;saco-para-lixo-dover-roll-banheiro-e-pia-50-unidades--1172557;Saco para Lixo Dover Roll Banheiro e Pia 50 Unidades;14.39;un;1.0;40200;40127;DOVER ROLL
 2026-01-24;acendedor-alcool-gel-montenegro-80-430-906727;Acendedor Álcool Gel Montenegro 80% 430;8.99;un;1.0;12717;12732;MONTENEGRO
 2026-01-24;toalex-leve-mais-pague-menos-pack-com-3-unidades-1180860;Toalex Leve Mais Pague Menos Pack com 3 Unidades;19.99;un;1.0;44160;44087;TOALEX
@@ -136,7 +135,6 @@ data;cod;produto;preco;unidade;faot_unid;cod_id;cod_sku;marca
 2026-01-24;file-mignon-resfriado-sem-cordao-2-2kg-44822;Filé Mignon Resfriado Sem Cordão 2,2kg;79.99;kg;2.2;7539;7558;Zona Sul
 2026-01-24;pao-frances-panetto-60g-com-8-unidades-96504;Pão Francês Panetto 60g Com 8 Unidades;23.98;kg;0.48;35484;35411;PANETTO
 2026-01-24;rucula-unidade-201006;Rúcula Unidade;3.79;un;1.0;7467;7486;Zona Sul
-=======
 2026-01-24;batata-inglesa-600g-14346;Batata Inglesa 600g;4.69;kg;0.6;5568;5584;Zona Sul
 2026-01-24;cebola-unidade-211745;Cebola Unidade;0.97;un;1.0;33275;33200;Zona Sul
 2026-01-24;banana-prata-unidade-43621;Banana Prata unidade;1.5;un;1.0;33277;33202;Zona Sul
@@ -233,7 +231,6 @@ data;cod;produto;preco;unidade;faot_unid;cod_id;cod_sku;marca
 2026-01-24;alho-roxo-cariorta-4-a-5-unidades-250g-99279;Alho Roxo Cariorta 4 a 5 unidades 250g;59.99;kg;0.25;24684;24608;CARIORTA
 2026-01-24;limao-cariorta-1kg-98981;Limão Cariorta 1Kg;11.99;kg;1.0;24698;24622;CARIORTA
 2026-01-24;manga-palmer-unidade-5130760;Manga Palmer Unidade;5.39;un;1.0;31977;31902;Zona Sul
->>>>>>> b0089bb8bc92a8592503d9b0f5e246f918e8a07f
 2026-01-24;rucula-unidade-201006;Rúcula Unidade;3.79;un;1.0;7467;7486;Zona Sul
 2026-01-24;leite-condensado-moca-lata-395g-1136321;Leite Condensado Moça Lata 395g;7.98;un;1.0;37022;36949;NESTLE
 2026-01-24;matte-leao-limao-pet-1-5l-118222;Matte Leão Limão Pet 1,5L;7.69;un;1.0;8711;8723;LEAO
