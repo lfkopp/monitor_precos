@@ -85,7 +85,7 @@ print('Total de produtos:', total)
 import base64
 import json
 
-encoded_vars = "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTCIsInNpbXVsYXRpb25CZWhhdmlvciI6ImRlZmF1bHQiLCJpbnN0YWxsbWVudENyaXRlcmlhIjoiTUFYX1dJVEhPVVRfSU5URVJFU1QiLCJwcm9kdWN0T3JpZ2luVnRleCI6dHJ1ZSwibWFwIjoiYyIsInF1ZXJ5IjoiaG9ydGlmcnV0aSIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6NDgsInRvIjo5NSwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImhvcnRpZnJ1dGkifV0sIm9wZXJhdG9yIjoiYW5kIiwiZnV6enkiOiIwIiwic2VhcmNoU3RhdGUiOm51bGwsImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2UsInZhcmlhbnQiOiJudWxsLW51bGwifQ=="
+encoded_vars = "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOnRydWUsIm1hcCI6InByb2R1Y3RDbHVzdGVySWRzIiwicXVlcnkiOiIxNjA0Iiwib3JkZXJCeSI6Ik9yZGVyQnlTY29yZURFU0MiLCJmcm9tIjowLCJ0byI6NDcsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTYwNCJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJTdGF0aWMiLCJ3aXRoRmFjZXRzIjpmYWxzZSwidmFyaWFudCI6Im51bGwtbnVsbCJ9"
 decoded_vars = base64.b64decode(encoded_vars)
 print(json.loads(decoded_vars))
 todos = []
@@ -96,7 +96,7 @@ for j in [49, 89]:
     for cluster in ['2364','1131','7350', '164', '1604','7350','868','238']:
         erro = 0
         i=0
-        total = 1
+        total = 100
         while (i < total):
             decoded_vars2 = json.loads(decoded_vars)
             decoded_vars2['selectedFacets'] = [{'key': 'productClusterIds', 'value': cluster}]
@@ -112,13 +112,13 @@ for j in [49, 89]:
                     'locale': 'pt-BR',
                     'operationName': 'productSearchV3',
                     'variables': '{}',
-                    'extensions': '{"persistedQuery":{"version":1,"sha256Hash":"31d3fa494df1fc41efef6d16dd96a96e6911b8aed7a037868699a1f3f4d365de","sender":"vtex.store-resources@0.x","provider":"vtex.search-graphql@0.x"},"variables":"eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTCIsInNpbXVsYXRpb25CZWhhdmlvciI6ImRlZmF1bHQiLCJpbnN0YWxsbWVudENyaXRlcmlhIjoiTUFYX1dJVEhPVVRfSU5URVJFU1QiLCJwcm9kdWN0T3JpZ2luVnRleCI6dHJ1ZSwibWFwIjoiYyIsInF1ZXJ5IjoiaG9ydGlmcnV0aSIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjQ3LCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoiaG9ydGlmcnV0aSJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJTdGF0aWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZSwidmFyaWFudCI6Im51bGwtbnVsbCJ9"}',
+                    'extensions': '{"persistedQuery":{"version":1,"sha256Hash":"31d3fa494df1fc41efef6d16dd96a96e6911b8aed7a037868699a1f3f4d365de","sender":"vtex.store-resources@0.x","provider":"vtex.search-graphql@0.x"},"variables":"eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOnRydWUsIm1hcCI6InByb2R1Y3RDbHVzdGVySWRzIiwicXVlcnkiOiIxNjQiLCJvcmRlckJ5IjoiT3JkZXJCeVRvcFNhbGVERVNDIiwiZnJvbSI6NDgsInRvIjo5NSwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6InByb2R1Y3RDbHVzdGVySWRzIiwidmFsdWUiOiIxNjQifV0sIm9wZXJhdG9yIjoiYW5kIiwiZnV6enkiOiIwIiwic2VhcmNoU3RhdGUiOm51bGwsImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwid2l0aEZhY2V0cyI6ZmFsc2UsInZhcmlhbnQiOiJudWxsLW51bGwifQ=="}',
                 }
                 url = 'https://www.zonasul.com.br/_v/segment/graphql/v1'
                 response = requests.get(url, params=params, cookies=cookies, headers=headers)
                 produtos = response.json().get('data', {}).get('productSearch', {}).get('products', [])
                 total = response.json().get('data', {}).get('productSearch', {}).get('recordsFiltered')
-                #print('i',i,'tam',len(produtos),'total',total,'todos',len(todos),[x.get('productName') for x in produtos])  
+                print('i',i,'tam',len(produtos),'total',total,'todos',len(todos),[x.get('productName') for x in produtos])  
                 todos += simplify_product_data(produtos)
                 i+= 50
                 erro = 0
@@ -140,7 +140,8 @@ df = pd.DataFrame(todos)
 df.drop_duplicates(subset=['linkText'], keep='first', inplace=True)
 df
 
-
+#%%
+df.shape
 # %%
 df['description'] = df['description'].str.replace(r'<[^>]+>', '', regex=True)
 df['description'] = df['description'].str.replace(r'\s+', ' ', regex=True).str.strip()
