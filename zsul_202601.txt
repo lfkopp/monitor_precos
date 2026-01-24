@@ -95,3 +95,51 @@ data;cod;produto;preco;unidade;faot_unid;cod_id;cod_sku;marca
 2026-01-24;alho-roxo-cariorta-4-a-5-unidades-250g-99279;Alho Roxo Cariorta 4 a 5 unidades 250g;59.99;kg;0.25;24684;24608;CARIORTA
 2026-01-24;limao-cariorta-1kg-98981;Limão Cariorta 1Kg;11.99;kg;1.0;24698;24622;CARIORTA
 2026-01-24;manga-palmer-unidade-5130760;Manga Palmer Unidade;5.39;un;1.0;31977;31902;Zona Sul
+2026-01-24;batata-inglesa-600g-14346;Batata Inglesa 600g;4.69;kg;0.6;5568;5584;Zona Sul
+2026-01-24;cebola-unidade-211745;Cebola Unidade;0.97;un;1.0;33275;33200;Zona Sul
+2026-01-24;banana-prata-unidade-43621;Banana Prata unidade;1.5;un;1.0;33277;33202;Zona Sul
+2026-01-24;tomate-italiano-organico-bio-vida-500-g-458589;Tomate Italiano Orgânico Bio Vida 500g;7.99;un;1.0;6506;6523;BIO VIDA
+2026-01-24;cenoura-organica-bio-vida-600g-453196;Cenoura Orgânica Bio Vida 600g;7.99;un;1.0;6480;6497;BIO VIDA
+2026-01-24;blueberry-mirtilo-bandeja-125g-122580;Blueberry Mirtilo Bandeja 125g;11.9;un;1.0;5143;5159;Zona Sul
+2026-01-24;couve-flor-unidade-189111;Couve Flor Unidade;8.79;un;1.0;7446;7465;Zona Sul
+2026-01-24;cebola-organica-bio-vida-500g-860077;Cebola Orgânica Bio Vida 500g;7.99;un;1.0;6372;6389;BIO VIDA
+2026-01-24;ovos-vermelhos-organicos-bio-vida-com-20-unidades-1185500;Ovos Vermelhos Orgânicos Bio Vida com 20 Unidades;24.9;un;1.0;44699;44626;BIO VIDA
+2026-01-24;abobrinha-italiana-organica-bio-vida-600g-450219;Abobrinha Italiana Orgânica Bio Vida 600g;7.99;un;1.0;6486;6503;BIO VIDA
+2026-01-24;tomate-grape-organico-bio-vida--180g-870293;Tomate Grape Orgânico Bio Vida  180g;5.99;un;1.0;6276;6293;BIO VIDA
+2026-01-24;cogumelo-de-paris-organico-200g-196428;Cogumelo de Paris Orgânico 200g;10.99;un;1.0;7353;7372;Zona Sul
+2026-01-24;pimentao-verde-unidade-204064;Pimentão Verde unidade;0.75;un;1.0;33282;33207;Zona Sul
+2026-01-24;maca-organica-400g-964930;Maçã Orgânica 400g;11.99;un;1.0;6146;6162;Zona Sul
+2026-01-24;batata-doce-organica-bio-vida-600g-456080;Batata Doce Orgânica Bio Vida 600g;6.99;un;1.0;6532;6549;BIO VIDA
+2026-01-24;couve-organica-bio-vida-embalada-499293;Couve Orgânica Bio Vida Embalada;5.99;un;1.0;6866;6884;BIO VIDA
+2026-01-24;alface-americana-organica-bio-vida-180g-499226;Alface Americana Orgânica Bio Vida 180g;5.99;un;1.0;6879;6897;BIO VIDA
+2026-01-24;tomate-salada-organico-bio-vida-500g-458619;Tomate Salada Orgânico Bio Vida 500g;9.99;un;1.0;6504;6521;BIO VIDA
+2026-01-24;manga-palmer-em-pedacos-quasi-pronto-250g-63096;Manga Palmer em Pedaços Quasi Pronto 250g;25.99;kg;0.25;7078;7096;QUASI PRONTO
+2026-01-24;amora-80g-386855;Amora 80g;19.99;un;1.0;5142;5158;Zona Sul
+2026-01-24;alface-crespa-organica-bio-vida-processada-unidade-499234;Alface Crespa Orgânica Bio Vida Processada Unidade;5.99;un;1.0;6877;6895;BIO VIDA
+2026-01-24;avocado-300g-33863;Avocado 300g;19.99;kg;0.3;5004;5020;Zona Sul
+2026-01-24;abobora-japonesa-organica-bio-vida-600-g-449962;Abóbora Japonesa Orgânica Bio Vida 600g;8.99;un;1.0;6541;6558;BIO VIDA
+2026-01-24;tomate-fonte-verde-500g-70211;Tomate Fonte Verde 500g;15.99;kg;0.5;32641;32566;Zona Sul
+2026-01-24;tamara-com-caroco-deglet-nour-nouri-200g-5455057;Tâmara com Caroço Deglet Nour Nouri 200g;4.99;un;1.0;38796;38723;NOURI DATES
+2026-01-24;ovos-caipira-organicos-label-rouge-bandeja-com-6-unidades-397890;Ovos Caipira Orgânicos Label Rouge Bandeja Com 6 Unidades;10.99;un;1.0;6622;6639;LABEL ROUGE
+2026-01-24;salada-pronta-organica-tropical-250-g-829587;Salada Pronta Orgânica Tropical  250 g;6.99;un;1.0;6836;6854;Zona Sul
+2026-01-24;banana-prata-cariorta-12kg-98957;Banana Prata Cariorta 1,4Kg;13.99;kg;1.4;16565;16456;CARIORTA
+2026-01-24;ovos-brancos-cartela-com-30-unidades-196673;Ovos Brancos Cartela com 30 Unidades;19.9;un;1.0;7004;7022;Zona Sul
+2026-01-24;banana-prata-organica-800g-73695;Banana Prata Orgânica 800g;10.99;kg;0.8;6180;6196;Zona Sul
+2026-01-24;uva-verde-sem-semente-500-g-387096;Uva Verde Sem Semente 500g;12.99;un;1.0;5276;5292;Zona Sul
+2026-01-24;alho-roxo-200g-93009;Alho Roxo 200g;39.9;kg;0.2;20520;20457;Zona Sul
+2026-01-24;castanha-de-caju-iracema-sache-50g-1137867;Castanha de Cajú Iracema Sachê 50g;11.49;un;1.0;36865;36792;IRACEMA
+2026-01-24;brocolis-e-couve-flor-florete-organicos-higienizados-200g-1025996;Brócolis e Couve Flor Florete Orgânicos Higienizados 200g;6.99;un;1.0;21334;21265;Rio de Una
+2026-01-24;brocolis-americano-unidade-197254;Brócolis Americano Unidade;8.99;un;1.0;7462;7481;Zona Sul
+2026-01-24;framboesa-bandeja-80-g-125504;Framboesa Bandeja 80g;24.99;un;1.0;5145;5161;Zona Sul
+2026-01-24;mamao-papaia-unidade-5130786;Mamão Papaia Unidade;6.49;un;1.0;32822;32747;Zona Sul
+2026-01-24;shimeji-preto-organico-1173510;Shimeji Preto Orgânico Bio Vida 200g;16.99;un;1.0;40258;40185;BIO VIDA
+2026-01-24;batata-inglesa-cariorta-12kg-98698;Batata Inglesa Cariorta 1,2Kg;7.99;kg;1.2;16570;16461;CARIORTA
+2026-01-24;ovos-vermelhos-caipira-happy-eggs-com-20-unidades-370550;Ovos Vermelhos Caipira Happy Eggs Com 20 Unidades;24.99;un;1.0;6939;6957;HAPPY EGGS
+2026-01-24;ovos-brancos-jumbo-mantiqueira-com-10-unidades-437638;Ovos Brancos Jumbo Mantiqueira Com 10 Unidades;10.9;un;1.0;7002;7020;MANTIQUEIRA
+2026-01-24;tomate-italiano-cariorta-12kg-98868;Tomate Italiano Cariorta 1,2Kg;10.99;kg;1.2;16582;16473;CARIORTA
+2026-01-24;ovos-vermelhos-mantiqueira-happy-eggs-com-10-unidades-5106753;Ovos Vermelhos Mantiqueira Happy Eggs com 10 Unidades;11.99;un;1.0;18105;17997;HAPPY EGGS
+2026-01-24;mamao-papaia-cariorta-12kg-99007;Mamão Papaia Cariorta 1,2kg;15.99;kg;1.2;24413;24337;CARIORTA
+2026-01-24;pitaya-vermelha-300g-12394;Pitaya Vermelha 300g;14.99;kg;0.3;35587;35515;Hortifruti
+2026-01-24;alho-roxo-cariorta-4-a-5-unidades-250g-99279;Alho Roxo Cariorta 4 a 5 unidades 250g;59.99;kg;0.25;24684;24608;CARIORTA
+2026-01-24;limao-cariorta-1kg-98981;Limão Cariorta 1Kg;11.99;kg;1.0;24698;24622;CARIORTA
+2026-01-24;manga-palmer-unidade-5130760;Manga Palmer Unidade;5.39;un;1.0;31977;31902;Zona Sul
