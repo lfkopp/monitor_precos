@@ -36,21 +36,20 @@ cookies = {
     'vtex-search-anonymous': '1a9c5fd8336049e7b5d07bcae56ca508',
     'checkout.vtex.com': '__ofid=537e4eca01f040448ed142e728d5ecd0',
     'vtex_binding_address': 'zonasul.myvtex.com/',
-    '_fbp': 'fb.2.1759422199763.20541570871641954.Bg',
     'VtexWorkspace': 'master%3A-',
-    'vtex-search-session': '0bcbe2ddeee74e2aaa6d42ee68b3b22c',
-    'vtex_session': 'eyJhbGciOiJFUzI1NiIsImtpZCI6IjljZTY1YTc3LWNmNzMtNGM4Ni1hZGYzLWUyY2IzMWRhYjZiZiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50LmlkIjpbXSwiaWQiOiI5ZjQzNDdkOC1iOGM5LTQ0NzktYjE3My0zNjM0ZmZhZTU2ZDciLCJ2ZXJzaW9uIjoyLCJzdWIiOiJzZXNzaW9uIiwiYWNjb3VudCI6InNlc3Npb24iLCJleHAiOjE3NjE1NzgzODgsImlhdCI6MTc2MDg4NzE4OCwianRpIjoiYTA0ZThkNmMtNTMxNC00NmRkLWE1ODgtMGZjMDVjOGUwZmYxIiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9._sRhb8Ltk_RomIqvCkcf6W59G4GAeIfijK8GhwHgjo1JlV7G7gHzLZiaBKqqdPCS1FRMSZo1idwAIIvsjUpI4A',
+    '_fbp': 'fb.2.1769266254008.126342954208711991.AQYBAQIA',
+    'vtex-search-session': 'd4829ef037cf46d5a974310c4e03547c',
+    'vtex_session': 'eyJhbGciOiJFUzI1NiIsImtpZCI6IjFjY2M0ZDM2LTc5MDgtNDAwYy1iYmY4LTM5ZWM2MzM1MTI0YyIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50LmlkIjpbXSwiaWQiOiJjMjVjYzAzOC0zYjRjLTQ3ZDQtODVhNS1mOTk0MzMzYjAwMzciLCJ2ZXJzaW9uIjoyLCJzdWIiOiJzZXNzaW9uIiwiYWNjb3VudCI6InNlc3Npb24iLCJleHAiOjE3Njk5NTc0NTQsImlhdCI6MTc2OTI2NjI1NCwianRpIjoiOTM5YTRhMjgtYWY1Ni00NjA4LTk3NjUtZjM3Yzg3MjA4YjAwIiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9.HXqbMX3l21tPdAdEg1GHik_4M1KgwW-PegOvNYXBbLOEc7Y0UhenGHrzb41W22Jvopa8zPVvx--pJ-9gUIoPfA',
     'vtex_segment': 'eyJjYW1wYWlnbnMiOm51bGwsImNoYW5uZWwiOiIxIiwicHJpY2VUYWJsZXMiOm51bGwsInJlZ2lvbklkIjpudWxsLCJ1dG1fY2FtcGFpZ24iOm51bGwsInV0bV9zb3VyY2UiOm51bGwsInV0bWlfY2FtcGFpZ24iOm51bGwsImN1cnJlbmN5Q29kZSI6IkJSTCIsImN1cnJlbmN5U3ltYm9sIjoiUiQiLCJjb3VudHJ5Q29kZSI6IkJSQSIsImN1bHR1cmVJbmZvIjoicHQtQlIiLCJjaGFubmVsUHJpdmFjeSI6InB1YmxpYyJ9',
-    'sp-variant': '68f272e09c5530284c150a2e-variantNull',
-    '_vss': '5DD86BF58350A03D169BC69D70A15BC2F3EF8AA6E6473F89FA1760AD02493CDC',
+    'sp-variant': 'null-null',
+    'CheckoutOrderFormOwnership': 'bArPA1TGRk2zt8bB4dKPV/eQmeS4co2KJO8WRBTAF9lep2RH57EZm+Vp2JhyBkj4',
 }
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0',
     'Accept': '*/*',
     'Accept-Language': 'pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3',
-    # 'Accept-Encoding': 'gzip, deflate, br, zstd',
-    'Referer': 'https://www.zonasul.com.br/matinais/d',
+    'Referer': 'https://www.zonasul.com.br/hortifruti/d',
     'content-type': 'application/json',
     'DNT': '1',
     'Sec-GPC': '1',
@@ -58,7 +57,6 @@ headers = {
     'Sec-Fetch-Mode': 'cors',
     'Sec-Fetch-Site': 'same-origin',
     'Connection': 'keep-alive',
-    # 'Cookie': 'vtex-search-anonymous=1a9c5fd8336049e7b5d07bcae56ca508; checkout.vtex.com=__ofid=537e4eca01f040448ed142e728d5ecd0; vtex_binding_address=zonasul.myvtex.com/; _fbp=fb.2.1759422199763.20541570871641954.Bg; VtexWorkspace=master%3A-; vtex-search-session=0bcbe2ddeee74e2aaa6d42ee68b3b22c; vtex_session=eyJhbGciOiJFUzI1NiIsImtpZCI6IjljZTY1YTc3LWNmNzMtNGM4Ni1hZGYzLWUyY2IzMWRhYjZiZiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50LmlkIjpbXSwiaWQiOiI5ZjQzNDdkOC1iOGM5LTQ0NzktYjE3My0zNjM0ZmZhZTU2ZDciLCJ2ZXJzaW9uIjoyLCJzdWIiOiJzZXNzaW9uIiwiYWNjb3VudCI6InNlc3Npb24iLCJleHAiOjE3NjE1NzgzODgsImlhdCI6MTc2MDg4NzE4OCwianRpIjoiYTA0ZThkNmMtNTMxNC00NmRkLWE1ODgtMGZjMDVjOGUwZmYxIiwiaXNzIjoic2Vzc2lvbi9kYXRhLXNpZ25lciJ9._sRhb8Ltk_RomIqvCkcf6W59G4GAeIfijK8GhwHgjo1JlV7G7gHzLZiaBKqqdPCS1FRMSZo1idwAIIvsjUpI4A; vtex_segment=eyJjYW1wYWlnbnMiOm51bGwsImNoYW5uZWwiOiIxIiwicHJpY2VUYWJsZXMiOm51bGwsInJlZ2lvbklkIjpudWxsLCJ1dG1fY2FtcGFpZ24iOm51bGwsInV0bV9zb3VyY2UiOm51bGwsInV0bWlfY2FtcGFpZ24iOm51bGwsImN1cnJlbmN5Q29kZSI6IkJSTCIsImN1cnJlbmN5U3ltYm9sIjoiUiQiLCJjb3VudHJ5Q29kZSI6IkJSQSIsImN1bHR1cmVJbmZvIjoicHQtQlIiLCJjaGFubmVsUHJpdmFjeSI6InB1YmxpYyJ9; sp-variant=68f272e09c5530284c150a2e-variantNull; _vss=5DD86BF58350A03D169BC69D70A15BC2F3EF8AA6E6473F89FA1760AD02493CDC',
 }
 
 params = {
@@ -69,8 +67,10 @@ params = {
     'locale': 'pt-BR',
     'operationName': 'productSearchV3',
     'variables': '{}',
-    'extensions': '{"persistedQuery":{"version":1,"sha256Hash":"efcfea65b452e9aa01e820e140a5b4a331adfce70470d2290c08bc4912b45212","sender":"vtex.store-resources@0.x","provider":"vtex.search-graphql@0.x"},"variables":"eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTCIsInNpbXVsYXRpb25CZWhhdmlvciI6ImRlZmF1bHQiLCJpbnN0YWxsbWVudENyaXRlcmlhIjoiTUFYX1dJVEhPVVRfSU5URVJFU1QiLCJwcm9kdWN0T3JpZ2luVnRleCI6dHJ1ZSwibWFwIjoiYyIsInF1ZXJ5IjoibWF0aW5haXMiLCJvcmRlckJ5IjoiT3JkZXJCeVNjb3JlREVTQyIsImZyb20iOjAsInRvIjo0Nywic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6Im1hdGluYWlzIn1dLCJmYWNldHNCZWhhdmlvciI6IlN0YXRpYyIsImNhdGVnb3J5VHJlZUJlaGF2aW9yIjoiZGVmYXVsdCIsIndpdGhGYWNldHMiOmZhbHNlLCJ2YXJpYW50IjoiNjhmMjcyZTA5YzU1MzAyODRjMTUwYTJlLXZhcmlhbnROdWxsIiwiYWR2ZXJ0aXNlbWVudE9wdGlvbnMiOnsic2hvd1Nwb25zb3JlZCI6dHJ1ZSwic3BvbnNvcmVkQ291bnQiOjMsImFkdmVydGlzZW1lbnRQbGFjZW1lbnQiOiJ0b3Bfc2VhcmNoIiwicmVwZWF0U3BvbnNvcmVkUHJvZHVjdHMiOnRydWV9fQ=="}',
+    'extensions': '{"persistedQuery":{"version":1,"sha256Hash":"31d3fa494df1fc41efef6d16dd96a96e6911b8aed7a037868699a1f3f4d365de","sender":"vtex.store-resources@0.x","provider":"vtex.search-graphql@0.x"},"variables":"eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTCIsInNpbXVsYXRpb25CZWhhdmlvciI6ImRlZmF1bHQiLCJpbnN0YWxsbWVudENyaXRlcmlhIjoiTUFYX1dJVEhPVVRfSU5URVJFU1QiLCJwcm9kdWN0T3JpZ2luVnRleCI6dHJ1ZSwibWFwIjoiYyIsInF1ZXJ5IjoiaG9ydGlmcnV0aSIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjQ3LCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoiaG9ydGlmcnV0aSJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJTdGF0aWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZSwidmFyaWFudCI6Im51bGwtbnVsbCJ9"}',
 }
+
+
 
 url = 'https://www.zonasul.com.br/_v/segment/graphql/v1'
 response = requests.get(url, params=params, cookies=cookies, headers=headers)
@@ -85,7 +85,7 @@ print('Total de produtos:', total)
 import base64
 import json
 
-encoded_vars = "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTF9BVkFJTEFCTEUiLCJzaW11bGF0aW9uQmVoYXZpb3IiOiJkZWZhdWx0IiwiaW5zdGFsbG1lbnRDcml0ZXJpYSI6Ik1BWF9XSVRIT1VUX0lOVEVSRVNUIiwicHJvZHVjdE9yaWdpblZ0ZXgiOnRydWUsIm1hcCI6InByb2R1Y3RDbHVzdGVySWRzIiwicXVlcnkiOiIxNjQiLCJvcmRlckJ5IjoiT3JkZXJCeVRvcFNhbGVERVNDIiwiZnJvbSI6OTYsInRvIjoxNDMsInNlbGVjdGVkRmFjZXRzIjpbeyJrZXkiOiJwcm9kdWN0Q2x1c3RlcklkcyIsInZhbHVlIjoiMTY0In1dLCJvcGVyYXRvciI6ImFuZCIsImZ1enp5IjoiMCIsInNlYXJjaFN0YXRlIjpudWxsLCJmYWNldHNCZWhhdmlvciI6IlN0YXRpYyIsIndpdGhGYWNldHMiOmZhbHNlLCJhZHZlcnRpc2VtZW50T3B0aW9ucyI6eyJzaG93U3BvbnNvcmVkIjp0cnVlLCJzcG9uc29yZWRDb3VudCI6MywiYWR2ZXJ0aXNlbWVudFBsYWNlbWVudCI6InRvcF9zZWFyY2giLCJyZXBlYXRTcG9uc29yZWRQcm9kdWN0cyI6dHJ1ZX19"
+encoded_vars = "eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTCIsInNpbXVsYXRpb25CZWhhdmlvciI6ImRlZmF1bHQiLCJpbnN0YWxsbWVudENyaXRlcmlhIjoiTUFYX1dJVEhPVVRfSU5URVJFU1QiLCJwcm9kdWN0T3JpZ2luVnRleCI6dHJ1ZSwibWFwIjoiYyIsInF1ZXJ5IjoiaG9ydGlmcnV0aSIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6NDgsInRvIjo5NSwic2VsZWN0ZWRGYWNldHMiOlt7ImtleSI6ImMiLCJ2YWx1ZSI6ImhvcnRpZnJ1dGkifV0sIm9wZXJhdG9yIjoiYW5kIiwiZnV6enkiOiIwIiwic2VhcmNoU3RhdGUiOm51bGwsImZhY2V0c0JlaGF2aW9yIjoiU3RhdGljIiwiY2F0ZWdvcnlUcmVlQmVoYXZpb3IiOiJkZWZhdWx0Iiwid2l0aEZhY2V0cyI6ZmFsc2UsInZhcmlhbnQiOiJudWxsLW51bGwifQ=="
 decoded_vars = base64.b64decode(encoded_vars)
 print(json.loads(decoded_vars))
 todos = []
@@ -112,12 +112,10 @@ for j in [49, 89]:
                     'locale': 'pt-BR',
                     'operationName': 'productSearchV3',
                     'variables': '{}',
-                    'extensions': '{"persistedQuery":{"version":1,"sha256Hash":"efcfea65b452e9aa01e820e140a5b4a331adfce70470d2290c08bc4912b45212","sender":"vtex.store-resources@0.x","provider":"vtex.search-graphql@0.x"},"variables":"'+reencoded+'"}',
-}
+                    'extensions': '{"persistedQuery":{"version":1,"sha256Hash":"31d3fa494df1fc41efef6d16dd96a96e6911b8aed7a037868699a1f3f4d365de","sender":"vtex.store-resources@0.x","provider":"vtex.search-graphql@0.x"},"variables":"eyJoaWRlVW5hdmFpbGFibGVJdGVtcyI6dHJ1ZSwic2t1c0ZpbHRlciI6IkFMTCIsInNpbXVsYXRpb25CZWhhdmlvciI6ImRlZmF1bHQiLCJpbnN0YWxsbWVudENyaXRlcmlhIjoiTUFYX1dJVEhPVVRfSU5URVJFU1QiLCJwcm9kdWN0T3JpZ2luVnRleCI6dHJ1ZSwibWFwIjoiYyIsInF1ZXJ5IjoiaG9ydGlmcnV0aSIsIm9yZGVyQnkiOiJPcmRlckJ5U2NvcmVERVNDIiwiZnJvbSI6MCwidG8iOjQ3LCJzZWxlY3RlZEZhY2V0cyI6W3sia2V5IjoiYyIsInZhbHVlIjoiaG9ydGlmcnV0aSJ9XSwiZmFjZXRzQmVoYXZpb3IiOiJTdGF0aWMiLCJjYXRlZ29yeVRyZWVCZWhhdmlvciI6ImRlZmF1bHQiLCJ3aXRoRmFjZXRzIjpmYWxzZSwidmFyaWFudCI6Im51bGwtbnVsbCJ9"}',
+                }
                 url = 'https://www.zonasul.com.br/_v/segment/graphql/v1'
                 response = requests.get(url, params=params, cookies=cookies, headers=headers)
-                #url = f'https://www.zonasul.com.br/_v/segment/graphql/v1?extensions=%7B%22persistedQuery%22%3A%7B%22version%22%3A1%2C%22sha256Hash%22%3A%22c351315ecde7f473587b710ac8b97f147ac0ac0cd3060c27c695843a72fd3903%22%2C%22sender%22%3A%22vtex.store-resources%400.x%22%2C%22provider%22%3A%22vtex.search-graphql%400.x%22%7D%2C%22variables%22%3A%22{reencoded}%22%7D'
-                #response = requests.get(url, cookies=cookies, headers=headers)
                 produtos = response.json().get('data', {}).get('productSearch', {}).get('products', [])
                 total = response.json().get('data', {}).get('productSearch', {}).get('recordsFiltered')
                 #print('i',i,'tam',len(produtos),'total',total,'todos',len(todos),[x.get('productName') for x in produtos])  
@@ -157,11 +155,25 @@ df.to_excel('zonasul.xlsx', index=False,engine='openpyxl')
 # %%
 
 hoje = datetime.datetime.now().strftime('%Y-%m-%d')
+mes = datetime.datetime.now().strftime('%Y%m')
 df2 = df[['linkText','product_name','selling_price','measurement_unit','unit_multiplier','sku_id','product_id','brand']]
 df2['data'] = hoje
 # %%
-with open('zsul.txt', 'a+', encoding='utf-8') as f:
+
+from os import listdir
+
+
+filename = f'zsul_{mes}.txt'
+
+if filename not in listdir():
+    print('Criando arquivo', filename)
+    with open(filename, 'w+', encoding='utf-8') as f:
+        f.write("data;cod;produto;preco;unidade;faot_unid;cod_id;cod_sku;marca\n")
+
+with open(filename, 'a+', encoding='utf-8') as f:
     for index, row in df2.iterrows():
         f.write(f"{row['data']};{row['linkText']};{row['product_name']};{row['selling_price']};{row['measurement_unit']};{row['unit_multiplier']};{row['sku_id']};{row['product_id']};{row['brand']}\n")
 # %%
 
+
+# %%
