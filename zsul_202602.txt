@@ -47,3 +47,51 @@ data;cod;produto;preco;unidade;faot_unid;cod_id;cod_sku;marca
 2026-02-01;couve-manteiga-unidade-201235;Couve Manteiga Unidade;3.39;un;1.0;7445;7464;Zona Sul
 2026-02-01;saponaceo-cremoso-cif-limpeza-milagrosa-450ml-781266;CIF Cremoso Limpeza Milagrosa remove 100% da sujeira 450 ml;13.29;un;1.0;11602;11625;CIF
 2026-02-01;alho-roxo-cariorta-4-a-5-unidades-250g-99279;Alho Roxo Cariorta 4 a 5 unidades 250g;59.99;kg;0.25;24684;24608;CARIORTA
+2026-02-02;matte-leao-limao-pet-1-5l-118222;Matte Leão Limão Pet 1,5L;7.69;un;1.0;8711;8723;LEAO
+2026-02-02;rucula-unidade-201006;Rúcula Unidade;3.39;un;1.0;7467;7486;Zona Sul
+2026-02-02;creme-de-leite-nestle-10--gratis-200g-1165151;Creme de Leite Nestlé 10% Grátis 200g;5.99;un;1.0;40151;40078;NESTLE
+2026-02-02;refrigerante-coca-cola-sem-acucar-lata-350-ml-429376;Refrigerante Coca Cola Sem Açúcar Lata 350ml;3.99;un;1.0;8817;8829;COCA COLA
+2026-02-02;uva-preta-sem-semente-500-g-674583;Uva Preta Sem Semente 500g;11.99;un;1.0;5264;5280;Zona Sul
+2026-02-02;alcool-montenegro-46-1-l-780570;Álcool Montenegro 46% 1 L;7.98;un;1.0;11598;11621;MONTENEGRO
+2026-02-02;mucarela-em-fatias-92363;Muçarela  em Fatias 200g;59.9;kg;0.2;1361;1368;Zona Sul
+2026-02-02;batata-inglesa-cariorta-12kg-98698;Batata Inglesa Cariorta 1,2Kg;8.99;kg;1.2;16570;16461;CARIORTA
+2026-02-02;leite-uht-piracanjuba-integral-1l-865427;Leite Uht Piracanjuba Integral 1L;5.59;un;1.0;23232;23158;PIRACANJUBA
+2026-02-02;cheiro-verde-unidade-201049;Cheiro Verde Unidade;3.39;un;1.0;7411;7430;Zona Sul
+2026-02-02;agua-mineral-com-gas-sao-lourenco-pet-1-26-l-140805;Água Mineral Com Gás São Lourenço Pet 1,26 L;5.29;un;1.0;3915;3929;SAO LOURENCO
+2026-02-02;tomate-italiano-unidade-495212;Tomate Italiano Unidade;1.53;un;1.0;6965;6983;Zona Sul
+2026-02-02;ovos-vermelhos-mantiqueira-happy-eggs-com-10-unidades-5106753;Ovos Vermelhos Mantiqueira Happy Eggs com 10 Unidades;11.99;un;1.0;18105;17997;HAPPY EGGS
+2026-02-02;manga-palmer-unidade-5130760;Manga Palmer Unidade;5.39;un;1.0;31977;31902;Zona Sul
+2026-02-02;couve-flor-unidade-189111;Couve Flor Unidade;9.99;un;1.0;7446;7465;Zona Sul
+2026-02-02;cafe-torrado-e-moido-pilao-tradicional-500g-828025;Café Torrado E Moído Pilão Tradicional Fresh Pack 500g;29.98;un;1.0;130;135;PILAO
+2026-02-02;guardanapo-folha-dupla-scott-grand-hotel-238cm×218cm-50-unidades-129879;Guardanapo Folha Dupla Scott Grand Hotel 23,8cm×21,8cm 50 Unidades;6.19;un;1.0;9426;9438;GRANDE HOTEL
+2026-02-02;papel-toalha-coquetel-19cm-x-19cm-com-2-rolos-com-60-folhas-cada-783242;Papel Toalha Coquetel 19Cm X 19Cm com 2 Rolos com 60 Folhas Cada;6.99;un;1.0;11627;11650;COQUETEL
+2026-02-02;abacaxi-unidade-221;Abacaxi Unidade;10.99;un;1.0;4959;4975;Zona Sul
+2026-02-02;limao-cariorta-1kg-98981;Limão Cariorta 1Kg;11.99;kg;1.0;24698;24622;CARIORTA
+2026-02-02;detergente-para-loucas-odd-clear-500ml-982911;Detergente Para Louças Odd Clear 500ml;1.9;un;1.0;11872;11898;LIMPPANO
+2026-02-02;pao-frances-panetto-60g-com-4-unidades-96318;Pão Francês Panetto  60g Com 4 unidades;24.99;kg;0.24;35477;35404;PANETTO
+2026-02-02;ovos-vermelhos-caipira-happy-eggs-com-20-unidades-370550;Ovos Vermelhos Caipira Happy Eggs Com 20 Unidades;24.99;un;1.0;6939;6957;HAPPY EGGS
+2026-02-02;morango-250g-289612;Morango 250g;9.99;un;1.0;5152;5168;Zona Sul
+2026-02-02;file-de-peito-de-frango-sadia-bandeja-1kg-290564;Filé de Peito de Frango Sadia Bandeja 1kg;24.99;un;1.0;7;7;SADIA
+2026-02-02;farinha-de-trigo-dona-benta-1kg-105287;Farinha De Trigo Dona Benta 1kg;7.99;un;1.0;31;31;DONA BENTA
+2026-02-02;abobrinha-italiana-unidade-423513;Abobrinha Italiana Unidade;2.1;un;1.0;16065;15956;Zona Sul
+2026-02-02;azeite-italiano-extra-virgem-due-500ml-5472040;Azeite Italiano Extravirgem Due 500ml;29.98;un;1.0;40224;40151;DUE
+2026-02-02;guardanapo-folha-dupla-scott-grand-hotel-jantar-33×33-cm-com-50-unidades-129887;Guardanapo Folha Dupla Scott Grand Hotel Jantar 33×33 Cm Com 50 Unidades;12.99;un;1.0;9427;9439;GRANDE HOTEL
+2026-02-02;cebola-roxa-400g-38393;Cebola Roxa 400g;7.69;kg;0.4;5543;5559;Zona Sul
+2026-02-02;mamao-papaia-cariorta-12kg-99007;Mamão Papaia Cariorta 1,2kg;15.99;kg;1.2;24413;24337;CARIORTA
+2026-02-02;pessego-nacional-500g-12408;Pêssego Nacional 600g;10.99;kg;0.6;5122;5138;Zona Sul
+2026-02-02;la-de-aco-bombril-com-6-unidades-45g-1180320;Lã de Aço Bombril com 6 Unidades 45g;2.99;un;1.0;41130;41057;BOMBRIL
+2026-02-02;papel-higienico-folha-tripla-neve-supreme-dermacare-pacote-leve-16-pague-15-unidades-981168;Papel Higiênico Folha Tripla Neve Supreme Dermacare Pacote Leve 16 Pague 15 Unidades;28.98;un;1.0;1262;1269;NEVE
+2026-02-02;oleo-de-soja-liza-900ml-127310;Óleo De Soja Liza 900ml;8.59;un;1.0;127;132;LIZA
+2026-02-02;abobora-japonesa-pedaco-500g-38229;Abóbora Japonesa Pedaço 500g;5.29;kg;0.5;5593;5609;Zona Sul
+2026-02-02;coentro-unidade-200930;Coentro Unidade;3.39;un;1.0;7408;7427;Zona Sul
+2026-02-02;espinafre-unidade-200948;Espinafre Unidade;3.39;un;1.0;7464;7483;Zona Sul
+2026-02-02;refrigerante-coca-cola-sem-acucar-pet-600-ml-429392;Refrigerante Coca Cola Sem Açúcar Pet 600ml;5.69;un;1.0;8816;8828;COCA COLA
+2026-02-02;pao-de-queijo-forno-de-minas-tradicional--400-g-456110;Pão De Queijo Forno De Minas Tradicional 400g;21.99;un;1.0;13544;13564;FORNO MINAS
+2026-02-02;detergente-para-loucas-biodegradavel-limpol-neutro-500-ml-100510;Detergente Para Louças Biodegradável Limpol Neutro 500ml;2.79;un;1.0;12054;12081;LIMPOL
+2026-02-02;sal-refinado-iodado-ita-1kg-117293;Sal Refinado Iodado Ita 1kg;3.65;un;1.0;126;131;ITA
+2026-02-02;biscoito-cream-cracker-piraque-pacote-184g-1105795;Biscoito Cream Cracker Piraquê Pacote 184g;3.89;un;1.0;33955;33882;PIRAQUE
+2026-02-02;cereja-chilena-300g-13463;Cereja Chilena 300g;69.9;kg;0.3;5090;5106;Zona Sul
+2026-02-02;saponaceo-cremoso-cif-limpeza-milagrosa-450ml-781266;CIF Cremoso Limpeza Milagrosa remove 100% da sujeira 450 ml;18.99;un;1.0;11602;11625;CIF
+2026-02-02;alho-roxo-cariorta-4-a-5-unidades-250g-99279;Alho Roxo Cariorta 4 a 5 unidades 250g;59.99;kg;0.25;24684;24608;CARIORTA
+2026-02-02;saponaceo-cremoso-cif-gratis-20-450-ml-839264;Saponáceo Cremoso Cif Grátis 20% 450ml;14.99;un;1.0;12274;12301;CIF
+2026-02-02;couve-manteiga-unidade-201235;Couve Manteiga Unidade;3.39;un;1.0;7445;7464;Zona Sul
