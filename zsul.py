@@ -53,18 +53,27 @@ session.headers.update({
     'Accept-Language': 'pt-BR,pt;q=0.9',
 })
 
-collections = ['8090', '2364', '1131', '164', '1604', '868', '238']
+buscas = [
+    'arroz', 'feijao', 'acucar', 'oleo', 'cafe', 'leite', 'farinha',
+    'macarrao', 'molho de tomate', 'sal', 'ovo', 'frango', 'carne',
+    'porco', 'peixe', 'cebola', 'tomate', 'batata', 'banana',
+    'laranja', 'maca', 'alface', 'cenoura', 'repolho',
+    'sabao', 'detergente', 'papel higienico', 'shampoo', 'creme dental',
+    'cerveja', 'refrigerante', 'suco', 'agua',
+    'pao', 'presunto', 'queijo', 'manteiga', 'margarina',
+    'iogurte', 'requeijao',
+]
 
 todos = []
 
 
-def fetch_graphql(session, collection, from_idx, to_idx):
+def fetch_graphql(session, termo, from_idx, to_idx):
     variables = {
-        "query": "",
+        "query": termo,
         "map": "",
         "category": "",
         "priceRange": "",
-        "collection": collection,
+        "collection": "",
         "salesChannel": "1",
         "orderBy": "OrderByScoreDESC",
         "from": from_idx,
@@ -103,50 +112,43 @@ def fetch_graphql(session, collection, from_idx, to_idx):
 print(f'[{STORE_NAME}] Obtendo sessao...')
 try:
     session.get(BASE_URL, timeout=15)
-    sleep(0.5)
-    session.get(f'{BASE_URL}/mercearia-e-gastronomia/graos-e-cereais', timeout=15)
+    sleep(0.3)
+    session.get(f'{BASE_URL}/api/checkout/pub/orderForm', timeout=10)
     print(f'[{STORE_NAME}] Sessao OK, cookies={len(session.cookies)}')
 except Exception as e:
     print(f'[{STORE_NAME}] Erro sessao: {e}')
 
-print(f'[{STORE_NAME}] Iniciando coleta via GraphQL...')
+print(f'[{STORE_NAME}] Iniciando coleta via GraphQL (products hash)...')
 
-for collection in collections:
+for termo in buscas:
     from_idx = 0
-    to_idx = 24
+    to_idx = 49
     erro = 0
     while True:
         try:
-            produtos = fetch_graphql(session, collection, from_idx, to_idx)
+            produtos = fetch_graphql(session, termo, from_idx, to_idx)
             if not produtos:
                 break
             todos += simplify_product_data(produtos)
-            print(f'  [{STORE_NAME}] collection={collection} from={from_idx} +{len(produtos)} total={len(todos)}')
-            if len(produtos) < 25:
+            print(f'  [{STORE_NAME}] "{termo}" from={from_idx} +{len(produtos)} total={len(todos)}')
+            if len(produtos) < 50:
                 break
             from_idx = to_idx + 1
-            to_idx = from_idx + 24
+            to_idx = from_idx + 49
             erro = 0
             sleep(0.3)
         except Exception as e:
             erro += 1
-            print(f'  [{STORE_NAME}] Erro collection={collection} from={from_idx}: {e}')
+            print(f'  [{STORE_NAME}] Erro "{termo}" from={from_idx}: {e}')
             if erro > 2:
                 break
             sleep(1)
+    sleep(0.2)
 
 print(f'\n[{STORE_NAME}] GraphQL total: {len(todos)} produtos')
 
 if not todos:
     print(f'[{STORE_NAME}] GraphQL retornou 0. Tentando VTEX catalog API...')
-    buscas = [
-        'arroz', 'feijao', 'acucar', 'oleo', 'cafe', 'leite', 'farinha',
-        'macarrao', 'molho de tomate', 'sal', 'ovo', 'frango', 'carne',
-        'cebola', 'tomate', 'batata', 'banana', 'laranja',
-        'sabao', 'detergente', 'papel higienico', 'shampoo',
-        'cerveja', 'refrigerante', 'suco', 'agua',
-        'presunto', 'queijo', 'manteiga', 'iogurte',
-    ]
     for termo in buscas:
         i = 0
         tentativa = 0
