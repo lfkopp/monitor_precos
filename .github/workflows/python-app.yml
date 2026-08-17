@@ -22,15 +22,16 @@ jobs:
         run: python guanabara.py
       - name: Run zsul script
         run: python zsul.py
-  #    - name: Upload file as artifact
-  #      uses: actions/upload-artifact@v3
-  #      with:
-  #        name: job-result
-  #        path: guanabara.txt
+      - name: Run atacadao script
+        run: python atacadao.py
+      - name: Run prezunic script
+        run: python prezunic.py
+      - name: Run paodeacucar script
+        run: python paodeacucar.py
       - name: Commit and push changes
         run: |
           git config --global user.name "lfkopp"
           git config --global user.email "lfkopp@gmail.com"
           git add -A
-          git commit -m "commit message"
+          git diff --cached --quiet || git commit -m "update: precos $(date +'%Y-%m-%d')"
           git push
