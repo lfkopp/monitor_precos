@@ -18,6 +18,7 @@ def simplify_product_data(products):
         sellers = item0.get("sellers", [])
         offer = sellers[0].get("commertialOffer", {}) if sellers else {}
         images = item0.get("images", [])
+        ref_id_list = item0.get("referenceId", [])
         simplified.append({
             'linkText': product.get("linkText", ""),
             "product_name": product.get("productName", ""),
@@ -33,7 +34,8 @@ def simplify_product_data(products):
             "sku_id": item0.get("itemId", ""),
             "product_id": product.get("productId", ""),
             "brand": product.get("brand", ""),
-            "brand_id": product.get("brandId", ""),
+            "ean": item0.get("ean", ""),
+            "ref_id": ref_id_list[0].get("Value", "") if ref_id_list else "",
             "available_quantity": offer.get("AvailableQuantity", 0),
         })
     return simplified
@@ -164,6 +166,7 @@ if not todos:
                         sellers = items[0].get("sellers", []) if items else []
                         offer = sellers[0].get("commertialOffer", {}) if sellers else {}
                         images = items[0].get("images", []) if items else []
+                        ref_id_list = items[0].get("referenceId", []) if items else []
                         todos.append({
                             'linkText': p.get("linkText", ""),
                             "product_name": p.get("productName", ""),
@@ -179,7 +182,8 @@ if not todos:
                             "sku_id": items[0].get("itemId", "") if items else "",
                             "product_id": p.get("productId", ""),
                             "brand": p.get("brand", ""),
-                            "brand_id": p.get("brandId", ""),
+                            "ean": items[0].get("ean", "") if items else "",
+                            "ref_id": ref_id_list[0].get("Value", "") if ref_id_list else "",
                             "available_quantity": offer.get("AvailableQuantity", 0),
                         })
                     print(f'  [{STORE_NAME}] "{termo}": {len(produtos)} (from={i}, total={len(todos)})')
@@ -212,17 +216,17 @@ else:
     hoje = datetime.datetime.now().strftime('%Y-%m-%d')
     mes = datetime.datetime.now().strftime('%Y%m')
     df2 = df[['linkText', 'product_name', 'selling_price', 'measurement_unit',
-              'unit_multiplier', 'sku_id', 'product_id', 'brand']].copy()
+              'unit_multiplier', 'sku_id', 'product_id', 'brand', 'ean', 'ref_id']].copy()
     df2['data'] = hoje
 
     filename = f'zsul_{mes}.txt'
     if filename not in listdir():
         print(f'Criando arquivo {filename}')
         with open(filename, 'w+', encoding='utf-8') as f:
-            f.write("data;cod;produto;preco;unidade;fator_unid;cod_id;cod_sku;marca\n")
+            f.write("data;cod;produto;preco;unidade;fator_unid;cod_id;cod_sku;marca;ean;ref_id\n")
 
     with open(filename, 'a+', encoding='utf-8') as f:
         for _, row in df2.iterrows():
-            f.write(f"{row['data']};{row['linkText']};{row['product_name']};{row['selling_price']};{row['measurement_unit']};{row['unit_multiplier']};{row['sku_id']};{row['product_id']};{row['brand']}\n")
+            f.write(f"{row['data']};{row['linkText']};{row['product_name']};{row['selling_price']};{row['measurement_unit']};{row['unit_multiplier']};{row['sku_id']};{row['product_id']};{row['brand']};{row['ean']};{row['ref_id']}\n")
 
     print(f'[{STORE_NAME}] {len(df2)} produtos gravados em {filename}')

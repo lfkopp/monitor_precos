@@ -13,6 +13,7 @@ def simplify_product_data(products):
         offer = sellers[0].get("commertialOffer", {}) if sellers else {}
         images = items[0].get("images", []) if items else []
 
+        ref_id_list = items[0].get("referenceId", []) if items else []
         simplified_product = {
             'linkText': product.get("linkText", ""),
             "product_name": product.get("productName", ""),
@@ -28,7 +29,8 @@ def simplify_product_data(products):
             "sku_id": items[0].get("itemId", "") if items else "",
             "product_id": product.get("productId", ""),
             "brand": product.get("brand", ""),
-            "brand_id": product.get("brandId", ""),
+            "ean": items[0].get("ean", "") if items else "",
+            "ref_id": ref_id_list[0].get("Value", "") if ref_id_list else "",
             "available_quantity": offer.get("AvailableQuantity", 0),
             "seller": offer.get("seller", ""),
         }
@@ -125,11 +127,11 @@ if todos:
     if filename not in listdir():
         print(f'Criando arquivo {filename}')
         with open(filename, 'w+', encoding='utf-8') as f:
-            f.write("data;cod;produto;preco;preco_lista;unidade;fator_unid;cod_id;cod_sku;marca;disponivel\n")
+            f.write("data;cod;produto;preco;preco_lista;unidade;fator_unid;cod_id;cod_sku;marca;ean;ref_id;disponivel\n")
 
     with open(filename, 'a+', encoding='utf-8') as f:
         for _, row in df.iterrows():
-            f.write(f"{hoje};{row['linkText']};{row['product_name']};{row['selling_price']};{row['list_price']};{row['measurement_unit']};{row['unit_multiplier']};{row['product_id']};{row['sku_id']};{row['brand']};{row['available_quantity']}\n")
+            f.write(f"{hoje};{row['linkText']};{row['product_name']};{row['selling_price']};{row['list_price']};{row['measurement_unit']};{row['unit_multiplier']};{row['product_id']};{row['sku_id']};{row['brand']};{row['ean']};{row['ref_id']};{row['available_quantity']}\n")
 
     print(f'[{STORE_NAME}] {len(df)} produtos gravados em {filename}')
 else:
