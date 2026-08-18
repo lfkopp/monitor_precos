@@ -1,0 +1,260 @@
+data;id;produto;detalhes;preco;categoria
+2026-08-17;7c644f88-090f-4551-aba1-a87992843a2d;Nutry Tube Whey Cookies 38g;;10.79;Matinais
+2026-08-17;2683b062-dd9b-4d53-9cfc-a92de31f2a2d;Barrinha Proteica Salted Caramel Eat Clean 45g;Embalagem 45g;17.27;Matinais
+2026-08-17;6438d0f8-46b4-40d1-bd1b-c8e05a8b5d6f;Barra de Cereal Brigadeiro Zero Ritter 75g;Embalagem 75g;10.78;Matinais
+2026-08-17;39ef7334-45d7-4ceb-9387-3e0979b0b90a;Barra de Cereal Morango, Aveia com Chocolate 80g Ritter Leve 4un Pague 3un;Embalagem 4un;6.47;Matinais
+2026-08-17;207a72c0-e608-46ae-82ca-0c9166e12f70;Barra de Frutas Banana Cobertura Chocolate Nutry Caixa 60g;Embalagem 60g;11.86;Matinais
+2026-08-17;64777e8e-0ad4-4f57-9bf9-60f4df2403c2;Barra de Cereal Avelã com Chocolate Nutry 66g;Embalagem 66g;6.47;Matinais
+2026-08-17;24376226-5d76-4edc-912c-c3b1b0bebfb4;Barra De Proteina Pinati Cups Cookies And Cream 21G;;9.61;Matinais
+2026-08-17;0ce36d66-065a-4202-8ab0-c153015725c5;Barra Double Bar Banana Amendoim Chocolate sem Açucar Pinati 35g;Embalagem 35g;6.47;Matinais
+2026-08-17;b7694f98-92c7-4960-b654-2ba0738a3e15;Barra de Cereal Pinati Nuts Coco 120g Embalagem Leve 4un Pague 3un;Embalagem 4un;10.78;Matinais
+2026-08-17;e64ae2fe-8b55-4ef8-8748-cf2dd0623f8f;Barra de Cereal Pinati Nuts Banana 120g Embalagem Leve 4un Pague 3un;Embalagem 4un;10.78;Matinais
+2026-08-17;94c12c01-74bf-4065-b6e5-e7199f602ec7;Barra Double Bar Brigadeiro, Amendoim e Chocolate Meio Amargo Pinati 35g;Embalagem 35g;6.47;Matinais
+2026-08-17;93617c53-742e-41a9-862e-0bd1dc57f16f;Barra de Cereal Frutas Vermelhas Nutry 66g com 3un;Embalagem 66g;6.47;Matinais
+2026-08-17;032f5efe-7574-4836-a434-a373284ae66a;Ravioli de Bufala Congelado Spoleto 400g;;30.77;Frios e Laticínios
+2026-08-17;3e491987-d006-4437-838c-f9bd776ae171;Ravioli Massa Italiana de Presunto Cru Rana 250g;;48.59;Frios e Laticínios
+2026-08-17;23216cc3-0911-4e2c-b86e-65cb95ad0850;Massa Ravioli Quatro Queijos Rana 250g;;48.59;Frios e Laticínios
+2026-08-17;0c73dda2-74fc-4650-875d-e50d6cb670e2;Massa Ravioli Recheada com Ricota e Espinafre Rana 250g;;48.59;Frios e Laticínios
+2026-08-17;55be9a96-ef73-4ff7-a8a4-7a70bba2be27;Massa Folhada Arosa 400g;Embalagem 400g;31.85;Frios e Laticínios
+2026-08-17;2ce2f3b9-3b3d-44c3-9aa9-3a7fc3a8ba46;Talharim Mezzani 500g;Pacote 500g;19.43;Frios e Laticínios
+2026-08-17;105a01f7-2162-4549-8f33-6a53c3c4ad6b;Nhoque de Batata Mazza;;9.71;Frios e Laticínios
+2026-08-17;6463e19e-cfeb-48cf-b26e-222b540c1e41;Massa Ravioli De Carne Spoleto;;30.77;Frios e Laticínios
+2026-08-17;ef71d940-0fa0-4680-9fd6-b3c474940b5c;Ravioli de Carne Mezzani 400g;Embalagem 400g;15.65;Frios e Laticínios
+2026-08-17;a943b9d9-70ae-4361-ba6e-dc58c405008d;Massa Macn Cheese Calabresa Sadia 350g;Pacote 350g;12.95;Frios e Laticínios
+2026-08-17;f04cf814-c8cf-4f28-bed8-c5acb75b7022;Massa Para Alimento Rap10 Integral 330g;Embalagem 330g;15.65;Frios e Laticínios
+2026-08-17;3b10c3a5-eed7-427d-9dc5-ea02254e4767;Ravioli Recheado com Ricota e Berinjela Alla Norma 250g;;53.98;Frios e Laticínios
+2026-08-17;7dca06a6-f238-491e-ba7d-2504048243b3;Sal Grosso para Churrasco Ita 1kg;Embalagem 1kg;4.63;Alimentos Básicos
+2026-08-17;702a1383-a8af-4140-8e31-ec34e4b89a4f;Sal Grosso Churrasco Cisne 1kg;Pacote 1kg;5.93;Alimentos Básicos
+2026-08-17;3382d490-e5f5-4084-8c24-e357eb46b8df;Sal Grosso Tempemar com Ervas Finas 500g;Embalagem 500g;6.47;Alimentos Básicos
+2026-08-17;06b84b23-ec98-44ed-9a0b-fe1630d301f5;Sal Grosso para Churrasco Br Spices 330g;Embalagem 330g;23.75;Alimentos Básicos
+2026-08-17;739b754d-c6af-4798-83e6-198bab79a655;Sal Grosso & Chimichurri com Moedor Br Spices 100g;Embalagem 100g;30.13;Alimentos Básicos
+2026-08-17;d3351063-e336-450b-998e-fea85f4f8ea6;Sal de Parrilla Para Churrasco Br Spices 1,010kg;Embalagem 1,1kg;38.87;Alimentos Básicos
+2026-08-17;3b3333fa-7c61-4429-bf91-afae7c98d3f4;Sal Parrilla Chimichurri Tempemar Pote 400g;Embalagem 400g;18.25;Alimentos Básicos
+2026-08-17;e80f6860-2038-4dea-af5e-985c636b430a;Sal do Himalaia Moído Tempemar Pcte 250g;Embalagem 250g;9.71;Alimentos Básicos
+2026-08-17;66c28060-e56b-43a3-b21c-20148d55f8be;Sal Rosa e Pimenta Do Reino Br Spices com Moedor Vidro 90g;Embalagem 90g;30.13;Alimentos Básicos
+2026-08-17;ad52cc36-b9ad-4aed-a87d-50f8f26d64b5;Sal Rosa do Himalaia Ervas Finas com Moedor Br Spices 100g;Embalagem 100g;28.06;Alimentos Básicos
+2026-08-17;02b0bd88-f95a-4c2d-a31d-a42faa5b22cc;Sal Rosa Do Himalaia Fino Br Spices 500g;Embalagem 500g;20.51;Alimentos Básicos
+2026-08-17;337db2ed-e182-4fb5-b18d-160c78025295;Sal Tempem Parrilla Defumado 450g;Embalagem 450g;18.25;Alimentos Básicos
+2026-08-17;88acf8dd-8611-4f4a-9f74-9d101d031886;Biscoito Doce Recheado Morango Panco 140g;Pacote 140g;2.69;Biscoitos e Salgadinhos
+2026-08-17;0d57dc13-b5d5-42d2-a242-9152836382c4;Biscoito Piraquê Doce com Leite Maltado Black Chocolate e Recheio Baunilha 85g;Embalagem 85g;3.77;Biscoitos e Salgadinhos
+2026-08-17;2aec5688-b4ce-468b-b1e1-f4abe9242e5a;Biscoito Recheado Chocolate Piraquê 160g;Pacote 160g;4.31;Biscoitos e Salgadinhos
+2026-08-17;b56ef522-029e-4225-83de-7f12101e9f65;Biscoito Recheado Oreo Milkshake de Morango 90g;Embalagem 90g;4.96;Biscoitos e Salgadinhos
+2026-08-17;3fc469c5-d135-4c3f-aed3-ad867f8a9492;Biscoito Sabor Choco Brownie Netflix Bauducco 80g;Pacote 80g;11.87;Biscoitos e Salgadinhos
+2026-08-17;11ce5de3-a533-4c9c-a0c1-2c40cff21b9c;Biscoito Recheado de Cacau com Baunilha Sem Glúten e Zero Açúcar Natural Life 90g;Pacote 90g;9.71;Biscoitos e Salgadinhos
+2026-08-17;a341b308-6c9e-4a85-b20b-92fca1ba8a73;Biscoito Recheado Sabor Creme de Morango e Chocolate Hersheys 41,9g;Unidade 41,9g;6.47;Biscoitos e Salgadinhos
+2026-08-17;c27faf33-44c5-476d-b474-0e67a5c1a73f;Biscoito Recheado Maltado Sabor Chocolate Maltado Piraquê 85g;Embalagem 85g;3.77;Biscoitos e Salgadinhos
+2026-08-17;489bd6ea-1719-44b2-b80e-582efe66e09b;Biscoito Recheio Supreme Chocolate com Creme de Avelã Piraquê 80g;Embalagem 80g;4.09;Biscoitos e Salgadinhos
+2026-08-17;c75ffe54-50dc-4b55-b35a-9830d749d0ad;Biscoito Recheadinho Chocolate Bauducco 104g;Pacote 104g;5.39;Biscoitos e Salgadinhos
+2026-08-17;c132e986-f62d-4ef0-8104-29752c9382f0;Biscoito Recheado Mini Oreo Original 35g;Embalagem 35g;4.31;Biscoitos e Salgadinhos
+2026-08-17;83d15cb8-8296-4469-9048-f139ef94d89c;Biscoito Recheado Goiabinha Bauducco 112g;Pacote 112g;5.39;Biscoitos e Salgadinhos
+2026-08-17;94538178-5ccf-4b9b-b157-5cbb302eb5a0;Bebida À Base de Soja Original Ades Caixa 1l;Caixa 1l;9.71;Bebidas
+2026-08-17;c47b4e56-a03c-4090-b567-f70582203a21;Bebida À Base de Soja Uva Ades 1l;;9.39;Bebidas
+2026-08-17;f89752d1-abdb-4623-8551-b6af2477104d;Bebida de Soja Fruta Sabor Laranja Ades 1l;;9.71;Bebidas
+2026-08-17;82350cad-17f6-4eaf-a3c0-13cdaa14a091;Bebida À Base de Soja Sabor Abacaxi Ades 1l;Caixa 1l;9.39;Bebidas
+2026-08-17;096b6f99-06d9-4282-88ce-c66896c8772e;Nude Leite de Aveia Baunilha 1l;Colocamos Um Toque de Baunilha Nesse Nude Para Você. Sem Muitas Delongas. Quente Ou Frio Mingau Ou Smoothie Café Ou Chá Tanto Faz, Tire Suas Próprias Conclusões. Cinco Ingredientes Água, Aveia, Cálcio de Algas, Sal Marinho e Extrato Natural de Baunilha.  - Sem Ingredientes Impróprios - Sem Glúten - Sem Lactose - Fonte de Cálcio - Fica Bom No Smoothie, No Shake, No Mingau, Na Granola, No Café Ou Puro - Pode Tomar Quente Ou Gelado - Baixa Pegada de Carbono;24.82;Bebidas
+2026-08-17;686fd1d9-f388-4b0b-9d78-10a6885cfee1;Leite Sabor Morango a Tal da Castanha 200ml;;8.63;Bebidas
+2026-08-17;15800400-0833-46e4-9b1f-684f3e20035e;Nude Creme de Aveia Sem Glúten 200g;Podemos Provar Que Esse Creme de Aveia Que Vos Escreve, Faz Tudo O Que Aquele Outro Creme Tradicional Faz. Mas Como Não Gostamos de Falar Muito de Nós, Convidamos Você a Tirar Essa Teima Sozinho, Risos.  - Sem Ingredientes Impróprios - Sabor Neutro - Sem Glúten - Sem Lactose - Sem Colesterol Como Todo Produto de Origem Vegetal - Baixo Teor de Sódio - Fica Bom No Ganache, No Strogonoff, No Molho, No Pavê - Baixa Pegada de Carbono;11.87;Bebidas
+2026-08-17;36f3e876-0fac-45cc-aac8-7674fcebcec0;Bebida de Amêndoas Almond Breeze Original 1l;Unidade 1l;25.91;Bebidas
+2026-08-17;06ddf030-2ecf-4eb6-bafa-6892ec8e1493;Bebida Vegetal Possible Caju/Cacau 1l;;23.75;Bebidas
+2026-08-17;2aba5742-4e19-4ec1-a27a-6ec065ceca5f;Bebida Vegetal Choconuts A Tal da Castanha 1l;;28.07;Bebidas
+2026-08-17;eeaa3125-b6de-4736-8e07-105bd9a50e01;Bebida Vegetal A Tal da Castanha Caju/Coco 1l;;30.23;Bebidas
+2026-08-17;44cdee71-4c61-44ab-8d25-b357e8d737b7;Bebida Vegetal Castanha de Caju Chocolate A Tal da Castanha 200ml;;8.63;Bebidas
+2026-08-17;e4bd3e47-555d-4a71-8e25-4715ab3c500b;Vinho Tinto Português Porca de Murça Douro Garrafa 750ml;Produto para maiores de 18 anos;75.49;Bebidas Alcoólicas
+2026-08-17;e6577cac-7002-438d-901e-f225153222e2;Vinho Tinto Portugues Villa Do Bispo 750Ml;;48.49;Bebidas Alcoólicas
+2026-08-17;b3dcaf1f-2f68-408e-9c88-bdaa90377572;Vinho Tinto Evel Douro 750ml;Produto para maiores de 18 anos;129.49;Bebidas Alcoólicas
+2026-08-17;522e3a58-80c9-4d70-bbf8-50ed7cddf624;Vinho Tinto Estancia Mendoza Cabernet e Malbec Garrafa 750ml;Produto para maiores de 18 anos;48.49;Bebidas Alcoólicas
+2026-08-17;e3b51bc9-e981-4368-be72-24c623aff157;Vinho Chileno Canto Andino Gran Reserva Chardonnay 750ml;Produto para maiores de 18 anos;86.29;Bebidas Alcoólicas
+2026-08-17;25a206b3-62a0-421e-beaa-65901c50f8aa;Vinho Garibaldi Vg Br Sc Palava 750Ml;;97.09;Bebidas Alcoólicas
+2026-08-17;39547aa0-24b6-4270-81dc-ce7c449f8c39;Vinho Chileno Tinto Family Collection Errazuriz 750Ml Sauvignon Blanc;;75.49;Bebidas Alcoólicas
+2026-08-17;459f5592-87c4-42b7-852c-b237dcd9df8f;Vinho Português Tinto Monte Das Ânforas 750ml;Produto Para Maiores de 18 Anos;86.29;Bebidas Alcoólicas
+2026-08-17;ec57df01-6281-4801-b1d6-760783b11d1a;Vinho Tinto Português Alabastro 750ml;Produto para maiores de 18 anos;86.29;Bebidas Alcoólicas
+2026-08-17;d5933d99-8776-4390-95f4-087b969fc652;Vinho Português Quinta da Pacheca Douro Doc Terroir Tinto 750ml;Produto para maiores de 18 anos;75.49;Bebidas Alcoólicas
+2026-08-17;b2740805-6028-4de7-ba55-44a2e2d03eb1;Vinho Tinto Chileno Errazuriz 1870 Reserva Carmenere 750ml;Produto Para Maiores de 18 Anos;64.69;Bebidas Alcoólicas
+2026-08-17;98b2348f-ad9c-46ad-b9ab-620349b4e74d;Vinho Tinto Camino Los Andes Cabernet Sauvignon Reserva 750ml;Produto para maiores de 18 anos;30.13;Bebidas Alcoólicas
+2026-08-17;0e3be90f-7acd-4e9f-8b10-e6e6565e160a;Camarão Bomar 51/60 Cozido Limpo Pacote 400g;Pacote 400g;80.98;Carnes, Aves e Peixes
+2026-08-17;1ab30b51-061c-4cf5-a51c-9090d104a920;Camarão Sem Cabeça 40/55 Seara Pescados 200g;Embalagem 200g;30.23;Carnes, Aves e Peixes
+2026-08-17;24178338-0482-4e00-9cea-805e607cc094;Camarão Cinza sem Cabeça Cozido Congelado 110/160 Bomar 400g;Embalagem 400g;43.18;Carnes, Aves e Peixes
+2026-08-17;c789dc5c-61ef-4254-8899-2b0b045b0988;Camarão Cinza Sem Casca Frescatto 400g;Embalagem 400g;64.69;Carnes, Aves e Peixes
+2026-08-17;f80ea8b9-e486-487d-a641-5f5f8c02d064;Camarão Cinza Descascado Cozido 80/110 Congelado Bomar 400g;Embalagem 400g;70.18;Carnes, Aves e Peixes
+2026-08-17;1f023c02-e0d8-47e1-9eb3-2fd466cf8c8e;Peixe File Merluza Buona Pesca 500g;Embalagem 1un;31.31;Carnes, Aves e Peixes
+2026-08-17;99a8ef23-a503-415a-b2c5-857fc1ed993f;Filé Tilápia C.Vale Embalagem 400g;Embalagem 400g;28.07;Carnes, Aves e Peixes
+2026-08-17;72f133d4-bea3-4521-8f2b-2f4097b3a11c;Filé de Tilápia Seara 600g;Embalagem 600g;43.09;Carnes, Aves e Peixes
+2026-08-17;c4e0c9d2-8bfb-41b5-a1fa-9a7f1b98c37b;Filé de Tilápia Empanada Seara Pescados 400g;Embalagem 400g;53.98;Carnes, Aves e Peixes
+2026-08-17;86b670a8-44e3-4aaf-9d84-cd5d8aae57a3;Tilápia Bomar 500g;Embalagem 500g;48.58;Carnes, Aves e Peixes
+2026-08-17;ec920742-1483-41bb-bc0a-e23c2d510528;Petisco de Tilápia C.Vale 500g;Embalagem 500g;24.82;Carnes, Aves e Peixes
+2026-08-17;910f6fc1-a8d7-4383-8efa-b4c05d506cf1;Filé de Polaca Buona Pesca 500g;Embalagem 500g;20.4;Carnes, Aves e Peixes
+2026-08-17;9db1aaad-3106-4f5e-96d8-ff43ac388267;Sorvete Kibon Tablito 800ml;Os Fãs de Tablito Vão Adorar Esta Novidade O Sorvete Que Todo Mundo Gosta Agora Vem No Pote.;49.67;Doces e Sobremesas
+2026-08-17;6ed5fa54-8b82-4062-bbeb-1f0318d98e80;Sorvete Caramelo Salgado Bacio Di Latte Pote 490ml;;75.49;Doces e Sobremesas
+2026-08-17;03e5a04f-3c88-4f4b-95f7-cc2b87afe108;Sorvete de Brownie Bacio Di Latte 490ml;;75.49;Doces e Sobremesas
+2026-08-17;078838d7-20a2-45bb-aef7-74e97a8fbf1a;Sorvete Bacio Di Latte Nocciolina Leite e Creme de Avelã com Cacau 490ml;Embalagem 490ml;75.49;Doces e Sobremesas
+2026-08-17;fb1ad345-7538-44d9-8c4b-7a84f72e383e;Sorvete Bacio Di Latte Gianduia 490ml;Embalagem 490ml;75.49;Doces e Sobremesas
+2026-08-17;210550df-8328-480f-ba4f-c6ba8991b5a1;Sorvete Bacio Di Latte Cioccolato Belga 490ml;Pote 400g;75.49;Doces e Sobremesas
+2026-08-17;e47ee7ea-8ff8-4483-9873-07378be0ddf6;Sorvete de Maracujá Com Leite Bacio Di Latte 490ml;;75.49;Doces e Sobremesas
+2026-08-17;49bcea3c-7f76-4812-9d64-d8fcf6217142;Sorvete Especialidades Napolitano Nestlé 1,5l;Pote 1,5l;43.19;Doces e Sobremesas
+2026-08-17;261131f5-ab66-45f4-9ddc-cbae2e1c4c17;Sorvete Sabor Tapioca La Basque 490ml;Pote 1unidade;42.11;Doces e Sobremesas
+2026-08-17;f651a254-57a4-4490-85c3-e359657f89db;Sorvete Sabor Macadâmia La Basque 490ml;Pote 490ml;42.11;Doces e Sobremesas
+2026-08-17;6b67c26d-c38d-4810-9c99-411e043aa6c6;Sorvete La Basque Vanilla Creme Pote 500ml;Pote 500ml;42.11;Doces e Sobremesas
+2026-08-17;f3a71e47-dcc1-488a-8760-dbeee16d06a1;Sorvete La Basque Chocolate Dark Pote 500ml;Pote 500ml;42.11;Doces e Sobremesas
+2026-08-17;71a714d8-0c21-49b2-a955-89694179abf6;Multiuso Poder Natural Cremoso de Limão Cif 450ml;Embalagem 450ml;23.65;Limpeza
+2026-08-17;9b8432d0-bb0d-4ee4-889a-b3be208a35a3;Multiuso Uau Limão Siciliano 500ml;Embalagem 500ml;5.93;Limpeza
+2026-08-17;60420cd8-c86d-40c9-a8b3-949644f0fc54;Multiuso Uau Lavanda 500ml;Embalagem 500ml;5.93;Limpeza
+2026-08-17;7ecb1527-a606-4940-87bc-7fde77a85417;Kit Multiuso Uau 500ml Leve 3 Pague 2;Embalagem 3un;17.26;Limpeza
+2026-08-17;b8c7f5ef-4af1-477d-84c6-a4bf1a83e579;Multiuso Cremoso Original Cif 250ml;Embalagem 250ml;15.1;Limpeza
+2026-08-17;02fc9445-d919-497e-a275-7ae3f0942557;Limpa Piso para Pisos Laminados Lavanda E Alfazema Destac 750ml 20% de Desconto;Embalagem 750ml;21.49;Limpeza
+2026-08-17;eb26dd6d-6ec5-4703-813e-638986b4b7d0;Pasta Multiuso Cristal Rosa 500g;Pote 500g;11.86;Limpeza
+2026-08-17;f716f132-55c7-4b24-951d-fb82b05b4dc2;Saponáceo Cremoso Clássico Sapólio Radium Bombril 450ml;;21.58;Limpeza
+2026-08-17;0fc4c053-94cf-4a86-8374-6b1e590f7285;Água Tecidos Cereja e Avelã 500ml;Rosa É Ideal Para Perfumar Tecidos com Elegância, Praticidade e Sofisticação No Dia a Dia, Deixando Roupas, Cortinas, Lençóis e Estofados com uma Fragrâ;16.18;Limpeza
+2026-08-17;b62874fe-0c03-42d8-86d5-82203c36e3c5;Bloqueador De Odores  Lavanda Senamax 60ml;Bloqueador de Odores Sanitário Lavanda 60ml Solução Ideal Para Manter O Banheiro Sempre Perfumado, Agradável e Livre de Odores Indesejáveis.;16.18;Limpeza
+2026-08-17;c1da1aa6-c12f-48a6-86ac-aacea7be28d5;Água Para Tecido com Facilitador Chá Branco Senamax 500ml;Água Para Tecido com Facilitador Chá Branco Senamax 500ml;16.18;Limpeza
+2026-08-17;191b283d-dd76-40ac-adeb-3caa360b3b69;Saponéceo Cremoso Classic Sapólio Radium 250ml;Embalagem 250ml;11.86;Limpeza
+2026-08-17;d7eaa4e2-0719-4915-8fcd-d8b25c4b51e2;Sabonete Líquido de Glicerina Phebo Odor de Rosas 320ml;Novo Frasco com Molde Exclusivo e Maior Volumetria. Primeira Fragrância da Perfumaria Phebo, Criada Na Decada de 1930. Glicerina Vegetal. Fragrâncias Únicas e Marcantes. Deixa a Pele Macia e Perfumada. Fórmula Biodegradável. Livre de Parabenos e Ingredientes de Origem Animal. Conteúdo 320ml.;28.06;Higiene e Cuidados Pessoais
+2026-08-17;e16b15b2-72d9-4ed8-8fa6-4904ff2023cb;Sabonete Líquido de Glicerina Granado Erva-Doce 300ml;Formulado com Glicerina Vegetal e Ph da Pele. Limpa com Suavidade a Pele, Deixando-a Macia e Perfumada. Enriquecido com Alta Concentração de Extrato Natural de Erva-Doce, Que Acalma e Suaviza a Pele. Indicado Para a Limpeza Diária de Todos Os Tipos de Pele. Fórmula Biodegradável. Livre de Parabenos e Ingredientes de Origem Animal. Conteúdo 300ml.;31.31;Higiene e Cuidados Pessoais
+2026-08-17;31e03870-b670-445b-aca2-45ff13f48e40;Sabonete Líquido Morango Silvestre Senamax 500ml;Frasco com 500ml;16.18;Higiene e Cuidados Pessoais
+2026-08-17;d2e04aed-7e7e-4b53-b0ab-80d1d93d2463;Sabonete Líquido Orquídea Negra Senamax 500ml;1 Unidade;16.18;Higiene e Cuidados Pessoais
+2026-08-17;dbbd5901-3d1f-4029-bd97-3b994f54b2f3;Sabonete Líquido Protex Sérum Antibacteriano Retinol + Niacinamida 250ml;;23.65;Higiene e Cuidados Pessoais
+2026-08-17;8712f3ae-85d4-4622-b7e2-0eb305011d1e;Sabonete Líquido de Glicerina Phebo Amazonian 320ml;Novo Frasco com Molde Exclusivo. Glicerina Vegetal. Fragrâncias Únicas e Marcantes. Deixa a Pele Macia e Perfumada. Fórmula Biodegradável. Livre de Parabenos e Ingredientes de Origem Animal. Conteúdo 320ml;31.21;Higiene e Cuidados Pessoais
+2026-08-17;a05a212b-1d53-404b-a3dc-765d6d6a4b20;Sabonete Líquido Protex Vitamina e 250ml;;19.33;Higiene e Cuidados Pessoais
+2026-08-17;6cd7b7e2-d4d4-4d70-9988-5940dd4dfc3c;Sabonete Líquido de Glicerina Phebo Lima da Persia 320ml;Novo Frasco com Molde Exclusivo. Glicerina Vegetal. Fragrâncias Únicas e Marcantes. Deixa a Pele Macia e Perfumada. Fórmula Biodegradável. Livre de Parabenos e Ingredientes de Origem Animal. Conteúdo 320ml;28.06;Higiene e Cuidados Pessoais
+2026-08-17;5572f6e7-ede8-4bdc-b2a6-a4a1eac74732;Sabonete Líquido Natural Extracts Lavanda Zarb Cosméticos 1l;Embalagem 1l;11.86;Higiene e Cuidados Pessoais
+2026-08-17;12a3a024-2696-4a91-bf0d-a1aff2718054;Sabonete Líquido Íntimo Dermacyd Delicata Pro-Bio Jasmim 200ml + 100ml Kit;Kit 2unidades;26.98;Higiene e Cuidados Pessoais
+2026-08-17;cfdc8494-dd2b-491a-a46e-486ad5288050;Sab Liq Palmolive Melancia E Lichia Refil 200ml;Embalagem 200ml;9.71;Higiene e Cuidados Pessoais
+2026-08-17;3d6bb6f7-92e3-4560-998a-b2c60c052279;Sabonete Liquido Nivea Creme Care Refil 200ml;Embalagem 200ml;12.94;Higiene e Cuidados Pessoais
+2026-08-17;a9272cd6-95f7-4886-a33e-89e564fd3285;Tapetes Higiênico Smiles Good Pet 7un;Embalagem 7un;24.82;Pet Shop
+2026-08-17;7e91b9c4-d00e-440e-9867-7dd44108d11f;Ração Para Gatos Adultos Sabor Carne Whiskas 900g;Pacote 900g;21.59;Pet Shop
+2026-08-17;5d99af03-4eb4-40be-b5b2-ce5e211dd097;Ração Para Caes Dog Chow Carne E Frango Medio E Grande 900G;;19.43;Pet Shop
+2026-08-17;cb2bf636-9314-433b-b310-3522430a8db7;Ração Úmida Para Gatos Adultos Sabor Peixe Jelly Whiskas 85g;;4.31;Pet Shop
+2026-08-17;e8c32293-13d7-45f9-a39c-ec1510bbefc0;Ração Para Cães Adultos de Raças Médias e Grandes Sabor Carne e Vegetais Pedigree 900g;;24.83;Pet Shop
+2026-08-17;c640a22e-68e7-47fb-866f-052fbcf458ab;Ração Para Gatos Adultos Castrados Sabor Carne Whiskas 900g;Embalagem 900g;21.59;Pet Shop
+2026-08-17;fed546f2-aaa7-405b-8781-a9196c164c50;Ração Úmida Sachê Purina Friskies Para Gatos Adultos Sabor Frango Ao Molho 85g;Sachê 85g;3.23;Pet Shop
+2026-08-17;d2084ac9-8045-4de9-a105-ae4400d98f77;Ração Passaro Forte Papagaio 500g;Embalagem 500g;14.02;Pet Shop
+2026-08-17;ebb33f50-4101-41c8-b2f3-30b74b0e75b9;Ração Úmida Sachê Dog Chow Cães Adultos Sabor Cordeiro - 100 G;Sachê 100g;4.31;Pet Shop
+2026-08-17;2b03965e-ec85-41ed-9dd9-b9f3faa2c9b1;Petisco Dreamies Para Gatos Adultos Sabor Carne Tentadora 150g;Embalagem 150g;24.73;Pet Shop
+2026-08-17;d29cbc3f-fa98-4d6f-8f38-b25899917a19;Sachê Purina Dog Chow Extra Life Cães Adultos Todos Os Tamanhos Frango 100g;Sachê 100g;3.23;Pet Shop
+2026-08-17;844bd00d-f300-4a15-b31d-41c29711245e;Lata Patê Carne Whiskas  290g;Lata 290g;17.26;Pet Shop
+2026-08-17;f431c9d7-8ea0-49c7-8afb-c8fa6777dffc;Tempermix Crowne Louro Moído 8g;Pote 8g;3.12;Molhos, Condimentos e Conservas
+2026-08-17;d09b74e2-0b67-4faf-9a56-72f019887d30;Especiarias Br Spices Molho Chimichurri Embalagem 180g;Embalagem 180g;39.95;Molhos, Condimentos e Conservas
+2026-08-17;9516b601-d2ad-41bd-97da-3bd034c89593;Noz Moscada Moída Tempero Crowne 4g;Embalagem 4g;4.2;Molhos, Condimentos e Conservas
+2026-08-17;e14d616e-a254-4f3b-9fd2-26b95685d8a8;Tempero Manjericão Crowne 3g;Embalagem 3g;1.61;Molhos, Condimentos e Conservas
+2026-08-17;ac83ba6b-c463-4ded-b53d-e3f0ed632993;Tempero Misto Crowne 8g;Embalagem 8g;3.01;Molhos, Condimentos e Conservas
+2026-08-17;23a2e4af-82e5-4d83-9e83-e4b391fd99ba;Cominho Moído Crowne 8g;Embalagem 8g;3.66;Molhos, Condimentos e Conservas
+2026-08-17;fc8cc4be-98bb-4d17-ac80-b6c159c8ce37;Tempero Crowne Orégano 3g;Embalagem 3g;2.47;Molhos, Condimentos e Conservas
+2026-08-17;434e18b8-a24e-4e96-a639-86fc8c4ac80d;Pimenta do Reino em Grão Crowne 8g;Embalagem 8g;3.77;Molhos, Condimentos e Conservas
+2026-08-17;57b1e4d6-8992-45cb-be06-5d3bfd135b15;Chimifrango Tempemar Embalagem 24 G;Embalagem 24g;7.01;Molhos, Condimentos e Conservas
+2026-08-17;fd67233e-5040-4295-bfe3-31ba66e7da79;Mix Pimenta Tempemar Pote 52g;Pote Zpote;26.89;Molhos, Condimentos e Conservas
+2026-08-17;83c40e17-a9c4-449e-99db-c1f067d655af;Noz Moscada Grão Crowne 1 Un;Embalagem 1un;5.39;Molhos, Condimentos e Conservas
+2026-08-17;f65008ee-4b28-4414-8ce3-0cb8958d56b6;Cominho com Pimenta Crowne 8g;Embalagem 8g;3.77;Molhos, Condimentos e Conservas
+2026-08-17;3b3b2333-5e04-471a-ae39-fe6a26406a63;Toalha Papel Absoluto Multiuso 120fls 2un;;4.85;Bazar e Utilidades
+2026-08-17;e59ab30f-8f50-45ec-b6c1-dcc204fb9ad3;Filme de Pvc Mello 28cmx30m;Pacote 1un;10.78;Bazar e Utilidades
+2026-08-17;5f044c09-67a5-43b9-a027-f61aeafb754e;Sacos Plásticos Zip Transparentes Formato Pote Tamanho G Plasvale 3un;Embalagem 3un;10.79;Bazar e Utilidades
+2026-08-17;2a1f88ff-16ef-4a27-9b4b-31c759f6bc46;Papel Antiaderente Assa+Leve Dover Roll 30cm X 3m Embalagem 1 Un;Embalagem 1un;15.1;Bazar e Utilidades
+2026-08-17;aee47c9f-efb4-40c1-8fef-cd1652716d59;Copo Plástico Descartável Transparente Cristalcopo 200ml Pacote 100 Un;Pacote 100un;9.71;Bazar e Utilidades
+2026-08-17;9cdddb51-03c2-40ba-b362-a3e58a30a31a;Guardanapo de Papel Coquetel Pequeno 22cmx23cm com 50 Unidades;Pacote 50un;3.01;Bazar e Utilidades
+2026-08-17;8942a84d-5b90-4c91-a1b7-406da32a93e2;Sacola Ecologica Retornavel Caprala;;8.63;Bazar e Utilidades
+2026-08-17;dbc0fe92-b490-4b3f-bbd2-99f3113a0877;Guardanapo Coquetel 30x33cm Embalagem 50 Un;Embalagem 50un;6.47;Bazar e Utilidades
+2026-08-17;597e1063-f0a1-4d02-8424-03a76bf2d587;Filtro de Papel Nº 103 Melitta 30un;Embalagem 30un;5.38;Bazar e Utilidades
+2026-08-17;cd1154ba-2358-440c-af09-1d7d5d2777d2;Papel Alumínio em Rolo Pratic 7,5m X 45cm Wyda;;17.27;Bazar e Utilidades
+2026-08-17;49efea83-b81d-45d8-a501-593607c01b43;Saco P/Freezer Bag 20x33cm 1kg 100un;Embalagem 100un;5.39;Bazar e Utilidades
+2026-08-17;973f9c04-e163-4b61-b0be-27623f19861e;Toalha de Papel Folha Dupla Clássica 19x20cm Snob 2un;Embalagem 2un;9.71;Bazar e Utilidades
+2026-08-17;cfa5f384-5854-441b-ac22-bee1a29e281a;Leite Em Pó Semidesnatado Gloria 260g;Embalagem 300g;18.35;Leites
+2026-08-17;5ba4263a-efcf-42d8-8bab-f81f436c12bb;Leite Pó Semidesnatado Ninho Adulto Lata 350g;;31.31;Leites
+2026-08-17;199c7f13-9929-4520-857a-03e6bf372ae5;Leite Desnatado Piracanjuba 1l;Embalagem 1l;8.31;Leites
+2026-08-17;cceaa993-1c12-440e-8297-b1d5c20f3960;Leite em Pó Desnatado Itambé 300g;Lata 300g;24.83;Leites
+2026-08-17;ec528550-da32-4cbd-a484-4607a5c12249;Leite Pó Instantâneo Desnatado Piracanjuba 300g;;29.15;Leites
+2026-08-17;02f46104-7037-4cb3-afd4-28ca43dcd6e6;Leite em Pó Molico Lata 280g 2x Mais Cálcio;Lata 280g;21.59;Leites
+2026-08-17;bede6989-b0f2-40b6-9066-0d19a1cef111;Bebida Láctea Sabor Chocolate Zero Lactose Zero Adição de Açúcar com 23g de Proteínas e 8g de Colágeno Parmalat 250ml;Garrafa 250ml;12.19;Leites
+2026-08-17;0c97ec81-ff2f-477e-90d3-9af6e9f12782;Leite Pó Ninho Integral Lt 380g;Leite em Pó Integral Para Crianças.Traz O Exclusivo Mix Forti+.Rico em Cálcio, Ferro, Zinco, Vitaminas A, D, C e E.Rendimento 400 G = 3,1 Litros 15 Copos.Não Contém Glúten.;32.39;Leites
+2026-08-17;2cf5790f-9205-40c3-a101-e2c3ee56c662;Leite Em Pó Glória Integral Instantâneo Sachê 360g;Imagem Ilustrativa , Embalagem 360g;18.89;Leites
+2026-08-17;885e591e-522e-4d3e-ae7b-8f3f5519ee23;Leite Po Bom Destino A2a2 200g;;19.43;Leites
+2026-08-17;56577200-bd33-420c-84ab-630895a30516;Leite Em Pó Integral Fazendas Do Rio Sachê 350g;Embalagem 350g;17.26;Leites
+2026-08-17;7b36f4bf-c17b-4bbd-8986-bdaddeff1118;Composto Lácteo Crescimento +1 Ninho 400g;Lata 400g;34.55;Leites
+2026-08-17;fe655818-e302-4704-b0bf-24be964d3d08;Mistura Para Bolo Chocolate Regina 400g;Embalagem 400g;7.01;Padaria
+2026-08-17;c1ed4b02-608a-4d6e-b36e-05736b019727;Mistura Brownie Tio João 270g Sem Glúten;Pacote 270g;16.19;Padaria
+2026-08-17;e74b8edc-e073-4016-b3c8-dc701ec8aced;Mistura Para Bolo Sabor Chocomousse Fleischmann 400g;Embalagem 400g;11.87;Padaria
+2026-08-17;2bc96c2b-3bb4-48c8-9ef9-be0a7d3af10d;Mistura Para Bolo Aerado Chocolate Fleischmann Clássicos Sachê 390g;;11.87;Padaria
+2026-08-17;bbacace2-f462-48e1-808a-432cc2a47a34;Mistura Para Bolo Regina Brownie 400g;Unidade 400g;9.39;Padaria
+2026-08-17;ee9bb1a9-e22f-4b84-a477-00fb5b87444b;Mistura Para Bolo de Festa Regina 400g;Embalagem 400g;7.01;Padaria
+2026-08-17;6e31594c-66cb-4261-a2d0-a619727591f1;Mistura Para Bolo Sabor Laranja Regina 400g;Embalagem 400g;7.01;Padaria
+2026-08-17;6104a425-acb0-475e-addd-a0175eb4e434;Mistura Cremogema Sabor Morango Maizena 180g;Embalagem 180g;10.78;Padaria
+2026-08-17;44122619-074c-458c-b36b-c0784c3376e0;Colomba Pascal Mousse de Chocolate Bauducco 600g;Embalagem 600g;45.25;Padaria
+2026-08-17;11c7bebc-ce7b-4265-9734-9662c51de459;Pão de Forma Integral Panco 500g;Embalagem 500g;11.87;Padaria
+2026-08-17;912ea4b4-66b9-4a09-9f66-f7c325101428;Pão Integral Wickbold 450g;Embalagem 450g;8.63;Padaria
+2026-08-17;fa70904e-6344-4ded-adda-8f5da71c0399;Pão de Forma Nutrella 100% Natural 450g;Pacote 450g;18.35;Padaria
+2026-08-17;a5f006e3-9c05-42ee-8ba8-6d4d3926ccf2;Magnesio Malato 60 Capsulas Wod Nutrition;;43.19;Suplementos e Vitaminas
+2026-08-17;5e3d55f7-f595-45fe-bf21-166688999597;Calcio 400mg Vit.D 10mg Vit.K 65mg Mag 65mg 60 Capsulas;;36.71;Suplementos e Vitaminas
+2026-08-17;23e2b6df-ead1-45ea-be3d-53f9c5be5c00;Suplemento Protein Abacaxi com Hortelã Mamba Water  350ml;;14.03;Suplementos e Vitaminas
+2026-08-17;daf92581-3b20-43d0-b2e7-ec610e9798ad;Suplemento Alimentar Ferro Com Vitamina B12 60 Cápsulas Wod Nutrition;;50.75;Suplementos e Vitaminas
+2026-08-17;4590095f-f9af-4f92-8a93-a131a9cf7ea0;Suplemento Alimentar de Vitamina C e Magnésio Líquido Morango e Limão Jungle Low Carb Frasco 500ml;;10.78;Suplementos e Vitaminas
+2026-08-17;af1347e0-7a12-4e49-b834-63fabbbaed62;Melatonina Lavitan Sabor Morango Cimed 90 Comprimidos Mastigáveis;Caixa 90cpr;25.91;Suplementos e Vitaminas
+2026-08-17;196b58ea-ecef-415f-8a12-41d024f3338e;Lavitan Vitamina 50+ com 60 Comprimidos;Caixa 60cpr;32.39;Suplementos e Vitaminas
+2026-08-17;56e529c0-60d6-4455-858e-8832becde677;Lavitan 50+ Mulher Multivitamínico 60 Comprimidos  Energia, Imunidade E Ossos;;32.39;Suplementos e Vitaminas
+2026-08-17;2438699c-7c78-40f7-90aa-1d1a3f1bdc7a;Lavitan Az Mulher 60 Comprimidos  Multivitamínico Completo Para Energia, Imunidade E Beleza;Embalagem 60cps;32.29;Suplementos e Vitaminas
+2026-08-17;3423b2b0-2124-4e80-b1a4-053a74d9c5b9;Lavitan Memória com 60 Comprimidos Revestidos;Caixa 60cps;32.39;Suplementos e Vitaminas
+2026-08-17;ea474b28-a780-4ec2-b8df-001e73d386f1;Vitamina D3 2000Ui 60 Capsulas Wod Nutrition;;43.19;Suplementos e Vitaminas
+2026-08-17;509b7611-0323-437b-8fe1-4691908f3b77;Suplemento Alimentar Whey Protein Sabor Chocolate Piracanjuba 450g Em Pó;Embalagem 450g;143.63;Suplementos e Vitaminas
+2026-08-17;bf5ee633-8d68-4076-b21c-f3d83d4df66f;Dadinho de Tapioca de Cebola Harus 300g;Unidade 300g;20.51;Congelados e Resfriados
+2026-08-17;3c446485-2f81-40ae-bc1f-adc086e4fa23;Tirinhas de Frango Tradicional Perdigão 300g;Pacote 300g;10.25;Congelados e Resfriados
+2026-08-17;9e0efd69-b4c7-4704-a7b7-ea67787ad26d;Macn Cheese Hot Bowls Tradicional Congelado Sadia 300g;Embalagem 300g;12.95;Congelados e Resfriados
+2026-08-17;753f35e1-250a-49ad-850e-2dd6bfa1bd4a;Almondegas de Carne Bovino Sadia 500g;Caixa 500g;29.15;Congelados e Resfriados
+2026-08-17;cabc381e-fe1c-4494-a811-6b60d9e615f0;Tirinhas de Peixe Empanadas Seara Pescados 300g;Embalagem 300g;38.87;Congelados e Resfriados
+2026-08-17;97737938-7496-4a26-8e36-9e882a2b93d3;Torta de Palmito E Requeijão Sadia 500g;Embalagem 500g;25.91;Congelados e Resfriados
+2026-08-17;27ac4d6c-6106-4464-b3ce-1e0fc605d303;Empanado de Frango Perdigão Mini Chicken Com Queijo 275g;Embalagem 275g;9.71;Congelados e Resfriados
+2026-08-17;5bac7e68-4e9b-4340-b146-828962a04aae;Dadinho de Tapioca Calabresa Harus 300g;Pacote 300g;20.51;Congelados e Resfriados
+2026-08-17;f05f1aa5-b255-48d3-87c5-c5077d716e56;Dadinho de Tapioca Harus Tradicional 300g;Pacote 300g;20.51;Congelados e Resfriados
+2026-08-17;82faa34f-574b-4a7d-9bb1-fc9403662e22;Torta Congelada Caipira de Frango Sadia 500g;Embalagem 500g;26.99;Congelados e Resfriados
+2026-08-17;cfe2f4c6-8683-42f4-87d6-945b92edc95c;Nhoque Ao Molho Bolonhesa Hot Bowls Pote  Sadia 300g;;12.95;Congelados e Resfriados
+2026-08-17;c5a36606-7784-478d-a2c8-414200a6f350;Bolinho Bacalhau Bom Porto Embalagem 360g;Embalagem 360g;43.18;Congelados e Resfriados
+2026-08-17;fb6d1bf0-647a-4d0a-acf4-4fa95e6a672f;Ovos de Codorna 30 Unidades;Caixa 30un;11.87;Feira
+2026-08-17;dea6a5b1-9313-4dd4-868a-8b6cd2cfd6be;Ovos Vermelhos Qualiovos Bandeja com 30 Unidades;Bandeja 30un;30.23;Feira
+2026-08-17;239a0d0f-acf5-4cdf-82bc-537687fcbd40;Ovos Caipiras Orgânicos Label Rouge com 10 Unidades;Embalagem 10un;34.55;Feira
+2026-08-17;d61d1127-63c8-4023-9aa7-52083f6743d5;Ovos Caipiras Label Rouge 20 Unidades;Embalagem 20un;43.19;Feira
+2026-08-17;f75815be-6b0f-401d-95d5-9d0ddfbedc9a;Ovo Tipo Grande Vermelho de Galinhas Livres Happy Eggs Mantiqueira 10un;;21.59;Feira
+2026-08-17;ac7bdb07-2ed2-495b-840b-f59099393b03;Ovos Happy Eggs Galinha Livres Ovos Vermelhos Mantiqueira 20 Unidades;Cartela 20un;36.71;Feira
+2026-08-17;727dec3e-7b89-41e4-bc68-83e7022f00fc;Ovos Caipiras Vermelhos Veneza 12 Unidades;Cartela 12un;10.78;Feira
+2026-08-17;60b650ee-b3d7-44a2-b12e-3f3f34d3f7ad;Ovos Vermelhos com Ômega 3 Transparente Mantiqueira 10 Unidades;Embalagem 10un;21.59;Feira
+2026-08-17;64261d23-35a2-4818-9cda-6b8318bca12c;Ovos Caipiras Vermelhos 10 Unidades;Embalagem 12un;21.59;Feira
+2026-08-17;1654a1a2-9f2c-4805-831f-bbd7d1cde0b8;Ovos Brancos Grandes Bandeja 20 Unidades;Embalagem 20un;14.03;Feira
+2026-08-17;aeb0158d-d0b3-4f71-ac0d-690c7b2c05c3;Ovos Brancos Jetiba Embalagem 12 Unidades;Embalagem 12un;12.95;Feira
+2026-08-17;49cfc2a9-c57e-41a0-b74c-dd8115cf75b4;Ovos Brancos Mantiqueira Jumbo Embalagem com 10 Unidades;Cartela 10un;16.73;Feira
+2026-08-17;3e4c9255-1034-4760-82ec-efa16b8f5df3;Lâmpada Superled Ouro 30t 30w 6500k Ourolux;Unidade 1un;17.26;Eletro e Eletrônicos
+2026-08-17;3698e511-aeb9-4d2c-876b-f8924fe87a15;Lamp Ourolux 9w Superled 6500k Bivolt Embalagem 1 Un;Embalagem 1un;4.31;Eletro e Eletrônicos
+2026-08-17;f0bbe2c1-4208-41cd-980a-6f6609595293;Lâmpada Ourolux Led Bivolt 12w 6500k Embalagem 1un;Embalagem 1un;5.38;Eletro e Eletrônicos
+2026-08-17;18520357-cf33-4ea9-9d1d-648b014b1a86;Lâmpada Ourolux Superled Bivolt 6w 6500k Embalagem 1 Un;Embalagem 1un;4.3;Eletro e Eletrônicos
+2026-08-17;02549443-09b9-4f44-9b1a-3a565f5dfade;Lâmpada Superled Alta Potência 50w 4000lm 6500k E27 Ourolux Bivolt;Unidade 1un;26.98;Eletro e Eletrônicos
+2026-08-17;4448b51d-70fc-46c9-b74e-38b2933e660c;Lâmpada Ourolux Led 6500k 15w;Embalagem 1un;6.47;Eletro e Eletrônicos
+2026-08-17;771da818-bad2-4b27-9018-57f4deadb1f7;Lâmpada Controled Sensor de Presença Ourolux 9w 6500k;Embalagem 1un;29.14;Eletro e Eletrônicos
+2026-08-17;01932427-7e28-4102-a083-e5e526643e74;Lâmpada Branca Fria Superled Alta Potência 20t 6500k Ourolux;Unidade 1un;9.7;Eletro e Eletrônicos
+2026-08-17;83450152-7fa4-45d1-b4e9-8e8305aa19a1;Lâmpada Superled Alta Potência 40w E-27 6500k Ourolux Bivolt;Unidade 1un;24.82;Eletro e Eletrônicos
+2026-08-17;f8ddb7c3-afa9-4553-b71e-4c45a8c3071d;Cabo Type-C Usb 1m;Unidade Unidade;24.73;Eletro e Eletrônicos
+2026-08-17;98484c58-ad92-46d4-94bc-fb33f5e3193a;Cabo Usb Android V8;Unidade Unidade;24.73;Eletro e Eletrônicos
+2026-08-17;5bece64e-f3d0-4617-9c84-4f88d89e9539;Carregador Tomada 1 Usb;Unidade Unidade;32.29;Eletro e Eletrônicos
+2026-08-17;8c38fe2c-ab39-4dad-90e1-074dea45683b;Yopro Bebida Láctea Uht Chocolate 23g de Proteínas 250ml;Embalagem 250ml;12.19;Iogurtes
+2026-08-17;43e1ef1d-0fd9-4e89-b6d7-e683707c0003;Bebida Proteica Hydro Protein Uva Moving 500ml;;14.03;Iogurtes
+2026-08-17;ff8f9c67-70c7-4b00-a5ef-6be3771e5ee3;Juice Protein Laranja 300ml Moving;Null;12.95;Iogurtes
+2026-08-17;7eac969a-0616-4376-947d-75d24a341426;Bebida Láctea Morango E Coco Elegê 510g;Bandeja 540g;6.47;Iogurtes
+2026-08-17;459c9461-7121-4272-a614-6c63af4cc824;Bebida Láctea Sabor Morango Com 23g De Proteínas Zero Adição De Açúcar Zero Lactose Parmalat 250ml;;13.49;Iogurtes
+2026-08-17;668ed529-0f6a-4e29-9ef7-893ae8ece993;Bebida Lactea Piracanjuba Zero Açucar Quinoa/Linhaça/Chia Frutas Vermelhas 200ml;Embalagem 200ml;4.63;Iogurtes
+2026-08-17;0a81bc0d-f708-41f8-90af-8ebaa7054ea5;Bebida Láctea Milky Moo Mimosa Brigadeiro Branco Morango Piracanjuba  250ml;;9.71;Iogurtes
+2026-08-17;e7263461-1659-45b9-8113-8a47306a3c4e;Bebida Proteica Hydro Protein Tangerina Moving 500ml;;14.03;Iogurtes
+2026-08-17;5ffc78c8-7733-42a3-a2b9-bf7e0b59471e;Bebida Láctea Kids Sabor Morango Danone 510g;Bandeja 510g;11.22;Iogurtes
+2026-08-17;8a3f4536-2e2f-4bc7-bfe4-6c5828e65881;Nude Shake Proteico Cacau - 250ml;15 G de Proteína. Sem Lero-Lero, com Cacau e Gosto de Gostoso. Uma Bebida Proteica Pra Beber Antes, Durante Ou Depois Do Treino Ou Quando a Sua Barriga Roncar.  - 15g de Proteína - Sem Ingredientes Impróprios - Sem Glúten - Sem Lactose - Sem Adoçantes - Aqui Tem Bcaa - Fica Bom Antes, Depois Do Treino Ou Quando a Fome Bater - Pode Tomar Quente, Mas Gelado É Mais Gostoso - Baixa Pegada de Carbono;14.02;Iogurtes
+2026-08-17;f6d3f611-9984-43d4-a496-f6f3fd7e8c19;Beb Lac Qui/Lin/Ch Fr Rox 250ml Piracanjuba;Bebida Láctea com Quinoa, Linhaça e Chocolate Sabor Frutas Roxas, Cremosa e Nutritiva, Ideal Para Lanches Rápidos e Consumo Diário. Embalagem de 250 Ml da Marca Piracanjuba.;6.47;Iogurtes
+2026-08-17;2023c2ca-4775-4f5b-8d3f-a4d48d27e869;Bebida Lactea Piracanjuba Milky Moo Pandora 250ml;;9.71;Iogurtes
+2026-08-17;14221d17-a47f-44d3-abc9-2dfe3f9ac305;Farinha Panko Alfa 200g;Pacote 200g;17.27;Étnicos
+2026-08-17;991c6624-7e52-4a77-a83c-ff1d95e6644a;Molho Shoyu Italianinho 150ml;Embalagem 150ml;3.77;Étnicos
+2026-08-17;b0740086-d18a-4afe-b37b-e7ed70182c65;Molho Shoyu Tempemar 150ml;Embalagem 150ml;4.53;Étnicos
+2026-08-17;ac9ff8de-2b93-4b04-b5d3-9a0963644b0a;Molho Shoyu Knorr 150ml;Embalagem 150ml;10.79;Étnicos
+2026-08-17;d3d5f83c-630c-40b3-94f6-42f3e5c24b9f;Molho Shoyu Soja Suave Sakura 150ml;Embalagem 150ml;6.36;Étnicos
+2026-08-17;fc994abc-9041-4d7c-85a9-7b55f4b5f86a;Miojo Instantâneo Yakissoba Ufo Sabor Carne Nissin 97g;;8.63;Étnicos
+2026-08-17;c8664c9e-d84c-4d37-933b-5b2ec55a2f49;Curcuma Longa 130mg Vit.E Selenio Vit.B12 60 Caps;;38.87;Farmácia
+2026-08-17;708d7bd4-7c42-4ab1-b1e8-deeecc209361;Combo 18x Cerveja Heineken 330ml;;139.86;Combos
+2026-08-17;a0ff63a3-3a82-461c-9c60-319718e929b8;Combo 24x Cerveja Heineken 0,0 330ml;-;186.48;Combos
+2026-08-17;21011e81-2655-4bb5-ba8b-9b6ac4147659;Combo 24x Cerveja Heineken 473ml;-;188.88;Combos
+2026-08-17;4fdbde7d-ed27-4ac2-8ce7-ec3049bdd3f2;Combo 2x Cerveja Heineken 5l;-;259.18;Combos
+2026-08-17;d026396b-c3a6-424c-81be-25be28b50889;Combo 3 Coca-Cola Sa e 3 Coca 350ml;;25.2;Combos
+2026-08-17;2704fde5-bdee-4289-8e79-48f68c47a2f4;Combo 3x Amstel 350ml;;11.97;Combos
+2026-08-17;2f77b27b-d967-49e7-a439-81aef5df4929;Combo 3x Amstel 473ml;;16.83;Combos
+2026-08-17;0184f51f-f274-4890-b426-afd358a6fe32;Combo 6Coca-Cola Sa e 6Coca-Cola 350;;50.4;Combos
+2026-08-17;8acb33b2-e18e-4f2b-8f9b-7ec2e04eea04;Combo 6x Amstel 473ml;;33.66;Combos
+2026-08-17;bdcc9487-6f80-42d8-bedd-8dde2cfef861;Combo 6x Heineken 330ml;;46.62;Combos
+2026-08-17;52291279-9b38-42ca-8236-987d5a1ee2f3;Combo: Cc 350ml 12un+Ftalar350 6un;;73.02;Combos
+2026-08-17;ba4538a9-3353-45e9-99f6-32fbceca5dc6;Combo : Ccsa 350ml 18 unidades;;75.6;Combos
