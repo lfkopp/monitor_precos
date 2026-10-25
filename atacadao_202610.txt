@@ -397113,3 +397113,1237 @@ data;cod;produto;preco;preco_lista;unidade;fator_unid;cod_id;cod_sku;marca;ean;r
 2026-10-24;biscoito-recheado-capricche-mama-mia-requeijao-91746;Biscoito Recheado Capricche Mama Mia Requeijão 93,3g;0.0;0.0;un;1.0;41258;41258;Capricche;7898657832234;91746933;0
 2026-10-24;kibe-bovino-pre-frito-swift-congelado-recheado-com-requeijao-77317;Kibe Bovino Pré-Frito Swift Cong Recheado com Requeijão 300g;0.0;0.0;un;1.0;26586;26586;Swift;7898664360065;77317984;0
 2026-10-24;cobertura-culinaria-para-pizza-sulminas-sabor-requeijao-17540;Cobertura Culinária Pizza SulMinas Sabor Requeijão 3,6kg;0.0;0.0;un;1.0;19151;19151;Sulminas;7896825400216;17540985;0
+2026-10-25;molho-de-tomate-heinz-tradicional-1866;Molho de Tomate Heinz Tradicional 240g;2.89;2.89;un;1.0;55716;55556;Heinz;7896102503814;1866990;99999
+2026-10-25;molho-de-tomate-pomarola-tradicional-16749;Molho de Tomate Pomarola Tradicional 200g;2.19;2.19;un;1.0;170691;63023;Pomarola;7896036001684;16749909;99999
+2026-10-25;molho-de-tomate-quero-bolonhesa-1870;Molho de Tomate Quero Bolonhesa 240g;2.49;2.49;un;1.0;55719;55559;Quero;7896102503739;1870905;99999
+2026-10-25;molho-de-tomate-quero-tradicional-1869;Molho de Tomate Quero Tradicional 240g;1.89;1.89;un;1.0;55718;55558;Quero;7896102503661;1869968;99999
+2026-10-25;molho-de-tomate-bulnez-tradicional-14175;Molho de Tomate Bulnez Tradicional 300g;1.55;1.55;un;1.0;139674;61690;Bulnez;7896292302228;14175964;99999
+2026-10-25;sardinha-sulpesca-molho-de-tomate-5958;Sardinha Sulpesca Molho de Tomate 75g;4.79;4.79;un;1.0;57829;57669;Sulpesca;7896117101043;5958913;99999
+2026-10-25;molho-de-tomate-heinz-bolonhesa-1871;Molho de Tomate Heinz Bolonhesa 240g;4.99;4.99;un;1.0;55720;55560;Heinz;7896102503838;1871971;99999
+2026-10-25;molho-de-tomate-ole-manjericao-11936;Molho de Tomate Olé Manjericão 420g;11.99;11.99;un;1.0;60706;60532;Olé;7891032015284;11936945;99999
+2026-10-25;molho-de-tomate-ole-tradicional-11934;Molho de Tomate Olé Tradicional 420g;11.99;11.99;un;1.0;60705;60531;Olé;7891032015277;11934926;99999
+2026-10-25;molho-de-tomate-bonare-passata-15433;Molho de Tomate Bonare Passata 290g;3.99;3.99;un;1.0;164941;62134;Bonare;7899659901430;15433903;99999
+2026-10-25;molho-de-tomate-quero-pizza-1879;Molho de Tomate Quero Pizza 240g;2.49;2.49;un;1.0;55724;55564;Quero;7896102503692;1879946;99999
+2026-10-25;molho-de-tomate-quero-manjericao-1876;Molho de Tomate Quero Manjericão 240g;2.49;2.49;un;1.0;55722;55562;Quero;7896102503685;1876968;99999
+2026-10-25;molho-de-tomate-heinz-manjericao-1872;Molho de Tomate Heinz Manjericão 240g;5.09;5.09;un;1.0;55721;55561;Heinz;7896102503821;1872930;99999
+2026-10-25;molho-de-tomate-noel-passata-13297;Molho de Tomate Noel Passata 520g;4.99;4.99;un;1.0;181041;63657;Noel;7790580432973;13297932;99999
+2026-10-25;molho-de-tomate-bulnez-passata-rustica-14173;Molho de Tomate Bulnez Passata Rústica 520g;11.49;11.49;un;1.0;139676;61684;Bulnez;7896292302051;14173945;99999
+2026-10-25;molho-de-tomate-tomadoro-tradicional-8759;Molho de Tomate Tomadoro Tradicional 1,7kg;9.49;9.49;un;1.0;59015;58854;Tomadoro;7899659901348;8759985;99999
+2026-10-25;molho-de-tomate-tomadoro-pizza-8758;Molho de Tomate Tomadoro Pizza 1,7kg;9.49;9.49;un;1.0;59014;58853;Tomadoro;7899659901355;8758925;99999
+2026-10-25;molho-de-tomate-pomarola-triturado-3245;Molho de Tomate Pomarola Triturado 1,7kg;19.88;19.88;un;1.0;56471;56311;Pomarola;7896036001486;3245923;99999
+2026-10-25;molho-arabe-da-terrinha-tomate-94549;Molho Árabe Da Terrinha Tomate 150ml;5.99;5.99;un;1.0;44847;44847;Da Terrinha;7898693230346;94549923;99999
+2026-10-25;molho-tomate-fugini-46005;Molho de Tomate Fugini 250g;0.0;0.0;un;1.0;14505;14505;Fugini;46005911;46005911;0
+2026-10-25;molho-de-tomate-sofruta-53546;Molho de Tomate Sófruta 2kg;0.0;0.0;un;1.0;13530;13530;Sófruta;53546951;53546951;0
+2026-10-25;molho-de-tomate-pramesa-pouch-com-340g-36655;Molho de Tomate Pramesa 340g;0.0;0.0;un;1.0;13309;13309;Pramesa;36655957;36655957;0
+2026-10-25;molho-de-tomate-bonare-52830;Molho de Tomate Bonare 2kg;0.0;0.0;un;1.0;12727;12727;Bonare;7898905153791;52830986;0
+2026-10-25;molho-de-tomate-fugini-25025;Molho de Tomate Fugini 2kg;0.0;0.0;un;1.0;12914;12914;Fugini;25025;25025990;0
+2026-10-25;molho-de-tomate-ajinomoto-54059;Molho de Tomate Ajinomoto 2kg;0.0;0.0;un;1.0;12661;12661;Ajinomoto;54059961;54059961;0
+2026-10-25;molho-de-tomate-tomadoro-96767;Molho de Tomate Tomadoro 300g;0.0;0.0;un;1.0;47781;47781;Tomadoro;7899659901331;96767939;0
+2026-10-25;molho-de-tomate-primor-pouch-com-340g-38323;Molho de Tomate Primor 340g;0.0;0.0;un;1.0;13352;13352;Primor;7891080170591;38323926;0
+2026-10-25;molho-de-tomate-predilecta-pouch-com-2kg-48244;Molho de Tomate Predilecta 2kg;0.0;0.0;un;1.0;13327;13327;Predilecta;7896292303324;48244950;0
+2026-10-25;molho-de-tomate-ole-38072;Molho de Tomate Olé 340g;0.0;0.0;un;1.0;13138;13138;Olé;38072996;38072996;0
+2026-10-25;molho-de-tomate-marata-100--tomate-68858;Molho de Tomate Maratá 100% Tomate 340g;0.0;0.0;un;1.0;13062;13062;Maratá;7898286191337;68858910;0
+2026-10-25;molho-de-tomate-val-tradicional-pouch-com-300g-82001;Molho de Tomate Val Tradicional 300g;0.0;0.0;un;1.0;13721;13721;Val;7898045701111;82001978;0
+2026-10-25;molho-de-tomate-marata-tradicional-85858;Molho de Tomate Maratá Tradicional 300g;0.0;0.0;un;1.0;13113;13113;Maratá;7898286191399;85858914;0
+2026-10-25;molho-de-tomate-pomarola-tradicional-84471;Molho de Tomate Pomarola Tradicional 460g;0.0;0.0;un;1.0;13263;13263;Pomarola;7896036099773;84471993;0
+2026-10-25;molho-de-tomate-oceano-passata-5108;Molho de Tomate Oceano Passata 680g;0.0;0.0;un;1.0;57397;57237;Oceano;7898756920283;5108976;0
+2026-10-25;molho-de-tomate-pramesa-manjericao-85046;Molho de Tomate Pramesa Manjericão 300g;0.0;0.0;un;1.0;13289;13289;Pramesa;7898920223424;85046900;0
+2026-10-25;molho-de-tomate-ole-tradicional-95584;Molho de Tomate Olé Tradicional 320g;0.0;0.0;un;1.0;45249;45249;Olé;7891032015239;95584937;0
+2026-10-25;molho-de-tomate-paladori-tradicional-91881;Molho de Tomate Paladori Tradicional 300g;0.0;0.0;un;1.0;41130;41130;Paladori;7899659900938;91881940;0
+2026-10-25;molho-de-tomate-etti-manjericao-75164;Molho de Tomate Etti Manjericão 300g;0.0;0.0;un;1.0;38638;38638;Etti;7898930141916;75164918;0
+2026-10-25;molho-de-tomate-tarantella-pizza-pouch-com-300g-75545;Molho de Tomate Tarantella Pizza 300g;0.0;0.0;un;1.0;13663;13663;Tarantella;7896036099490;75545986;0
+2026-10-25;molho-de-tomate-tambau-tradicional-51429;Molho de Tomate Tambaú Tradicional 2kg;0.0;0.0;un;1.0;13623;13623;Tambaú;7896945401995;51429986;0
+2026-10-25;molho-de-tomate-tambau-refogado-69858;Molho de Tomate Tambaú Refogado 340g;0.0;0.0;un;1.0;13613;13613;Tambaú;7896945402398;69858908;0
+2026-10-25;molho-de-tomate-tambau-pizza-pouch-com-300g-83501;Molho de Tomate Tambaú Pizza 300g;0.0;0.0;un;1.0;13599;13599;Tambaú;7896945403128;83501920;0
+2026-10-25;molho-de-tomate-sofruta-tradicional-38840;Molho de Tomate Sófruta Tradicional 340g;0.0;0.0;un;1.0;13544;13544;Sófruta;38840954;38840954;0
+2026-10-25;molho-de-tomate-sofruta-pizza-38843;Molho de Tomate Sófruta Pizza 340g;0.0;0.0;un;1.0;13526;13526;Sófruta;7896292313835;38843938;0
+2026-10-25;molho-de-tomate-salsaretti-tradicional-38309;Molho de Tomate Salsaretti Tradicional 340g;0.0;0.0;un;1.0;13500;13500;Salsaretti;7891300908676;38309908;0
+2026-10-25;molho-de-tomate-quero-tradicional-tp-com-520g-4040;Molho de Tomate Quero Tradicional 520g;0.0;0.0;un;1.0;13429;13429;Quero;4040947;4040947;0
+2026-10-25;molho-de-tomate-quero-pizza-pouch-com-340g-27532;Molho de Tomate Quero Pizza 340g;0.0;0.0;un;1.0;13402;13402;Quero;7896102507188;27532930;0
+2026-10-25;molho-de-tomate-quero-bolonhesa-pouch-com-300g-76141;Molho de Tomate Quero Bolonhesa 300g;0.0;0.0;un;1.0;13357;13357;Quero;7896102501919;76141982;0
+2026-10-25;molho-de-tomate-predilecta-manjericao-pouch-com-340g-25180;Molho de Tomate Predilecta Manjericão 340g;0.0;0.0;un;1.0;13323;13323;Predilecta;25180936;25180936;0
+2026-10-25;molho-de-tomate-pramesa-pizza-pouch-com-340g-36656;Molho de Tomate Pramesa Pizza 340g;0.0;0.0;un;1.0;13304;13304;Pramesa;36656916;36656916;0
+2026-10-25;molho-de-tomate-pomarola-triturado-82582;Molho de Tomate Pomarola Triturado 2kg;0.0;0.0;un;1.0;13280;13280;Pomarola;7896036098851;82582925;0
+2026-10-25;molho-de-tomate-pomarola-tradicional-71860;Molho de Tomate Pomarola Tradicional 320g;0.0;0.0;un;1.0;13255;13255;Pomarola;7896036098974;71860920;0
+2026-10-25;molho-de-tomate-palmeiron-manjericao-pouch-com-340g-73680;Molho de Tomate Palmeiron Manjericão 340g;0.0;0.0;un;1.0;13147;13147;Palmeiron;73680991;73680991;0
+2026-10-25;molho-de-tomate-heinz-tradicional-pouch-com-250g-65346;Molho de Tomate Heinz Tradicional 250g;0.0;0.0;un;1.0;12975;12975;Heinz;7896102000108;65346964;0
+2026-10-25;molho-de-tomate-heinz-arrabiata-pouch-com-300g-76137;Molho de Tomate Heinz Arrabiata 300g;0.0;0.0;un;1.0;12933;12933;Heinz;7896102501964;76137960;0
+2026-10-25;molho-de-tomate-bonatelli-tradicional-pouch-com-2kg-76628;Molho de Tomate Bonatelli Tradicional 2kg;0.0;0.0;un;1.0;12765;12765;Bonatelli;7898950284297;76628997;0
+2026-10-25;molho-de-tomate-bonatelli-tradicional-75174;Molho de Tomate Bonatelli Tradicional 340g;0.0;0.0;un;1.0;12757;12757;Bonatelli;75174997;75174997;0
+2026-10-25;molho-de-tomate-bonatelli-manjericao-76626;Molho de Tomate Bonatelli Manjericão 270g;0.0;0.0;un;1.0;12749;12749;Bonatelli;7898950284280;76626978;0
+2026-10-25;molho-de-tomate-bonatelli-manjericao-75173;Molho de Tomate Bonatelli Manjericão 340g;0.0;0.0;un;1.0;12745;12745;Bonatelli;75173937;75173937;0
+2026-10-25;molho-de-tomate-bonare-pizza-52831;Molho de Tomate Bonare Pizza 340g;0.0;0.0;un;1.0;12722;12722;Bonare;7898905153685;52831951;0
+2026-10-25;molho-de-tomate-bonare-bolonhesa-60653;Molho de Tomate Bonare Bolonhesa 340g;0.0;0.0;un;1.0;12672;12672;Bonare;7898905153692;60653927;0
+2026-10-25;molho-de-tomate-predilecta-tradicional-pouch-com-300g-75071;Molho de Tomate Predilecta Tradicional 300g;0.0;0.0;un;1.0;13342;13342;Predilecta;7896292333000;75071938;0
+2026-10-25;molho-de-tomate-salsaretti-tradicional-81057;Molho de Tomate Salsaretti Tradicional 300g;0.0;0.0;un;1.0;38763;38763;Salsaretti;81057945;81057945;0
+2026-10-25;molho-de-tomate-tarantella-tradicional-75547;Molho de Tomate Tarantella Tradicional 300g;0.0;0.0;un;1.0;13677;13677;Tarantella;7896036099544;75547904;0
+2026-10-25;molho-de-tomate-pomarola-passata-86920;Molho de Tomate Pomarola Passata 300g;0.0;0.0;un;1.0;13225;13225;Pomarola;7896036099445;86920988;0
+2026-10-25;molho-de-tomate-bonare-pizza-pouch-com-300g-80551;Molho de Tomate Bonare Pizza 300g;0.0;0.0;un;1.0;12719;12719;Bonare;7899659901089;80551915;0
+2026-10-25;molho-de-tomate-pomarola-tradicional-25046;Molho de Tomate Pomarola Tradicional 520g;0.0;0.0;un;1.0;13274;13274;Pomarola;7896036095102;25046905;0
+2026-10-25;molho-de-tomate-julieta-manjericao-pouch-com-310g-82859;Molho de Tomate Julieta Manjericão 310g;0.0;0.0;un;1.0;12994;12994;Julieta;7908235000273;82859980;0
+2026-10-25;molho-de-tomate-julieta-bolonhesa-sache-com-310g-82858;Molho de Tomate Julieta Bolonhesa 310g;0.0;0.0;un;1.0;12990;12990;Julieta;7908235000280;82858920;0
+2026-10-25;molho-de-tomate-cajamar-tradicional-pouch-com-300g-75165;Molho de Tomate Cajamar Tradicional 300g;0.0;0.0;un;1.0;12775;12775;Cajamar;7898930142173;75165978;0
+2026-10-25;molho-de-tomate-marata-manjericao-85854;Molho de Tomate Maratá Manjericão 300g;0.0;0.0;un;1.0;13089;13089;Maratá;7898286191412;85854977;0
+2026-10-25;molho-de-tomate-bonare-manjericao-pouch-com-300g-80552;Molho de Tomate Bonare Manjericão 300g;0.0;0.0;un;1.0;12700;12700;Bonare;7899659901072;80552975;0
+2026-10-25;molho-de-tomate-palmeiron-manjericao-pouch-com-300g-83907;Molho de Tomate Palmeiron Manjericão 300g;0.0;0.0;un;1.0;13142;13142;Palmeiron;7898366932812;83907941;0
+2026-10-25;molho-de-tomate-donana-tradicional-68197;Molho de Tomate Donana Tradicional 340g;0.0;0.0;un;1.0;12846;12846;Donana;7897406603699;68197926;0
+2026-10-25;molho-de-tomate-pomarola-bolonhesa-59248;Molho de Tomate Pomarola Bolonhesa 300g;0.0;0.0;un;1.0;13197;13197;Pomarola;7896036095126;59248985;0
+2026-10-25;molho-de-tomate-sadio-tradicional-6657;Molho de Tomate Sadio Tradicional 300g;0.0;0.0;un;1.0;58078;57918;Sadio;7897518202636;6657979;0
+2026-10-25;molho-de-tomate-tambau-azeitona-3315;Molho de Tomate Tambaú Azeitona 300g;0.0;0.0;un;1.0;56507;56347;Tambaú;7896945403203;3315980;0
+2026-10-25;molho-de-tomate-predilecta-pizza-79512;Molho de Tomate Predilecta Pizza 300g;0.0;0.0;un;1.0;98193;55155;Predilecta;7896292334113;79512965;0
+2026-10-25;molho-de-tomate-salsaretti-basilico-24358;Molho de Tomate Salsaretti Basílico 500g;0.0;0.0;un;1.0;59811;59650;Salsaretti;7891300900366;24358967;0
+2026-10-25;molho-de-tomate-sadio-manjericao-6656;Molho de Tomate Sadio Manjericão 300g;0.0;0.0;un;1.0;58077;57917;Sadio;7897518202650;6656919;0
+2026-10-25;molho-de-tomate-sadio-bolonhesa-6654;Molho de Tomate Sadio Bolonhesa 300g;0.0;0.0;un;1.0;58076;57916;Sadio;7897518202698;6654900;0
+2026-10-25;molho-de-tomate-campilar-tradicional-92665;Molho de Tomate Campilar Tradicional 280g;0.0;0.0;un;1.0;47796;47796;Campilar;7896547904337;92665937;0
+2026-10-25;molho-de-tomate-val-pizza-pouch-com-2kg-60879;Molho de Tomate Val Pizza 2kg;0.0;0.0;un;1.0;13710;13710;Val;60879922;60879922;0
+2026-10-25;molho-de-tomate-tarantella-tradicional-pouch-com-460g-84472;Molho de Tomate Tarantella Tradicional 460g;0.0;0.0;un;1.0;13686;13686;Tarantella;7896036099780;84472952;0
+2026-10-25;molho-de-tomate-tarantella-tradicional-61963;Molho de Tomate Tarantella Tradicional 520g;0.0;0.0;un;1.0;13667;13667;Tarantella;7896036000304;61963997;0
+2026-10-25;molho-de-tomate-tambau-pizza-60273;Molho de Tomate Tambaú Pizza 2kg;0.0;0.0;un;1.0;13594;13594;Tambaú;7896945402008;60273919;0
+2026-10-25;molho-de-tomate-sofruta-manjericao-38842;Molho de Tomate Sófruta Manjericão 340g;0.0;0.0;un;1.0;13515;13515;Sófruta;38842979;38842979;0
+2026-10-25;molho-de-tomate-salsaretti-tradicional-76119;Molho de Tomate Salsaretti Tradicional 300g;0.0;0.0;un;1.0;13489;13489;Salsaretti;7898930142654;76119922;0
+2026-10-25;molho-de-tomate-salsaretti-bolonhesa-76118;Molho de Tomate Salsaretti Bolonhesa 300g;0.0;0.0;un;1.0;13444;13444;Salsaretti;7898930142630;76118963;0
+2026-10-25;molho-de-tomate-salsaretti-bolonhesa-38310;Molho de Tomate Salsaretti Bolonhesa 340g;0.0;0.0;un;1.0;13439;13439;Salsaretti;7891300908683;38310964;0
+2026-10-25;molho-de-tomate-quero-tradicional-pouch-com-340g-26130;Molho de Tomate Quero Tradicional 340g;0.0;0.0;un;1.0;13418;13418;Quero;7896102509410;26130943;0
+2026-10-25;molho-de-tomate-quero-parmegiana-pouch-com-300g-76146;Molho de Tomate Quero Parmegiana 300g;0.0;0.0;un;1.0;13390;13390;Quero;7896102501940;76146979;0
+2026-10-25;molho-de-tomate-pramesa-pizza-85045;Molho de Tomate Pramesa Pizza 300g;0.0;0.0;un;1.0;13298;13298;Pramesa;7898920223394;85045940;0
+2026-10-25;molho-de-tomate-pramesa-manjericao-36657;Molho de Tomate Pramesa Manjericão 340g;0.0;0.0;un;1.0;13293;13293;Pramesa;36657976;36657976;0
+2026-10-25;molho-de-tomate-palmeiron-tradicional-48699;Molho de Tomate Palmeiron Tradicional 260g;0.0;0.0;un;1.0;13170;13170;Palmeiron;7898366930207;48699902;0
+2026-10-25;molho-de-tomate-palmeiron-pizza-pouch-com-340g-73679;Molho de Tomate Palmeiron Pizza 340g;0.0;0.0;un;1.0;13155;13155;Palmeiron;73679953;73679953;0
+2026-10-25;molho-de-tomate-palmeiron-pizza-pouch-com-300g-83908;Molho de Tomate Palmeiron Pizza 300g;0.0;0.0;un;1.0;13150;13150;Palmeiron;7898366932751;83908900;0
+2026-10-25;molho-de-tomate-oderich-pizza-pouch-com-340g-79209;Molho de Tomate Oderich Pizza 340g;0.0;0.0;un;1.0;13123;13123;Oderich;7896041162509;79209911;0
+2026-10-25;molho-de-tomate-marata-napolitano-85856;Molho de Tomate Maratá Napolitano 300g;0.0;0.0;un;1.0;13097;13097;Maratá;7898286191443;85856996;0
+2026-10-25;molho-de-tomate-marata-manjeiricao-39695;Molho de Tomate Maratá Manjericão 340g;0.0;0.0;un;1.0;13084;13084;Maratá;7898286190644;39695964;0
+2026-10-25;cebola-quilo-14692;Cebola Quilo;8.79;8.79;kg;0.15;42115;42115;Atacadão S/A;14692;14692998;99999
+2026-10-25;cebola-roxa-36041;Cebola Roxa Quilo;8.99;8.99;kg;0.15;42147;42147;Atacadão S/A;36041;36041905;99999
+2026-10-25;cebola-roxa-96371;Cebola Roxa 1kg;7.98;7.98;un;1.0;60265;60096;Atacadão S/A;7898615970657;96371997;99999
+2026-10-25;cebola-roxa-36040;Cebola Roxa 19kg;169.9;169.9;un;1.0;42146;42146;Atacadão S/A;36040940;36040940;99999
+2026-10-25;cebola-palito-quilo-26216;Cebola Palito Quilo;8.99;8.99;kg;0.1;42141;42141;Atacadão S/A;26216;26216940;99999
+2026-10-25;salgadinho-amavita-cebola-5609;Salgadinho Amavita Cebola 80g;2.09;2.09;un;1.0;57670;57510;Amavita;7898766840021;5609991;99999
+2026-10-25;salgadinho-romanato-cebola-16965;Salgadinho Romanato Cebola 70g;1.15;1.15;un;1.0;171268;63185;Romanato;7898633333960;16965910;99999
+2026-10-25;salgadinho-bulnez-cebola-13859;Salgadinho Bulnez Cebola 200g;5.49;5.49;un;1.0;140920;61715;Bulnez;7898766840236;13859985;99999
+2026-10-25;cebola-para-conserva-43601;Cebola para Conserva 1kg;5.9;5.9;un;1.0;42159;42159;Atacadão S/A;789892029855;43601915;99999
+2026-10-25;cebola-crispy-swift-3172;Cebola Crispy Swift 140g;23.9;23.9;un;1.0;56433;56273;Swift;7908625602346;3172989;99999
+2026-10-25;salgadinho-ebicen-cebola-16610;Salgadinho Ebicen Cebola 30g;3.98;3.98;un;1.0;59807;59646;Ebicen;7896039010218;16610943;99999
+2026-10-25;farofa-de-mandioca-yoki-cebola-94702;Farofa de Mandioca Yoki Cebola 200g;7.59;7.59;un;1.0;53356;52816;Yoki;7891095911677;94702959;99999
+2026-10-25;tempero-quero-alho-e-cebola-8305;Tempero Quero Alho e Cebola 300g;3.99;3.99;un;1.0;58790;58629;Quero;7896102509083;8305974;99999
+2026-10-25;salgadinho-batata-lay-s-cebola-e-salsa-14908;Salgadinho Batata Lay's Cebola 62g;9.98;9.98;un;1.0;164482;62022;Lay's;7892840825157;14908905;99999
+2026-10-25;salgadinho-lucky-torcida-cebola-4308;Salgadinho Lucky Torcida Cebola 100g;3.99;3.99;un;1.0;57008;56848;Lucky;7892840817091;4308960;99999
+2026-10-25;salgadinho-yokitos-anel-de-cebola-84019;Salgadinho Yokitos Anel de Cebola 108g;8.44;8.44;un;1.0;17088;17088;Yokitos;7891095023325;84019945;99999
+2026-10-25;amendoim-crocante-jazam-cebola-e-salsa-5363;Amendoim Crocante Jazam Cebola e Salsa 50g;2.49;2.49;un;1.0;57531;57371;Jazam;7896383071507;5363948;99999
+2026-10-25;molho-hellmann-s-cebola--salsa-e-limao-15137;Molho Hellmann's Cebola, Salsa e Limão 335g;9.98;9.98;un;1.0;164254;61959;Hellmann's;7891150107625;15137968;99999
+2026-10-25;amendoim-crocante-jazam-cebola-e-salsa-5296;Amendoim Crocante Jazam Cebola e Salsa 700g;13.9;13.9;un;1.0;57486;57326;Jazam;7896383071521;5296970;99999
+2026-10-25;aneis-de-cebola-swift-congelado-1037;Anéis de Cebola Swift Congelado 1,1kg;27.5;27.5;un;1.0;55377;55220;Swift;7899567238321;1037997;99999
+2026-10-25;salgadinho-batata-pringles-creme-e-cebola-16468;Salgadinho Batata Pringles Creme e Cebola 37g;5.98;5.98;un;1.0;169848;62768;Pringles;7896004010083;16468933;99999
+2026-10-25;oleo-composto-de-olliva-cebola-e-alho-16925;Óleo Composto De Olliva Cebola e Alho 500ml;14.9;14.9;un;1.0;171195;63148;De Olliva;5601252120680;16925998;99999
+2026-10-25;margarina-qualy-facil-alho-e-cebola-16389;Margarina Qualy Fácil Alho e Cebola 500g;13.5;13.5;un;1.0;169746;62731;Qualy;7891515662165;16389958;99999
+2026-10-25;tempero-swift-cebola--alho-e-salsa-3173;Tempero Swift Cebola, Alho e Salsa 80g;11.9;11.9;un;1.0;56434;56274;Swift;7908625602339;3173948;99999
+2026-10-25;oleo-composto-faisao-cebola-e-alho-1537;Óleo Composto Faisão Cebola e alho 500ml;9.49;9.49;un;1.0;55584;55424;Faisão;7908435501068;1537941;99999
+2026-10-25;maionese-kisabor-alho-e-cebola-tostados-96464;Maionese Kisabor Alho e Cebola Tostados 200g;3.97;3.97;un;1.0;53359;52819;Kisabor;7898416524196;96464988;99999
+2026-10-25;amendoim-hitt-nuts-cebola-e-salsa-1150;Amendoim Hitt Nuts Cebola e Salsa 90g;3.79;3.79;un;1.0;55436;55276;Hitt Nuts;7896035670409;1150911;99999
+2026-10-25;empanada-swift-congelada-queijo-com-cebola-3179;Empanada Swift Congelada Queijo com Cebola 240g;27.5;27.5;un;1.0;56437;56277;Swift;7908625604357;3179904;99999
+2026-10-25;salgadinho-batata-chips-bulnez-cebola-e-salsa-13823;Salgadinho Batata Chips Bulnez Cebola e Salsa 45g;2.59;2.59;un;1.0;140914;61706;Bulnez;7898766840267;13823994;99999
+2026-10-25;biscoito-marilan-pit-stop-cebola-e-salsa-93061;Biscoito Marilan Pit Stop Cebola e salsa 60g;2.3;2.3;un;1.0;43486;43486;Pit Stop;7896003739596;93061962;99999
+2026-10-25;amendoim-crocante-dori-pettiz-cebola-e-salsa-16557;Amendoim Crocante Dori Pettiz Cebola e Salsa 120g;4.99;4.99;un;1.0;169915;62802;Dori;7896058599794;16557987;99999
+2026-10-25;amendoim-dori-pettiz-cebola-e-salsa-89057;Amendoim Dori Pettiz Cebola e Salsa 1,010kg;19.8;19.8;un;1.0;39570;39570;Dori;7896058507706;89057929;99999
+2026-10-25;biscoito-salgado-sol-chips-cebola-e-salsa-5350;Biscoito Salgado Sol Chips Cebola e Salsa 60g;3.29;3.29;un;1.0;57525;57365;Sol;7896005213490;5350986;99999
+2026-10-25;amendoim-santa-helena-crokissimo-cebola-e-salsa-10902;Amendoim Santa Helena Crokíssimo Cebola e Salsa 400g;8.99;8.99;un;1.0;60015;59847;Crokíssimo;7896336010065;10902937;99999
+2026-10-25;aneis-de-cebola-golden-foods-congelado-88893;Anéis de Cebola Golden Foods Congelado 1,05kg;22.9;22.9;un;1.0;42541;42541;Golden Foods;7898623592698;88893924;99999
+2026-10-25;aneis-de-cebola-bem-brasil-congelado-17516;Anéis de Cebola Bem Brasil Congelado 1,05kg;21.9;21.9;un;1.0;181011;63643;Bem Brasil;7898921567794;17516912;99999
+2026-10-25;snack-rice-cracker-kodilar-creme-de-cebola-8603;Snack Rice Cracker Kodilar Creme de Cebola 84g;9.99;9.99;un;1.0;58917;58756;Kodilar;7896256042870;8603928;99999
+2026-10-25;salgadinho-batata-ondulada-yoki-cebola-e-salsa-8288;Batata Frita Ondulada Cebola e Salsa Yoki Yokitos 45g;3.79;3.79;un;1.0;58780;58619;Yoki;7891095023141;8288904;99999
+2026-10-25;salgadinho-elma-chips-ruffles-stax-cebola-e-salsa-10345;Salgadinho Elma Chips Ruffles Stax Cebola e Salsa 134g;13.98;13.98;un;1.0;59639;59478;Ruffles;7892840817459;10345900;99999
+2026-10-25;cebola-saco-com-5kg-1224;Cebola 5kg;0.0;0.0;un;1.0;41959;41959;Atacadão S/A;1224911;1224911;0
+2026-10-25;cebola-saco-com-19kg-19658;Cebola 19kg;0.0;0.0;un;1.0;42118;42118;Atacadão S/A;19658931;19658931;0
+2026-10-25;cebola-4924;Cebola 10kg;0.0;0.0;un;1.0;57322;57162;Atacadão S/A;4924943;4924943;0
+2026-10-25;salgadinho-de-cebola-87780;Salgadinho de Cebola kg;0.0;0.0;kg;0.1;46697;46697;Atacadão S/A;87780;87780973;0
+2026-10-25;cebola-importada-10995;Cebola Importada Quilo;0.0;0.0;kg;1.0;46550;46550;Atacadão S/A;10995;10995937;0
+2026-10-25;biscoito-de-cebola-88193;Biscoito de Cebola quilo;0.0;0.0;kg;0.1;44065;44065;Atacadão S/A;88193;88193987;0
+2026-10-25;cebola-crispy-pacote-com-150g-57481;Cebola Crispy 150g;0.0;0.0;un;1.0;42174;42174;Top Taste;8718144571486;57481968;0
+2026-10-25;cebola-importada-8414;Cebola Importada 19kg;0.0;0.0;un;1.0;46545;46545;Atacadão S/A;8414901;8414901;0
+2026-10-25;salgadinho-fofura-cebola-96803;Salgadinho Fofura Cebola 120g;0.0;0.0;un;1.0;47019;47019;Fofura;7892840823160;96803905;0
+2026-10-25;salgadinho-maratitos-cebola-3391;Salgadinho Maratitos Cebola 37g;0.0;0.0;un;1.0;56544;56384;Maratitos;7898617580090;3391968;0
+2026-10-25;cebola-granulada-kitano-72895;Cebola Granulada Kitano 50g;0.0;0.0;un;1.0;10525;10525;Kitano;7891095605163;72895956;0
+2026-10-25;salgadinho-pancristal-cebola-14082;Salgadinho Pancristal Cebola quilo;0.0;0.0;kg;0.1;171605;63304;Pancristal;14082;14082984;0
+2026-10-25;salgadinhos-mikitos-cebola-34613;Salgadinhos Mikitos Cebola 50g;0.0;0.0;un;1.0;17182;17182;Mikitos;7897923022676;34613929;0
+2026-10-25;salgadinho-onion-cebola-71702;Salgadinho Onion Cebola 200g;0.0;0.0;un;1.0;16597;16597;Semalo;7896221402579;71702967;0
+2026-10-25;salgadinho-mikao-cebola-78787;Salgadinho Mikão Cebola 41g;0.0;0.0;un;1.0;16434;16434;Mikão;7896245709609;78787994;0
+2026-10-25;salgadinho-lobits-cebola-84500;Salgadinho Lobits Cebola 70g;0.0;0.0;un;1.0;15715;15715;Lobits;7896499901934;84500953;0
+2026-10-25;salgadinho-lobits-cebola-71159;Salgadinho Lobits Cebola 45g;0.0;0.0;un;1.0;15703;15703;Lobits;71159945;71159945;0
+2026-10-25;salgadinho-anelitos-cebola-83298;Salgadinho Anelitos Cebola 105g;0.0;0.0;un;1.0;14029;14029;Anelitos;7896245709746;83298985;0
+2026-10-25;creme-de-cebola-vono-60394;Creme de Cebola Vono 58g;0.0;0.0;un;1.0;27041;27041;Vono;7891132009626;60394926;0
+2026-10-25;salgadinho-amavita-cebola-71394;Salgadinho Amavita Cebola 200g;0.0;0.0;un;1.0;13973;13973;Amavita;7898931140697;71394943;0
+2026-10-25;cebola-picada-swift-92500;Cebola Picada Swift 300g;0.0;0.0;un;1.0;42399;42399;Swift;7899567236891;92500956;0
+2026-10-25;salgadinho-campitos-cebola-15799;Salgadinho Campitos Cebola 40g;0.0;0.0;un;1.0;167440;62485;Campilar;7896547900612;15799902;0
+2026-10-25;salgadinho-lobits-cebola-10157;Salgadinho Lobits Cebola 200g;0.0;0.0;un;1.0;59527;59366;Lobits;7896499903235;10157914;0
+2026-10-25;salgadinho-jumbitos-cebola-6105;Salgadinho Jumbitos Cebola 55g;0.0;0.0;un;1.0;57874;57714;Jumbitos;7896221400667;6105996;0
+2026-10-25;pao-de-cebola-swift-2803;Pão de Cebola Swift 400g;0.0;0.0;un;1.0;56220;56060;Swift;7908625602148;2803922;0
+2026-10-25;salgadinho-kro-cebola-pacote-com-100g-68450;Salgadinho Kró Cebola 100g;0.0;0.0;un;1.0;38466;38466;Kró;68450965;68450965;0
+2026-10-25;creme-de-cebola-mika-69999;Creme de Cebola Mika 65g;0.0;0.0;un;1.0;27033;27033;Mika;7896635195395;69999972;0
+2026-10-25;salgadinho-salsitos-cebola-pacote-com-32g-57903;Salgadinho Salsitos Cebola 32g;0.0;0.0;un;1.0;16819;16819;Salsitos;7898211130035;57903999;0
+2026-10-25;salgadinho-kro-cebola-82741;Salgadinho Kró Cebola 70g;0.0;0.0;un;1.0;15603;15603;Kró;82741935;82741935;0
+2026-10-25;cebola-crispy-swift-78081;Cebola Crispy Swift 170g;0.0;0.0;un;1.0;10508;10508;Swift;7899567236679;78081910;0
+2026-10-25;petit-four-cebola-91032;Petit Four Cebola quilo;0.0;0.0;kg;0.1;60211;60042;Atacadão S/A;91032;91032991;0
+2026-10-25;salgadinho-lobits-cebola-10289;Salgadinho Lobits Cebola 60g;0.0;0.0;un;1.0;59592;59431;Lobits;7896499902733;10289959;0
+2026-10-25;salgadinho-jumbitos-cebola-8933;Salgadinho Jumbitos Cebola 27g;0.0;0.0;un;1.0;59099;58938;Jumbitos;7898940958146;8933954;0
+2026-10-25;salgadinho-ebicen-cebola-96238;Salgadinho Ebicen Cebola 200g;0.0;0.0;un;1.0;46060;46060;Ebicen;7896039030605;96238908;0
+2026-10-25;creme-de-cebola-swift-77265;Creme de Cebola Swift 350g;0.0;0.0;un;1.0;27038;27038;Swift;7899567238369;77265965;0
+2026-10-25;pao-de-cebola-baldini-63782;Pão de Cebola Baldini 250g;0.0;0.0;un;1.0;21418;21418;Baldini;63782907;63782907;0
+2026-10-25;salgadinho-suspirolandia-cebola-88305;Salgadinho Suspirolândia Cebola 120g;0.0;0.0;un;1.0;16946;16946;Suspirolândia;7898147438892;88305966;0
+2026-10-25;salgadinho-lukitao-cebola-pacote-com-100g-76732;Salgadinho Lukitão Cebola 100g;0.0;0.0;un;1.0;16299;16299;Lukitão;7898965992064;76732909;0
+2026-10-25;salgadinho-lobits-cebola-63975;Salgadinho Lobits Cebola 50g;0.0;0.0;un;1.0;15710;15710;Lobits;63975990;63975990;0
+2026-10-25;salgadinho-lobits-cebola-pacote-com-40g-84495;Salgadinho Lobits Cebola 40g;0.0;0.0;un;1.0;15708;15708;Lobits;7896499902627;84495987;0
+2026-10-25;salgadinho-bebela-cebola-pacote-com-50g-50273;Salgadinho Bebela Cebola 50g;0.0;0.0;un;1.0;14390;14390;Bebela;7896635190925;50273920;0
+2026-10-25;salgadinho-amavita-cebola-77564;Salgadinho Amavita Cebola 25g;0.0;0.0;un;1.0;13977;13977;Amavita;7898931140741;77564979;0
+2026-10-25;cebola-triturada-nobre-80064;Cebola Triturada Nobre 400g;0.0;0.0;un;1.0;10530;10530;Nobre (Alhos Dom Nobre);7898352440123;80064927;0
+2026-10-25;salgadinho-kro-cebola-82246;Salgadinho Kró Cebola 100g;0.0;0.0;un;1.0;15594;15594;Kró;7896221401749;82246977;0
+2026-10-25;salgadinho-anelitos-cebola-67514;Salgadinho Anelitos Cebola 27g;0.0;0.0;un;1.0;14035;14035;Anelitos;7896245708084;67514989;0
+2026-10-25;creme-de-cebola-knorr-46496;Creme de Cebola Knorr 60g;0.0;0.0;un;1.0;27028;27028;Knorr;7891150030596;46496946;0
+2026-10-25;cebola-em-flocos-mika-89698;Cebola em Flocos Mika 15g;0.0;0.0;un;1.0;165082;62155;Mika;7896635191748;89698937;0
+2026-10-25;paezinhos-milani-cebola-8940;Pãezinhos Milani Cebola 250g;0.0;0.0;un;1.0;59104;58943;Milani;7896093200822;8940948;0
+2026-10-25;salgadinho-kro-cebola-94429;Salgadinho Kró Cebola 70g;0.0;0.0;un;1.0;44831;44831;Kró;7898940958108;94429976;0
+2026-10-25;creme-de-cebola-arisco-48963;Creme de Cebola Arisco 61g;0.0;0.0;un;1.0;27018;27018;Arisco;7891150030343;48963985;0
+2026-10-25;salgadinho-mikao-cebola-76460;Salgadinho Mikão Cebola 90g;0.0;0.0;un;1.0;16438;16438;Mikão;7896245709463;76460946;0
+2026-10-25;salgadinho-bisnack-cebola-pacote-com-80g-82820;Salgadinho Bisnack Cebola 80g;0.0;0.0;un;1.0;14465;14465;Bisnack;7891203060051;82820904;0
+2026-10-25;cebola-frita-keru---crispy-96090;Cebola Frita Keru + Crispy 70g;0.0;0.0;un;1.0;46341;46341;Keru +;7898716140430;96090925;0
+2026-10-25;cebola-em-aneis-mccain-congelada-62275;Cebola em Anéis McCain Congelada 1,050kg;0.0;0.0;un;1.0;10512;10512;McCain;7896105800217;62275954;0
+2026-10-25;cebola-crispy-de-la-marie-60100;Cebola Crispy De La Marie 100g;0.0;0.0;un;1.0;10503;10503;Delamarie;7898233200419;60100979;0
+2026-10-25;cebola-frita-keru---crispy-96089;Cebola Frita Keru + Crispy 200g;0.0;0.0;un;1.0;46340;46340;Keru +;7898716140447;96089988;0
+2026-10-25;cebola-garlic-foods-picada-85015;Cebola Garlic Foods Picada 1kg;0.0;0.0;un;1.0;10521;10521;Garlic Foods;7898924579244;85015905;0
+2026-10-25;sopa-maggi-creme-de-cebola-11755;Sopa Maggi Creme de Cebola 1kg;0.0;0.0;un;1.0;22548;22548;Maggi;7891000532805;11755960;0
+2026-10-25;farofa-mandioca-pinduca-cebola-12716;Farofa Mandioca Pinduca Cebola 200g;0.0;0.0;un;1.0;68479;60845;Pinduca;7896015912529;12716904;0
+2026-10-25;alho-e-cebola-picado-tapajos-90913;Alho e Cebola Picado Tapajós 200g;0.0;0.0;un;1.0;42907;42907;Tapajós;7897457800948;90913985;0
+2026-10-25;ketchup-cepera-bacon-e-cebola-85848;Ketchup Cepêra Bacon e Cebola 350g;0.0;0.0;un;1.0;26250;26250;Cepêra;7896025804708;85848936;0
+2026-10-25;tomate-salada-1688;Tomate Salada Quilo;14.9;14.9;kg;0.15;41994;41994;Atacadão S/A;1688;1688983;99999
+2026-10-25;tomate-italiano-33159;Tomate Italiano Quilo;15.9;15.9;kg;0.15;42143;42143;Atacadão S/A;33159;33159945;99999
+2026-10-25;extrato-de-tomate-heinz-14950;Extrato de Tomate Heinz 240g;5.69;5.69;un;1.0;163977;61902;Heinz;7896102504248;14950933;99999
+2026-10-25;extrato-de-tomate-xavante-4934;Extrato de Tomate Xavante 300g;1.89;1.89;un;1.0;57327;57167;Xavante;7896235800460;4934921;99999
+2026-10-25;tomate-triturado-sacciali-5807;Tomate Triturado Sacciali 910g;16.95;16.95;un;1.0;57757;57597;Sacciali;7896292371705;5807954;99999
+2026-10-25;tomate-paganini-sem-pele-74125;Tomate Paganini Sem Pele 240g;7.9;7.9;un;1.0;30747;30747;Paganini;7898152990064;74125967;99999
+2026-10-25;tomate-cirio-sem-pele-lata-com-240g-71919;Tomate Cirio Sem pele 240g;9.75;9.75;un;1.0;30733;30733;Cirio;8000320010026;71919961;99999
+2026-10-25;tomate-grape-divertidos-62182;Tomate Grape Divertidos 500g;9.99;9.99;un;1.0;48467;48467;Atacadão S/A;62182963;62182963;99999
+2026-10-25;tomate-sem-pele-noel-cubos-13310;Tomate sem Pele Noel Cubos 400g;4.49;4.49;un;1.0;181047;63658;Noel;7790580432997;13310976;99999
+2026-10-25;tomate-triturado-bulnez-14172;Tomate Triturado Bulnez Vdo 910g;16.89;16.89;un;1.0;139677;61682;Bulnez;7896292302006;14172986;99999
+2026-10-25;tomate-pelado-arcobello-13537;Tomate Pelado Arcobello 2,5kg;49.8;49.8;un;1.0;115169;61342;Arcobello;7898246522010;13537936;99999
+2026-10-25;extrato-de-tomate-bulnez-14159;Extrato de Tomate Bulnez Bowl 300g;5.49;5.49;un;1.0;139667;61679;Bulnez;7896292302037;14159945;99999
+2026-10-25;tomate-em-cubos-cirio-sem-pele-71921;Tomate em Cubos Cirio Sem pele 260g;9.75;9.75;un;1.0;30738;30738;Cirio;8000320010118;71921964;99999
+2026-10-25;polpa-de-tomate-paganini-manjericao-87590;Polpa de Tomate Paganini Manjericão 690g;17.49;17.49;un;1.0;31907;31907;Paganini;7898152990057;87590969;99999
+2026-10-25;polpa-de-tomate-paganini-passata-74195;Polpa de Tomate Paganini Passata 690g;16.9;16.9;un;1.0;31911;31911;Paganini;7898152990040;74195914;99999
+2026-10-25;tomate-sem-pele-noel-inteiros-13309;Tomate sem Pele Noel Inteiros 400g;4.49;4.49;un;1.0;115135;61352;Noel;7790580432980;13309920;99999
+2026-10-25;esmalte-cremoso-impala-tomate-12758;Esmalte Cremoso Impala Tomate un;5.49;5.49;un;1.0;60762;60587;Impala;7896111927038;12758936;99999
+2026-10-25;tomate-paganini-sem-pele-em-cubos-74124;Tomate Paganini Sem Pele em Cubos 240g;7.9;7.9;un;1.0;30752;30752;Paganini;7898152996370;74124907;99999
+2026-10-25;tomate-pelado-ole-inteiro-11939;Tomate Pelado Olé Inteiro 1,4kg;29.5;29.5;un;1.0;60708;60534;Olé;7891032011347;11939923;99999
+2026-10-25;tomate-sem-pele-la-campagnola-inteiro-13304;Tomate sem Pele La Campagnola Inteiro 400g;5.09;5.09;un;1.0;115133;61354;La Campagnola;7790580432713;13304923;99999
+2026-10-25;tomate-sem-pele-la-campagnola-cubo-13307;Tomate sem Pele La Campagnola Cubo 400g;5.09;5.09;un;1.0;115134;61353;La Campagnola;7790580432966;13307901;99999
+2026-10-25;polpa-tomate-cirio-passata-6258;Polpa Tomate Cirio Passata 1,02kg;18.45;18.45;un;1.0;57958;57798;Cirio;8001440121289;6258974;99999
+2026-10-25;polpa-de-tomate-paganini-passata-rustica-74194;Polpa de Tomate Paganini Passata Rústica 690g;17.9;17.9;un;1.0;31915;31915;Paganini;7898152996929;74194955;99999
+2026-10-25;macarrao-u-f-o--nissin-tomate-13228;Macarrão U.F.O. Nissin Tomate 95g;7.99;7.99;un;1.0;114958;61284;Nissin;7891079014318;13228944;99999
+2026-10-25;extrato-de-tomate-elefante-so-tomate-pote-com-300g-83715;Extrato de Tomate Elefante Só Tomate 300g;0.0;0.0;un;1.0;6629;6629;Elefante;7896036000724;83715936;0
+2026-10-25;extrato-de-tomate-elefante-so-tomate-76709;Extrato de Tomate Elefante Só Tomate 310g;0.0;0.0;un;1.0;6634;6634;Elefante;7896036099247;76709973;0
+2026-10-25;tomate-salada-2179;Tomate Salada 17kg;0.0;0.0;un;1.0;181891;63831;Atacadão S/A;2179906;2179906;0
+2026-10-25;tomate-rasteiro-11534;Tomate Rasteiro Quilo;0.0;0.0;kg;0.15;60470;60300;Atacadão S/A;11534;11534962;0
+2026-10-25;tomate-grape-38809;Tomate Grape 180g;0.0;0.0;un;1.0;42155;42155;Atacadão S/A;7898324080449;38809964;0
+2026-10-25;tomate-italiano-53847;Tomate Italiano 700g;0.0;0.0;un;1.0;49320;49320;Atacadão S/A;7898942930423;53847984;0
+2026-10-25;tomate-salada-64786;Tomate Salada 17Kg;0.0;0.0;un;1.0;42180;42180;Atacadão S/A;64786943;64786943;0
+2026-10-25;tomate-italiano-33160;Tomate Italiano 17kg;0.0;0.0;un;1.0;181961;63847;Atacadão S/A;33160983;33160983;0
+2026-10-25;tomate-grape-quilo-34113;Tomate Grape Quilo;0.0;0.0;kg;0.15;42144;42144;Atacadão S/A;34113;34113974;0
+2026-10-25;tomate-economico-embalagem-com-800g-64781;Tomate Econômico 800g;0.0;0.0;un;1.0;42176;42176;Trebeschi;7898942930713;64781946;0
+2026-10-25;tomate-italiano-64785;Tomate Italiano 17kg;0.0;0.0;un;1.0;42179;42179;Atacadão S/A;64785984;64785984;0
+2026-10-25;tomate-pizzadoro-77647;Tomate Pizzadoro 800g;0.0;0.0;un;1.0;30779;30779;Trebeschi;7898936128188;77647992;0
+2026-10-25;extrato-de-tomate-bonare-pouch-com-300g-80545;Extrato de Tomate Bonare 300g;0.0;0.0;un;1.0;6534;6534;Bonare;7899659901041;80545975;0
+2026-10-25;extrato-de-tomate-elefante-pote-com-300g-83714;Extrato de Tomate Elefante 300g;0.0;0.0;un;1.0;6602;6602;Elefante;7896036000717;83714977;0
+2026-10-25;extrato-de-tomate-bonare-88218;Extrato de Tomate Bonare 140g;0.0;0.0;un;1.0;6507;6507;Bonare;7899659900099;88218949;0
+2026-10-25;extrato-de-tomate-elefante-lata-com-130g-30467;Extrato de Tomate Elefante 130g;0.0;0.0;un;1.0;38163;38163;Elefante;7896036095041;30467964;0
+2026-10-25;extrato-de-tomate-palmeiron-tp-com-270g-48493;Extrato de Tomate Palmeiron 270g;0.0;0.0;un;1.0;6718;6718;Palmeiron;7898366930740;48493964;0
+2026-10-25;extrato-de-tomate-julieta-sache-com-340g-82856;Extrato de Tomate Julieta 340g;0.0;0.0;un;1.0;6709;6709;Julieta;7908235000297;82856901;0
+2026-10-25;extrato-de-tomate-fugini-38401;Extrato de Tomate Fugini 190g;0.0;0.0;un;1.0;6682;6682;Fugini;7897517206338;38401924;0
+2026-10-25;extrato-de-tomate-quero-pouch-com-300g-84427;Extrato de Tomate Quero 300g;0.0;0.0;un;1.0;6782;6782;Quero;7896102502008;84427958;0
+2026-10-25;polpa-de-tomate-tambau-83912;Polpa de Tomate Tambaú 300g;0.0;0.0;un;1.0;38846;38846;Tambaú;7896945403234;83912940;0
+2026-10-25;tomate-seco-fornello-53110;Tomate Seco Fornello 100g;0.0;0.0;un;1.0;30794;30794;Fornello;7898167880213;53110990;0
+2026-10-25;extrato-de-tomate-tambau-pouch-com-300g-83508;Extrato de Tomate Tambaú 300g;0.0;0.0;un;1.0;6851;6851;Tambaú;7896945403104;83508936;0
+2026-10-25;extrato-de-tomate-ajinomoto-pouch-com-2kg-54058;Extrato de Tomate Ajinomoto 2kg;0.0;0.0;un;1.0;6502;6502;Ajinomoto;7891132009312;54058901;0
+2026-10-25;extrato-de-tomate-elefante-3249;Extrato de Tomate Elefante 850g;0.0;0.0;un;1.0;56473;56313;Elefante;7896036001592;3249961;0
+2026-10-25;tomate-pelado-sofruta-92409;Tomate Pelado Sófruta 240g;0.0;0.0;un;1.0;42688;42688;Sófruta;7898943450104;92409905;0
+2026-10-25;tomate-seco-jureia-88440;Tomate Seco Juréia 200g;0.0;0.0;un;1.0;42297;42297;Juréia;7896348205367;88440985;0
+2026-10-25;tomate-sem-pele-divella-30212;Tomate sem Pele Divella 400g;0.0;0.0;un;1.0;30841;30841;Divella;30212994;30212994;0
+2026-10-25;tomate-pelado-predilecta-lata-com-400g-81061;Tomate Pelado Predilecta 400g;0.0;0.0;un;1.0;30766;30766;Predilecta;7896292315310;81061967;0
+2026-10-25;tomate-pelado-hemmer-84121;Tomate Pelado Hemmer 240g;0.0;0.0;un;1.0;30758;30758;Hemmer;7891031409558;84121928;0
+2026-10-25;sardinha-pescador-tomate-lata-com-83g-16989;Sardinha Pescador Tomate 83g;0.0;0.0;un;1.0;20250;20250;Pescador;16989904;16989904;0
+2026-10-25;sardinha-nautique-tomate-63090;Sardinha Nautique Tomate 84g;0.0;0.0;un;1.0;20223;20223;Nautique;7898342050257;63090934;0
+2026-10-25;extrato-de-tomate-sofruta-59865;Extrato de Tomate Sófruta 300g;0.0;0.0;un;1.0;6817;6817;Sófruta;59865909;59865909;0
+2026-10-25;extrato-de-tomate-salsaretti-75166;Extrato de Tomate Salsaretti 190g;0.0;0.0;un;1.0;6808;6808;Salsaretti;7898930141824;75166937;0
+2026-10-25;extrato-de-tomate-pramesa-pouch-com-340g-36654;Extrato de Tomate Pramesa 340g;0.0;0.0;un;1.0;6735;6735;Pramesa;36654998;36654998;0
+2026-10-25;extrato-de-tomate-pramesa-85044;Extrato de Tomate Pramesa 280g;0.0;0.0;un;1.0;6726;6726;Pramesa;7898556015431;85044981;0
+2026-10-25;extrato-de-tomate-fugini-pouch-com-340g-28999;Extrato de Tomate Fugini 340g;0.0;0.0;un;1.0;6697;6697;Fugini;28999978;28999978;0
+2026-10-25;extrato-de-tomate-elefante-52742;Extrato de Tomate Elefante 375g;0.0;0.0;un;1.0;6593;6593;Elefante;7896036097069;52742998;0
+2026-10-25;extrato-de-tomate-bonare-61284;Extrato de Tomate Bonare 340g;0.0;0.0;un;1.0;6537;6537;Bonare;7898905153715;61284975;0
+2026-10-25;sardinha-coqueiro-tomate-15383;Sardinha Coqueiro Tomate 125g;0.0;0.0;un;1.0;20133;20133;Coqueiro;7896009301063;15383903;0
+2026-10-25;extrato-de-tomate-quero-tp-com-320g-8387;Extrato de Tomate Quero 320g;0.0;0.0;un;1.0;6798;6798;Quero;7896102502534;8387936;0
+2026-10-25;extrato-de-tomate-ole-61290;Extrato de Tomate Olé 190g;0.0;0.0;un;1.0;47782;47782;Olé;7891032015505;61290909;0
+2026-10-25;tomate-pelado-salsaretti-76672;Tomate Pelado Salsaretti 240g;0.0;0.0;un;1.0;30775;30775;Salsaretti;7898930141848;76672931;0
+2026-10-25;extrato-de-tomate-pomodoro-3229;Extrato de Tomate Pomodoro 300g;0.0;0.0;un;1.0;56465;56305;Pomodoro;7896036001431;3229904;0
+2026-10-25;tomate-grape-amarelo-1766;Tomate Grape Amarelo bdj;0.0;0.0;un;1.0;55685;55525;Atacadão S/A;7898050490123;1766999;0
+2026-10-25;extrato-de-tomate-sofruta-92447;Extrato de Tomate Sófruta 300g;0.0;0.0;un;1.0;42718;42718;Sófruta;7898943450043;92447917;0
+2026-10-25;polpa-de-tomate-sofruta-61470;Polpa de Tomate Sófruta 340g;0.0;0.0;un;1.0;31951;31951;Sófruta;61470935;61470935;0
+2026-10-25;polpa-de-tomate-quero-3165;Polpa de Tomate Quero 520g;0.0;0.0;un;1.0;31935;31935;Quero;7896102502961;3165989;0
+2026-10-25;tomate-veri-sem-pele-lata-com-240g-73330;Tomate Veri Sem Pele 240g;0.0;0.0;un;1.0;30902;30902;Veri;602883874558;73330926;0
+2026-10-25;tomate-seco-hemmer-84125;Tomate Seco Hemmer 110g;0.0;0.0;un;1.0;30809;30809;Hemmer;7891031409510;84125966;0
+2026-10-25;extrato-de-tomate-sofruta-38839;Extrato de Tomate Sófruta 140g;0.0;0.0;un;1.0;6827;6827;Sófruta;38839916;38839916;0
+2026-10-25;extrato-de-tomate-salsaretti-54118;Extrato de Tomate Salsaretti 330g;0.0;0.0;un;1.0;6803;6803;Salsaretti;7891080149290;54118969;0
+2026-10-25;batata-asterix-quilo-3023;Batata Asterix Quilo;5.89;5.89;kg;0.2;42050;42050;Atacadão S/A;3023;3023977;99999
+2026-10-25;batata-lavada-quilo-14691;Batata Lavada Quilo;5.89;5.89;kg;0.2;42114;42114;Atacadão S/A;14691;14691938;99999
+2026-10-25;batata-doce-quilo-1908;Batata Doce Quilo;4.89;4.89;kg;0.25;42032;42032;Atacadão S/A;1908;1908912;99999
+2026-10-25;batata-bolinha-quilo-43600;Batata Bolinha Quilo;5.29;5.29;un;1.0;42158;42158;Atacadão S/A;7898935261121;43600950;99999
+2026-10-25;nhoque-batata-batie-75172;Nhoque de Batata Batiê 1kg;17.5;17.5;un;1.0;15647;15647;Batiê;7896364405178;75172978;99999
+2026-10-25;batata-palha-bulnez-13818;Batata Palha Bulnez 400g;12.98;12.98;un;1.0;140912;61705;Bulnez;7898766840335;13818912;99999
+2026-10-25;batata-palha-bulnez-13819;Batata Palha Bulnez 800g;23.9;23.9;un;1.0;140913;61708;Bulnez;7898766840311;13819972;99999
+2026-10-25;batata-palha-bulnez-13817;Batata Palha Bulnez 100g;4.59;4.59;un;1.0;140911;61707;Bulnez;7898766840328;13817953;99999
+2026-10-25;batata-palha-elma-chips-14914;Batata Palha Elma Chips 190g;17.98;17.98;un;1.0;164489;62023;Elma Chips;7892840825232;14914964;99999
+2026-10-25;salgadinho-batata-lay-s-natural-14939;Salgadinho Batata Lay's Natural 275g;23.98;23.98;un;1.0;164495;62050;Lay's;7892840825201;14939917;99999
+2026-10-25;nhoque-de-batata-don-ravello-1407;Nhoque de Batata Don Ravello 500g;7.99;7.99;un;1.0;55542;55382;Don Ravello;618341191914;1407998;99999
+2026-10-25;salgadinho-batata-pringles-16832;Salgadinho Batata Pringles Tripack com 322g;27.9;27.9;un;1.0;170813;63053;Pringles;7896004012278;16832906;99999
+2026-10-25;salgadinho-batata-lay-s-natural-14910;Salgadinho Batata Lay's Natural 62g;9.98;9.98;un;1.0;68891;60877;Lay's;7892840825133;14910920;99999
+2026-10-25;batata-palha-elma-chips-14913;Batata Palha Elma Chips 360g;26.98;26.98;un;1.0;164487;62028;Elma Chips;7892840825225;14913904;99999
+2026-10-25;creme-de-batata-com-bacon-swift-2801;Creme de Batata com Bacon Swift 350g;21.9;21.9;un;1.0;56219;56059;Swift;7908625603695;2801903;99999
+2026-10-25;salgadinho-batata-chips-bulnez-natural-13821;Salgadinho Batata Chips Bulnez Natural 45g;2.59;2.59;un;1.0;140906;61709;Bulnez;7898766840250;13821975;99999
+2026-10-25;batata-pre-frita-bulnez-congelada-13936;Batata Pré-Frita Bulnez Congelada 2kg;23.9;23.9;un;1.0;139650;61676;Bulnez;7898733710500;13936941;99999
+2026-10-25;nhoque-de-batata-sadia-com-molho-bolonhesa-3655;Nhoque de Batata Sadia Com Molho Bolonhesa 300g;10.9;10.9;un;1.0;56677;56517;Sadia;7891515640811;3655966;99999
+2026-10-25;salgadinho-batata-chef-chips-picanha-2351;Salgadinho Batata Chef Chips Picanha 400g;20.49;20.49;un;1.0;55955;55795;Chef Chips;7898908071009;2351957;99999
+2026-10-25;batata-pre-frita-cancao-congelada-15710;Batata Pré-Frita Canção Congelada 2kg;22.9;22.9;un;1.0;165666;62313;Canção;7897200607671;15710936;99999
+2026-10-25;salgadinho-batata-lay-s-sal-marinho-10170;Salgadinho Batata Lay's Sal Marinho 108g;16.98;16.98;un;1.0;170878;63074;Lay's;7892840824501;10170949;99999
+2026-10-25;batata-pre-frita-newbraz-congelada-91546;Batata Pré-Frita Newbraz Congelada 2kg;23.5;23.5;un;1.0;41064;41064;Newbraz;609963116607;91546951;99999
+2026-10-25;salgadinho-batata-lisa-yokitos-classica-10912;Salgadinho Batata Lisa Yokitos Clássica 45g;1.57;1.57;un;1.0;60022;59854;Yokitos;7891095023158;10912933;99999
+2026-10-25;salgadinho-batata-chef-chips-picanha-2348;Salgadinho Batata Chef Chips Picanha 144g;8.98;8.98;un;1.0;55952;55792;Chef Chips;7898908069808;2348995;99999
+2026-10-25;batata-palha-yoki-extra-fina-3000;Batata Palha Yoki Extra fina 375g;25.99;25.99;un;1.0;56342;56182;Yoki;7891095911752;3000918;99999
+2026-10-25;salgadinho-batata-crisps-mania-original-95740;Salgadinho Batata Crisps Mania Original 30g;1.98;1.98;un;1.0;45832;45832;Crisps Mania;7898908069419;95740963;99999
+2026-10-25;salgadinho-batata-lisa-amavita-com-sal-95008;Salgadinho Batata Lisa Amavita Com sal 80g;5.49;5.49;un;1.0;49403;49403;Amavita;7898931140246;95008987;99999
+2026-10-25;batata-palito-swift-congelada-1039;Batata Palito Swift Congelada 1,5kg;19.9;19.9;un;1.0;55379;55222;Swift;7908625604852;1039915;99999
+2026-10-25;batata-rustica-copacol-congelada-94878;Batata Rústica Copacol Congelada 1,1kg;22.9;22.9;un;1.0;45159;45159;Copacol;7891527065503;94878972;99999
+2026-10-25;salgadinho-batata-chef-chips-costela-2350;Salgadinho Batata Chef Chips Costela 400g;20.49;20.49;un;1.0;55954;55794;Chef Chips;7898908069846;2350992;99999
+2026-10-25;salgadinho-batata-chef-chips-lisa-original-2349;Salgadinho Batata Chef Chips Lisa Original 400g;20.49;20.49;un;1.0;55953;55793;Chef Chips;7898908069822;2349954;99999
+2026-10-25;batata-pre-frita-quality-fries-congelada-54299;Batata Pré-Frita Quality Fries Congelada 2kg;24.5;24.5;un;1.0;20775;20775;Quality Fries;7898945210294;54299945;99999
+2026-10-25;batata-pre-frita-mccain-congelada-crinkle-88393;Batata Pré-Frita McCain Congelada Crinkle 1,5kg;30.9;30.9;un;1.0;39057;39057;McCain;7896105801047;88393969;99999
+2026-10-25;batata-pre-frita-quality-fries-congelada-corte-fino-76363;Batata Pre Frita Quality Fries Cong Corte Fino 2kg;26.9;26.9;un;1.0;20614;20614;Quality Fries;7898623592193;76363939;99999
+2026-10-25;batata-pre-frita-bem-brasil-congelada-tradicional-pacote-com-1-05kg-74429;Batata Pré-Frita Bem Brasil Congelada Tradicional 1,05kg;15.9;15.9;un;1.0;20643;20643;Bem Brasil;7898921567336;74429978;99999
+2026-10-25;batata-pre-frita-bem-brasil-congelada-air-fryer-9517;Batata Pré-Frita Bem Brasil Congelada Air Fryer 1,2kg;22.9;22.9;un;1.0;59349;59188;Bem Brasil;7898733710340;9517969;99999
+2026-10-25;batata-pre-frita-bem-brasil-congelada-corte-fino-9518;Batata Pré-Frita Bem Brasil Congelada Corte Fino 1,5kg;25.9;25.9;un;1.0;59350;59189;Bem Brasil;7898921567008;9518928;99999
+2026-10-25;batata-palha-yoki-tradicional-15964;Batata Palha Yoki Tradicional Leve 105g Pague 90g;7.99;7.99;un;1.0;169054;62578;Yoki;7891095031696;15964953;99999
+2026-10-25;batata-pre-frita-prime-fries-congelada-95686;Batata Pré-Frita Prime Fries Congelada 1,5kg;17.9;17.9;un;1.0;45749;45749;Prime Fries;7898623591875;95686947;99999
+2026-10-25;prato-feito-swift-congelado-sobrecoxa-de-frango-com-batata-e-arroz-18384;Prato Feito Swift Cong Sobrecoxa com Mostarda e Mel, Batata e Arroz 300g;16.9;16.9;un;1.0;187258;64427;Swift;7908625608638;18384957;99999
+2026-10-25;batata-pre-frita-mais-batata-congelada-51010;Batata Pré-Frita Mais Batata Congelada 2kg;0.0;0.0;un;1.0;20721;20721;Mais Batata;7898921567121;51010913;0
+2026-10-25;batata-pre-frita-bem-brasil-congelada-mais-batata-10307;Batata Pré-Frita Bem Brasil Congelada Mais Batata 400g;0.0;0.0;un;1.0;59608;59447;Bem Brasil;7898921567077;10307988;0
+2026-10-25;batata-lavada-saco-com-5kg-1911;Batata Lavada 5kg;0.0;0.0;un;1.0;42033;42033;Atacadão S/A;1911993;1911993;0
+2026-10-25;batata-lavada-saco-com-48kg-11826;Batata Lavada 48kg;0.0;0.0;un;1.0;42108;42108;Atacadão S/A;7898904334016;11826976;0
+2026-10-25;batata-lavada-11827;Batata Lavada 24kg;0.0;0.0;un;1.0;42109;42109;Atacadão S/A;7896292900639;11827935;0
+2026-10-25;pao-batata-87730;Pão Batata kg;0.0;0.0;kg;0.3;46688;46688;Atacadão S/A;87730;87730982;0
+2026-10-25;batata-bolinha-quilo-14663;Batata Bolinha Quilo;0.0;0.0;kg;0.1;42113;42113;Atacadão S/A;14663;14663922;0
+2026-10-25;batata-bolinha-quilo-2148;Batata Bolinha Quilo;0.0;0.0;un;1.0;55847;55687;Atacadão S/A;2148912;2148912;0
+2026-10-25;batata-asteriq-7909;Batata Asterix 25kg;0.0;0.0;un;1.0;54301;52968;Atacadão S/A;7909960;7909960;0
+2026-10-25;bolo-de-batata-94754;Bolo de Batata quilo;0.0;0.0;kg;0.3;44991;44991;Atacadão S/A;94754;94754987;0
+2026-10-25;batata-lavada-saco-com-10kg-12887;Batata Lavada 10kg;0.0;0.0;un;1.0;42111;42111;Atacadão S/A;12887902;12887902;0
+2026-10-25;pao-de-batata-87649;Pão de Batata kg;0.0;0.0;kg;0.3;46664;46664;Atacadão S/A;87649;87649909;0
+2026-10-25;batata-fugini-92105;Batata Fugini 170g;0.0;0.0;un;1.0;41874;41874;Fugini;7897517209445;92105995;0
+2026-10-25;batata-palha-amavita-90344;Batata Palha Amavita 400g;0.0;0.0;un;1.0;40589;40589;Amavita;7898931140215;90344932;0
+2026-10-25;batata-palha-sullper-45176;Batata Palha Sullper 400g;0.0;0.0;un;1.0;20518;20518;Sullper;7896245704543;45176918;0
+2026-10-25;pure-de-batata-qualimax-pacote-com-800g-60983;Purê de Batata Qualimax 800g;0.0;0.0;un;1.0;38338;38338;Qualimax;7891122116136;60983935;0
+2026-10-25;pao-de-batata-bgm-13124;Pão de Batata BGM quilo;0.0;0.0;kg;0.3;171681;63308;BGM;13124;13124915;0
+2026-10-25;bolo-pannemix-batata-13061;Bolo Pannemix Batata quilo;0.0;0.0;kg;0.3;171570;63279;Pannemix;13061;13061970;0
+2026-10-25;nhoque-de-batata-romanha-7769;Nhoque de Batata Romanha 1kg;0.0;0.0;un;1.0;58511;58350;Romanha;7896020900870;7769965;0
+2026-10-25;pao-de-batata-marquespan-6360;Pão de Batata Marquespan quilo;0.0;0.0;kg;0.3;58002;57842;Marquespan;6360;6360962;0
+2026-10-25;batata-palha-beyv-s-89740;Batata Palha Beyv's 400g;0.0;0.0;un;1.0;53305;52765;Beyv's;7898908069075;89740956;0
+2026-10-25;batata-palha-fritei-95354;Batata Palha Fritei 800g;0.0;0.0;un;1.0;45402;45402;Fritei;7899593300764;95354920;0
+2026-10-25;pure-de-batata-kisabor-84058;Purê de Batata Kisabor 1kg;0.0;0.0;un;1.0;34387;34387;Kisabor;7898416529504;84058999;0
+2026-10-25;pao-de-batata-farina-s-pacote-com-250g-33474;Pão de Batata Farina's 250g;0.0;0.0;un;1.0;21392;21392;Farina's;33474978;33474978;0
+2026-10-25;batata-palha-zeze-85760;Batata Palha Zezé 70g;0.0;0.0;un;1.0;20584;20584;Zezé;7896200052986;85760920;0
+2026-10-25;batata-palha-sullper-46773;Batata Palha Sullper 1kg;0.0;0.0;un;1.0;20514;20514;Sullper;7896245704697;46773985;0
+2026-10-25;batata-palha-kaua-74795;Batata Palha Kauã 800g;0.0;0.0;un;1.0;20386;20386;Kauã;7897210201227;74795961;0
+2026-10-25;amassador-de-batata-cicley-45249;Amassador de Batata Cicley un;0.0;0.0;un;1.0;11137;11137;Cicley;7891251001785;45249953;0
+2026-10-25;batata-palha-amavita-44276;Batata Palha Amavita 80g;0.0;0.0;un;1.0;20225;20225;Amavita;7898931140512;44276911;0
+2026-10-25;batata-palha-yolle-16646;Batata Palha Yolle 800g;0.0;0.0;un;1.0;170232;62933;Yolle;7896225743784;16646940;0
+2026-10-25;batata-palha-amarelinha-74796;Batata Palha Amarelinha 800g;0.0;0.0;un;1.0;20199;20199;Semalo;7896221402593;74796920;0
+2026-10-25;batata-palha-graticia-9536;Batata Palha Gratícia 80g;0.0;0.0;un;1.0;59363;59202;Gratícia;7897878900418;9536966;0
+2026-10-25;batata-palha-zeze-85758;Batata Palha Zezé 110g;0.0;0.0;un;1.0;20580;20580;Zezé;7896200052993;85758923;0
+2026-10-25;batata-palha-scrusch-pacote-com-80g-69834;Batata Palha Scrusch 80g;0.0;0.0;un;1.0;20500;20500;Scrusch;7891091063301;69834914;0
+2026-10-25;batata-palha-brisa-58839;Batata Palha Brisa 800g;0.0;0.0;un;1.0;20251;20251;Brisa (Crokitos);7898936296061;58839914;0
+2026-10-25;batata-palha-iane-18894;Batata Palha Iane 700g;0.0;0.0;un;1.0;191450;64616;Iane;7898005862876;18894991;0
+2026-10-25;bolo-bgm-batata-13188;Bolo BGM Batata quilo;0.0;0.0;kg;0.3;171689;63313;BGM;13188;13188922;0
+2026-10-25;batata-palha-bulnez-16890;Batata Palha Bulnez 60g;0.0;0.0;un;1.0;170955;63101;Bulnez;7898110843661;16890951;0
+2026-10-25;pao-de-batata-pancristal-13991;Pão de Batata Pancristal quilo;0.0;0.0;kg;0.3;168480;62534;Pancristal;13991;13991913;0
+2026-10-25;nhoque-de-batata-romanha-7804;Nhoque de Batata Romanha 500g;0.0;0.0;un;1.0;58532;58371;Romanha;7896020900610;7804972;0
+2026-10-25;batata-palha-amacroc-6715;Batata Palha Amacroc 400g;0.0;0.0;un;1.0;58105;57945;Amacroc;7898766840106;6715938;0
+2026-10-25;pao-de-batata-pangostoso-1457;Pão de Batata Pangostoso 250g;0.0;0.0;un;1.0;55561;55401;Pangostoso;7897442601772;1457906;0
+2026-10-25;batata-palha-beyv-s-89739;Batata Palha Beyv's 800g;0.0;0.0;un;1.0;53304;52764;Beyv's;7898908069051;89739918;0
+2026-10-25;batata-doce-branca-20950;Batata Doce Branca Quilo;0.0;0.0;kg;1.0;49289;49289;Atacadão S/A;20950;20950920;0
+2026-10-25;batata-palha-fritei-95408;Batata Palha Fritei 400g;0.0;0.0;un;1.0;45426;45426;Fritei;7899593300061;95408940;0
+2026-10-25;batata-palha-lucky-68460;Batata Palha Lucky 400g;0.0;0.0;un;1.0;20421;20421;Lucky;68460943;68460943;0
+2026-10-25;batata-palha-karis-59256;Batata Palha Karis 800g;0.0;0.0;un;1.0;20381;20381;Karis;7898936296030;59256944;0
+2026-10-25;batata-palha-amavita-53496;Batata Palha Amavita 500g;0.0;0.0;un;1.0;20216;20216;Amavita;7898931140259;53496951;0
+2026-10-25;batata-palha-amavita-64353;Batata Palha Amavita 1kg;0.0;0.0;un;1.0;20204;20204;Amavita;7898931140550;64353966;0
+2026-10-25;batata-em-flocos-nutrimax-72718;Batata em Flocos Nutrimax 1kg;0.0;0.0;un;1.0;20194;20194;Nutrimax;7896699306881;72718917;0
+2026-10-25;batata-palha-confraria-67967;Batata Palha Confraria 400g;0.0;0.0;un;1.0;20260;20260;Confraria;7898931140659;67967922;0
+2026-10-25;batata-doce-69510;Batata Doce bdj 600g;0.0;0.0;un;1.0;42183;42183;Atacadão S/A;69510941;69510941;0
+2026-10-25;batata-palha-da-terrinha-91313;Batata Palha Da Terrinha 100g;0.0;0.0;un;1.0;41503;41503;Da Terrinha;7898693230674;91313956;0
+2026-10-25;batata-palha-amavita-90345;Batata Palha Amavita 800g;0.0;0.0;un;1.0;40590;40590;Amavita;7898931140994;90345992;0
+2026-10-25;batata-palha-amavita-83998;Batata Palha Amavita 300g;0.0;0.0;un;1.0;20211;20211;Amavita;7898931140574;83998922;0
+2026-10-25;batata-palha-sullper-80619;Batata Palha Sullper 800g;0.0;0.0;un;1.0;20523;20523;Sullper;7896245704703;80619969;0
+2026-10-25;laranja-importada-quilo-8353;Laranja Importada Quilo;10.9;10.9;kg;0.15;42085;42085;Atacadão S/A;8353;8353964;99999
+2026-10-25;laranja-pera-49863;Laranja-pera 10kg;18.9;18.9;un;1.0;42165;42165;Atacadão S/A;49863992;49863992;99999
+2026-10-25;laranja-pera-55266;Laranja-pera 18kg;45.9;45.9;un;1.0;46602;46602;Atacadão S/A;55266;55266930;99999
+2026-10-25;laranja-lima-14331;Laranja-lima 2kg;9.9;9.9;un;1.0;42112;42112;Atacadão S/A;14331996;14331996;99999
+2026-10-25;refresco-maguary-laranja-9125;Refresco Maguary Laranja 200ml;1.89;1.89;un;1.0;59196;59035;Maguary;7896005404126;9125964;99999
+2026-10-25;bolo-milla-laranja-94533;Bolo Milla Laranja 300g;12.49;12.49;un;1.0;60238;60069;Milla;7898919501410;94533989;99999
+2026-10-25;laranja-pera-granel-11672;Laranja-pera Granel Quilo;3.59;3.59;kg;0.15;42107;42107;Atacadão S/A;11672;11672947;99999
+2026-10-25;suco-life-laranja-pet-com-900ml-84728;Suco Life Laranja 900ml;9.5;9.5;un;1.0;25782;25782;Life;7897195981374;84728991;99999
+2026-10-25;isotonico-tnt-laranja-93312;Isotônico TNT Laranja 500ml;4.49;4.49;un;1.0;43708;43708;TNT;7898377661695;93312993;99999
+2026-10-25;suco-nectar-bulnez-laranja-15237;Suco Néctar Bulnez Laranja 2L;5.99;5.99;un;1.0;170795;63041;Bulnez;7896437902474;15237959;99999
+2026-10-25;suco-natural-one-laranja-5824;Suco Natural One Laranja 300ml;5.7;5.7;un;1.0;57764;57604;Natural One;7899916900329;5824950;99999
+2026-10-25;suco-de-laranja-oq-integral-5017;Suco de Laranja OQ Integral 1L;13.9;13.9;un;1.0;57372;57212;OQ;7898942775703;5017932;99999
+2026-10-25;saponaceo-cremoso-sapolio-laranja-16061;Saponáceo Cremoso Sapólio Laranja 450ml;13.95;13.95;un;1.0;169478;62649;Radium;7891022868302;16061964;99999
+2026-10-25;suco-de-laranja-xando-integral-67102;Suco de Laranja Xandô Integral 900ml;9.99;9.99;un;1.0;24936;24936;Xandô;7896623100509;67102909;99999
+2026-10-25;suco-life-laranja-10245;Suco Life Laranja 2,5L;23.5;23.5;un;1.0;59570;59409;Life;7897195981657;10245908;99999
+2026-10-25;suco-life-laranja-10233;Suco Life Laranja 3,5L;29.9;29.9;un;1.0;59569;59408;Life;7897195981664;10233911;99999
+2026-10-25;refresco-liquido-maguary-laranja-15293;Refresco Líquido Maguary Laranja 250ml;2.89;2.89;un;1.0;185309;64146;Maguary;7896005404591;15293991;99999
+2026-10-25;refrigerante-fanta-laranja-zero-40666;Refrigerante Fanta Laranja Zero 350ml;3.79;3.79;un;1.0;4767;4767;Fanta;40666986;40666986;99999
+2026-10-25;sabonete-bulnez-laranja-e-mandarina-14833;Sabonete Bulnez Laranja e Mandarina 80g;1.45;1.45;un;1.0;170798;63042;Bulnez;7908324410983;14833970;99999
+2026-10-25;suco-life-laranja-10282;Suco Life Laranja 1,5L;13.9;13.9;un;1.0;59587;59426;Life;7897195981602;10282943;99999
+2026-10-25;refresco-liquido-maguary-laranja-97616;Refresco Líquido Maguary Laranja 1L;4.99;4.99;un;1.0;47723;47723;Maguary;7896005404072;97616996;99999
+2026-10-25;sabonete-liquido-francis-laranja-16403;Sabonete Líquido Francis Laranja 200ml;6.99;6.99;un;1.0;169763;62735;Francis;7908324410112;16403949;99999
+2026-10-25;refresco-liquido-camp-laranja-14765;Refresco Líquido Camp Laranja 200ml;1.59;1.59;un;1.0;164747;62099;Camp;7898409875403;14765932;99999
+2026-10-25;refresco-liquido-camp-laranja-14764;Refresco Líquido Camp Laranja 1L;4.99;4.99;un;1.0;164746;62090;Camp;7898409875304;14764973;99999
+2026-10-25;suco-de-laranja-prat’s-integral-4410;Suco de Laranja Prat’s Integral 1,5L;17.9;17.9;un;1.0;57058;56898;Prat's;7898953148879;4410966;99999
+2026-10-25;iogurte-frutap-cenoura--laranja-e-mel-copo-com-150g-78415;Iogurte Frutap Cenoura, Laranja e Mel 150g;2.49;2.49;un;1.0;23405;23405;Frutap;7896862002770;78415954;99999
+2026-10-25;suco-natural-one-laranja-7521;Suco Natural One Laranja 1,7L;13.89;13.89;un;1.0;58400;58240;Natural One;7899916918829;7521995;99999
+2026-10-25;refresco-em-po-tang-laranja-com-mamao-1199;Refresco em Pó Tang Laranja com Mamão 18g;0.94;0.94;un;1.0;55458;55298;Tang;7622210571847;1199965;99999
+2026-10-25;suco-de-laranja-campo-largo-integral-61829;Suco de Laranja Campo Largo Integral 200ml;2.49;2.49;un;1.0;24860;24860;Campo Largo;7896931613845;61829949;99999
+2026-10-25;suplemento-alimentar-baly-kids-laranja-1058;Suplemento Alimentar Baly Kids Laranja 220ml;4.99;4.99;un;1.0;55388;55231;Baly;7898080665720;1058912;99999
+2026-10-25;suco-natural-one-laranja-e-maca-3600;Suco Natural One Laranja e Maçã 300ml;4.29;4.29;un;1.0;56646;56486;Natural One;7899916917624;3600954;99999
+2026-10-25;cha-verde-natural-tea-laranja-e-gengibre-50349;Chá Verde Natural Tea Laranja e Gengibre 1L;5.9;5.9;un;1.0;15027;15027;Natural Tea;7896000595560;50349933;99999
+2026-10-25;iogurte-natural-carolina-laranja--cenoura-e-mel-4272;Iogurte Natural Carolina Laranja, Cenoura e Mel 160g;3.29;3.29;un;1.0;56987;56827;Carolina;7896691100234;4272978;99999
+2026-10-25;suco-nectar-misto-tial-laranja-e-pera-96019;Suco Néctar Misto Tial Laranja e Pera 200ml;1.69;1.69;un;1.0;46187;46187;Tial;7896005311783;96019940;99999
+2026-10-25;suco-nectar-misto-tial-laranja-e-maca-9152;Suco Néctar Misto Tial Laranja e Maçã 250ml;2.69;2.69;un;1.0;59206;59045;Tial;7896005312216;9152920;99999
+2026-10-25;suco-de-laranja-campo-largo-integral-60086;Suco de Laranja Campo Largo Integral 1,35L;14.9;14.9;un;1.0;24857;24857;Campo Largo;7896931614170;60086904;99999
+2026-10-25;iogurte-integral-serramar-cenoura--laranja-e-mel-7169;Iogurte Integral Serramar Cenoura, Laranja e Mel 170g;2.19;2.19;un;1.0;58249;58089;Serramalte;7897951670658;7169918;99999
+2026-10-25;mistura-para-bolo-dr--oetker-laranja-84145;Mistura para Bolo Dr. Oetker Laranja 400g;5.48;5.48;un;1.0;10224;10224;Dr. Oetker;7891048061718;84145922;99999
+2026-10-25;cadeira-de-praia-tramontina-samoa-azul-laranja-11062;Cadeira de Praia Tramontina Samoa Azul/Laranja un;89.9;89.9;un;1.0;60057;59889;Tramontina;7908538103565;11062933;99999
+2026-10-25;bolo-para-air-fryer-dr--oetker-laranja-5794;Bolo para Air Fryer Dr. Oetker Laranja 230g;4.98;4.98;un;1.0;57751;57591;Dr. Oetker;7891048084823;5794906;99999
+2026-10-25;laranja-mimo-do-ceu-13347;Laranja Mimo do Céu Quilo;0.0;0.0;kg;0.15;46559;46559;Atacadão S/A;13347;13347932;0
+2026-10-25;laranja-bahia-88615;Laranja Bahia Quilo;0.0;0.0;kg;0.15;46648;46648;Atacadão S/A;88615;88615935;0
+2026-10-25;laranja-pera-2488;Laranja-pera Quilo;0.0;0.0;kg;0.15;46525;46525;Atacadão S/A;2488;2488999;0
+2026-10-25;laranja-pera-3863;Laranja-pera 20kg;0.0;0.0;un;1.0;46529;46529;Atacadão S/A;7898903061487;3863907;0
+2026-10-25;laranja-pera-19869;Laranja-pera 4kg;0.0;0.0;un;1.0;46562;46562;Atacadão S/A;19869951;19869951;0
+2026-10-25;laranja-lima-1494;Laranja-lima Quilo;0.0;0.0;kg;0.15;46512;46512;Atacadão S/A;1494;1494941;0
+2026-10-25;laranja-pera-24122;Laranja-pera 5kg;0.0;0.0;un;1.0;42139;42139;Atacadão S/A;24122994;24122994;0
+2026-10-25;bolo-de-laranja-87758;Bolo de Laranja un;0.0;0.0;kg;0.3;49355;49355;Atacadão S/A;87758;87758919;0
+2026-10-25;laranja-pera-6113;Laranja-pera 3kg;0.0;0.0;un;1.0;46538;46538;Atacadão S/A;7898258410046;6113973;0
+2026-10-25;refrigerante-fanta-laranja-12588;Refrigerante Fanta Laranja 2L;0.0;0.0;un;1.0;4704;4704;Fanta;7894900031515;12588989;0
+2026-10-25;suco-xando-laranja-90430;Suco Xandô Laranja 3L;0.0;0.0;un;1.0;40394;40394;Xandô;7896623100721;90430901;0
+2026-10-25;bolo-pullman-laranja-4368;Bolo Pullman Laranja 250g;0.0;0.0;un;1.0;35009;35009;Pullman;7896002361033;4368947;0
+2026-10-25;suco-fazenda-laranja-pet-com-300ml-83632;Suco Fazenda Laranja 300ml;0.0;0.0;un;1.0;25405;25405;Fazenda Bela Vista;7896229800810;83632923;0
+2026-10-25;refrigerante-goob-laranja-85449;Refrigerante Goob Laranja 230ml;0.0;0.0;un;1.0;5367;5367;Goob;7898949352075;85449931;0
+2026-10-25;refrigerante-fanta-laranja-3058;Refrigerante Fanta Laranja 1L;0.0;0.0;un;1.0;4656;4656;Fanta;7894900031713;3058908;0
+2026-10-25;refrigerante-ternura-laranja-pet-com-2l-76597;Refrigerante Ternura Laranja 2L;0.0;0.0;un;1.0;7252;7252;Ternura;7898942055416;76597994;0
+2026-10-25;refrigerante-cini-laranja-45353;Refrigerante Cini Laranja 2L;0.0;0.0;un;1.0;3572;3572;Cini;7896188403022;45353966;0
+2026-10-25;refrigerante-zitto-laranja-89228;Refrigerante Zitto Laranja 2L;0.0;0.0;un;1.0;44777;44777;Zitto;7898373243567;89228925;0
+2026-10-25;refrigerante-fruki-laranja-92866;Refrigerante Fruki Laranja 200ml;0.0;0.0;un;1.0;43328;43328;Fruki;7896436102882;92866979;0
+2026-10-25;refrigerante-fanta-laranja-18870;Refrigerante Fanta Laranja 2L;0.0;0.0;un;1.0;38137;38137;Fanta;18870991;18870991;0
+2026-10-25;refrigerante-cliper-laranja-pet-com-200ml-73986;Refrigerante Cliper Laranja 200ml;0.0;0.0;un;1.0;3621;3621;Cliper;7898352420125;73986926;0
+2026-10-25;bolo-divino-laranja-94743;Bolo Divino Laranja 400g;0.0;0.0;un;1.0;185785;64205;Divino;7898273230711;94743949;0
+2026-10-25;refrigerante-bulnez-laranja-17519;Refrigerante Bulnez Laranja 1L;0.0;0.0;un;1.0;184202;64023;Bulnez;7898774580254;17519991;0
+2026-10-25;bolo-pannemix-laranja-13065;Bolo Pannemix Laranja quilo;0.0;0.0;kg;0.3;163696;61875;Pannemix;13065;13065907;0
+2026-10-25;bolo-qualibread-laranja-12428;Bolo Qualibread Laranja 250g;0.0;0.0;un;1.0;114502;61150;Marsala;7898087591534;12428928;0
+2026-10-25;geleia-sorocaba-laranja-2578;Geleia Sorocaba Laranja 300g;0.0;0.0;un;1.0;56085;55925;Sorocaba;7898328850512;2578911;0
+2026-10-25;suco-life-laranja-89788;Suco Life Laranja 3L;0.0;0.0;un;1.0;53308;52768;Life;7897195981534;89788950;0
+2026-10-25;bolo-bokitus-laranja-98247;Bolo Bokitus Laranja un;0.0;0.0;un;1.0;48233;48233;Bokitu's;7908069500123;98247923;0
+2026-10-25;suco-mitz-laranja-97542;Suco Mitz Laranja 300ml;0.0;0.0;un;1.0;47557;47557;Mitz;7898996026660;97542901;0
+2026-10-25;bolo-bokitu-s-laranja-96217;Bolo Bokitu's Laranja 350g;0.0;0.0;un;1.0;46045;46045;Bokitu's;96217993;96217993;0
+2026-10-25;isotonico-powerade-laranja-752;Isotônico Powerade Laranja 500ml;0.0;0.0;un;1.0;45082;45082;Powerade;752965;752965;0
+2026-10-25;refrigerante-splash-laranja-93274;Refrigerante Splash Laranja 600ml;0.0;0.0;un;1.0;43675;43675;Splash;7898929064073;93274990;0
+2026-10-25;bolo-mais-que-pao-laranja-89537;Bolo Mais que Pão Laranja 400g;0.0;0.0;un;1.0;40555;40555;Mais que Pão;192505398178;89537917;0
+2026-10-25;bolo-caramella-laranja-90310;Bolo Caramella Laranja 350g;0.0;0.0;un;1.0;40170;40170;Caramella;70341989654;90310954;0
+2026-10-25;bolo-bamboo-laranja-86923;Bolo Bamboo Laranja 500g;0.0;0.0;un;1.0;39034;39034;Bamboo;7893595200572;86923972;0
+2026-10-25;refrigerante-fanta-laranja-pet-com-1l-33424;Refrigerante Fanta Laranja 1L;0.0;0.0;un;1.0;38169;38169;Fanta;33424987;33424987;0
+2026-10-25;refrigerante-sukita-laranja-pet-com-2l-29012;Refrigerante Sukita Laranja 2L;0.0;0.0;un;1.0;38160;38160;Sukita;29012925;29012925;0
+2026-10-25;bolo-de-panes-laranja-85306;Bolo De Panes Laranja 400g;0.0;0.0;un;1.0;34769;34769;De Panes;7898043740723;85306931;0
+2026-10-25;suco-suq-laranja-pet-com-900ml-75228;Suco Suq Laranja 900ml;0.0;0.0;un;1.0;26894;26894;Suq;7898956109211;75228934;0
+2026-10-25;suco-nutri-laranja-34304;Suco Nutri Laranja 1L;0.0;0.0;un;1.0;26629;26629;Nutrinéctar;7898920195103;34304919;0
+2026-10-25;isotonico-jungle-laranja-72041;Isotônico Jungle Laranja 500ml;0.0;0.0;un;1.0;25255;25255;Jungle;7898955705773;72041909;0
+2026-10-25;suco-de-laranja-neat-bombona-com-4l-60793;Suco de Laranja Neat 4L;0.0;0.0;un;1.0;24865;24865;Neat;60793931;60793931;0
+2026-10-25;geleia-ritter-laranja-77817;Geleia Ritter Laranja 310g;0.0;0.0;un;1.0;19442;19442;Ritter;7896104805954;77817939;0
+2026-10-25;alimento-sollys-laranja-tp-com-200ml-29818;Alimento Sollys Laranja 200ml;0.0;0.0;un;1.0;9150;9150;Sollys;29818900;29818900;0
+2026-10-25;refrigerante-viver-laranja-pet-com-2l-70465;Refrigerante Viver Laranja 2L;0.0;0.0;un;1.0;7512;7512;Viver;7897417405640;70465941;0
+2026-10-25;refrigerante-uliana-laranja-57754;Refrigerante Uliana Laranja 2L;0.0;0.0;un;1.0;7485;7485;Uliana;7898745960122;57754985;0
+2026-10-25;refrigerante-tiss-laranja-66659;Refrigerante Tiss Laranja 350ml;0.0;0.0;un;1.0;7341;7341;Tiss;7896263503647;66659992;0
+2026-10-25;refrigerante-rochedo-laranja-pet-com-2l-44677;Refrigerante Rochedo Laranja 2L;0.0;0.0;un;1.0;6678;6678;Rochedo;7898215653684;44677935;0
+2026-10-25;refrigerante-river-laranja-41678;Refrigerante River Laranja 500ml;0.0;0.0;un;1.0;6664;6664;River;7898004130396;41678900;0
+2026-10-25;refrigerante-river-laranja-41674;Refrigerante River Laranja 2L;0.0;0.0;un;1.0;6659;6659;River;7898004130044;41674963;0
+2026-10-25;refrigerante-refriko-laranja-57361;Refrigerante Refriko Laranja 2L;0.0;0.0;un;1.0;6609;6609;Refriko;7898942053047;57361920;0
+2026-10-25;refrigerante-maraja-laranja-pet-com-2l-28922;Refrigerante Marajá Laranja 2L;0.0;0.0;un;1.0;5916;5916;Marajá;7897417400157;28922914;0
+2026-10-25;refrigerante-frutilla-laranja-6056;Refrigerante Frutilla Laranja 2L;0.0;0.0;un;1.0;5150;5150;Frutilla;7897043900021;6056984;0
+2026-10-25;refrigerante-fruki-laranja-28570;Refrigerante Fruki Laranja 2L;0.0;0.0;un;1.0;5121;5121;Fruki;7896436100123;28570916;0
+2026-10-25;refrigerante-fanta-laranja-pet-com-500ml-7845;Refrigerante Fanta Laranja 500ml;0.0;0.0;un;1.0;4719;4719;Fanta;7894900033564;7845962;0
+2026-10-25;refrigerante-delrio-laranja-pet-com-1l-58853;Refrigerante Delrio Laranja 1L;0.0;0.0;un;1.0;4327;4327;Delrio;7898213970268;58853914;0
+2026-10-25;refrigerante-amazonia-laranja-pet-com-2l-81962;Refrigerante Amazônia Laranja 2L;0.0;0.0;un;1.0;3303;3303;Amazônia;7898049920020;81962935;0
+2026-10-25;refrigerante-sukita-laranja-72087;Refrigerante Sukita Laranja 200ml;0.0;0.0;un;1.0;7164;7164;Sukita;7891149108282;72087979;0
+2026-10-25;bolo-panco-laranja-53462;Bolo Panco Laranja 300g;0.0;0.0;un;1.0;34902;34902;Panco;7891203059314;53462979;0
+2026-10-25;refrigerante-sukita-laranja-5409;Refrigerante Sukita Laranja 350ml;0.0;0.0;un;1.0;7146;7146;Sukita;7891149440603;5409908;0
+2026-10-25;maca-gala-1822;Maçã Gala 17kg;117.0;117.0;un;1.0;42014;42014;Atacadão S/A;1822939;1822939;99999
+2026-10-25;banana-maca-quilo-1661;Banana Maçã Quilo;12.9;12.9;kg;0.15;41989;41989;Atacadão S/A;1661;1661910;99999
+2026-10-25;maca-nacional-gala-quilo-1825;Maçã Nacional Gala Quilo;6.98;6.98;kg;0.15;42015;42015;Atacadão S/A;1825;1825917;99999
+2026-10-25;torta-de-maca-swift-2683;Torta de Maçã Swift 125g;17.5;17.5;un;1.0;56151;55991;Swift;7908625605606;2683984;99999
+2026-10-25;maca-nacional-fuji-1827;Maçã Nacional Fuji Quilo;4.98;4.98;kg;0.15;42017;42017;Atacadão S/A;1827;1827936;99999
+2026-10-25;maca-bulnez-13784;Maçã Bulnez Pacote com 850g;6.29;6.29;un;1.0;167961;62499;Bulnez;7898689482452;13784931;99999
+2026-10-25;maca-verde-importada-quilo-5603;Maçã Verde Importada Quilo;17.9;17.9;kg;0.15;42070;42070;Atacadão S/A;5603;5603934;99999
+2026-10-25;maca-red-importada-quilo-1819;Maçã Red Importada Quilo;16.9;16.9;kg;0.18;42013;42013;Atacadão S/A;1819;1819977;99999
+2026-10-25;sidra-lider-maca-30021;Sidra Líder Maçã 660ml;11.89;11.89;un;1.0;21892;21892;Líder (Líder Bebidas);7898280620215;30021941;99999
+2026-10-25;detergente-liquido-bulnez-maca-15208;Detergente Líquido Bulnez Maçã 500ml;1.99;1.99;un;1.0;170515;62982;Bulnez;7896105510635;15208966;99999
+2026-10-25;vinagre-organico-almaromi-maca-10209;Vinagre Orgânico Almaromi Maçã 500ml;25.9;25.9;un;1.0;59557;59396;Almaromi;7898908593624;10209915;99999
+2026-10-25;sidra-sem-alcool-lider-maca-62391;Sidra sem Álcool Líder Maçã 660ml;12.9;12.9;un;1.0;21897;21897;Líder (Líder Bebidas);7898280620505;62391964;99999
+2026-10-25;vinagre-de-fruta-bulnez-maca-14384;Vinagre de Fruta Bulnez Maçã 500ml;4.59;4.59;un;1.0;165559;62294;Bulnez;7896089328318;14384965;99999
+2026-10-25;vinagre-de-fruta-almaromi-maca-92491;Vinagre de Fruta Almaromi Maçã 400ml;5.29;5.29;un;1.0;41955;41955;Almaromi;7898908593310;92491952;99999
+2026-10-25;suco-integral-tial-maca-64177;Suco Integral Tial Maçã 1L;9.69;9.69;un;1.0;25635;25635;Tial;7896005310243;64177978;99999
+2026-10-25;xarope-monin-maca-verde-13825;Xarope Monin Maçã Verde 330ml;29.9;29.9;un;1.0;135992;61558;Monin;7900314000716;13825912;99999
+2026-10-25;sidra-cereser-maca-verde-44637;Sidra Cereser Maçã Verde 660ml;19.9;19.9;un;1.0;21870;21870;Cereser;7896072902808;44637922;99999
+2026-10-25;suco-misto-nutrinectar-morango-e-maca-83799;Suco Misto Nutrinéctar Morango e Maçã 1L;3.99;3.99;un;1.0;38839;38839;Nutrinéctar;7898961490434;83799900;99999
+2026-10-25;suco-misto-nutrinectar-uva-e-maca-13538;Suco Misto Nutrinéctar Uva e Maçã 290ml;1.99;1.99;un;1.0;167940;62498;Nutrinéctar;7898961490687;13538996;99999
+2026-10-25;suco-maguary-fruit-shoot-maca-5125;Suco Maguary Fruit Shoot Maçã 150ml;2.49;2.49;un;1.0;57405;57245;Maguary;7896000597878;5125972;99999
+2026-10-25;suco-misto-nutrinectar-pessego-com-maca-13626;Suco Misto Nutrinéctar Pêssego com Maçã 290ml;1.99;1.99;un;1.0;171457;63228;Nutrinéctar;7898920195431;13626990;99999
+2026-10-25;suco-misto-nutrinectar-manga-e-maca-13539;Suco Misto Nutrinéctar Manga e Maçã 290ml;1.99;1.99;un;1.0;152826;61823;Nutrinéctar;7898961490700;13539955;99999
+2026-10-25;sidra-sem-alcool-cereser-maca-verde-9995;Sidra sem Álcool Cereser Maçã Verde 660ml;19.9;19.9;un;1.0;59476;59315;Cereser;7896072903560;9995940;99999
+2026-10-25;vinagre-de-fruta-organico-almaromi-maca-92490;Vinagre de Fruta Orgânico Almaromi Maçã 400ml;14.9;14.9;un;1.0;41954;41954;Almaromi;7898908593617;92490987;99999
+2026-10-25;energetico-sem-acucar-baly-maca-verde-14984;Energético sem Açúcar Baly Maçã Verde 1L;6.99;6.99;un;1.0;164432;61993;Baly;7898080666185;14984911;99999
+2026-10-25;suco-maguary-selecao-uva-e-maca-3077;Suco Maguary Seleção Uva e Maçã 1,35L;13.9;13.9;un;1.0;56376;56216;Maguary;7898063767052;3077905;99999
+2026-10-25;alimento-a-base-de-soja-mupy-maca-11991;Alimento À Base de Soja Mupy Maçã 5x200ml;9.9;9.9;un;1.0;140853;61698;Mupy;7896293808354;11991917;99999
+2026-10-25;farofa-de-madioca-yoki-18063;Farofa de Mandioca Yoki Bacon com toque de Maça 200g;7.99;7.99;un;1.0;184687;64052;Yoki;7891095912391;18063979;99999
+2026-10-25;sidra-sem-alcool-cereser-maca-zero-acucar-10001;Sidra sem Álcool Cereser Maçã Zero Açúcar 660ml;19.9;19.9;un;1.0;59479;59318;Cereser;7896072900118;10001969;99999
+2026-10-25;cha-de-hibisco-chico-bento-yai-maca-7833;Chá de Hibisco Chico Bento Yaí Maçã 200ml;2.99;2.99;un;1.0;58544;58383;Yaí;7898651400804;7833965;99999
+2026-10-25;suco-natural-one-uva-e-maca-18137;Suco Natural One Uva e Maçã 1,7L;21.9;21.9;un;1.0;184916;64092;Natural One;7899916918973;18137962;99999
+2026-10-25;energetico-red-bull-maca-sem-acucar-13277;Energético Red Bull Maçã Edition Sem Açúcar 250ml;8.99;8.99;un;1.0;114971;61325;Red Bull;9002490290450;13277976;99999
+2026-10-25;suco-natural-one-uva-e-maca-5825;Suco Natural One Uva e Maçã 1,3L;21.9;21.9;un;1.0;57765;57605;Natural One;7899916918744;5825909;99999
+2026-10-25;bebida-alcoolica-mista-smirnoff-ice-maca-verde-12192;Bebida Alcoólica Mista Smirnoff Ice Maçã Verde 275ml;5.99;5.99;un;1.0;60124;59956;Smirnoff;7893218004136;12192946;99999
+2026-10-25;mistura-para-bolo-dr--oetker-maca--canela--aveia-e-linhaca-11819;Mistura Bolo Dr. Oetker Maçã, Canela, Aveia e Linhaça 50g;3.68;3.68;un;1.0;60647;60474;Dr. Oetker;7891048085783;11819976;99999
+2026-10-25;mistura-para-bolo-dona-benta-integral-maca-e-canela-5417;Mistura para Bolo Dona Benta Integral Maçã e Canela 400g;7.99;7.99;un;1.0;57567;57407;Dona Benta;7896005212035;5417986;99999
+2026-10-25;sabonete-flor-de-ype-flor-de-maca-e-framboesa-15607;Pack Sabonete em barra Flor de Ypê Flor de Maçã e Framboesa 6 unidades de 85g;7.5;7.5;un;1.0;166218;62361;Flor de Ypê;7896098902295;15607971;99999
+2026-10-25;vagem-macarrao-caixa-com-12kg-1701;Vagem Macarrão 12kg;189.0;189.0;un;1.0;41995;41995;Atacadão S/A;1701914;1701914;99999
+2026-10-25;macarrao-la-molisana-spaguetti-98239;Macarrão La Molisana Spaguetti 500g;7.99;7.99;un;1.0;48225;48225;La Molisana;8004690051573;98239964;99999
+2026-10-25;macarrao-la-molisana-fettuccine-98236;Macarrão La Molisana Fettuccine 500g;7.99;7.99;un;1.0;48222;48222;La Molisana;8004690050507;98236986;99999
+2026-10-25;macarrao-com-ovos-camil-parafuso-94001;Macarrão com Ovos Camil Parafuso 500g;3.29;3.29;un;1.0;44264;44264;Camil;7896024210111;94001973;99999
+2026-10-25;macarrao-com-ovos-floriani-parafuso-pacote-com-500g-76031;Macarrão com Ovos Floriani Parafuso 500g;2.39;2.39;un;1.0;1248;1248;Floriani;7896232111170;76031923;99999
+2026-10-25;macarrao-com-ovos-camil-espaguete-94005;Macarrão com Ovos Camil Espaguete 500g;3.29;3.29;un;1.0;44267;44267;Camil;7896024210098;94005910;99999
+2026-10-25;macarrao-com-ovos-bulnez-espaguete-13217;Macarrão com Ovos Bulnez Espaguete 500g;1.99;1.99;un;1.0;139592;61648;Bulnez;7898966085154;13217906;99999
+2026-10-25;macarrao-com-ovos-floriani-penne-pacote-com-500g-76032;Macarrão com Ovos Floriani Penne 500g;2.39;2.39;un;1.0;1254;1254;Floriani;7896232111590;76032983;99999
+2026-10-25;macarrao-com-ovos-floriani-espaguete-pacote-com-500g-76030;Macarrão com Ovos Floriani Espaguete 500g;2.39;2.39;un;1.0;1228;1228;Floriani;7896232111286;76030958;99999
+2026-10-25;macarrao-com-ovos-camil-penne-94002;Macarrão com Ovos Camil Penne 500g;3.29;3.29;un;1.0;44265;44265;Camil;7896024210128;94002932;99999
+2026-10-25;macarrao-instantaneo-nissin-lamen-picanha-5372;Macarrão Instantâneo Nissin Lámen Picanha 85g;2.79;2.79;un;1.0;57537;57377;Nissin;7891079011775;5372967;99999
+2026-10-25;macarrao-grano-duro-baronia-rigatoni-11834;Macarrão Grano Duro Baronia Rigatoni 500g;7.9;7.9;un;1.0;60654;60481;Baronia;8005709300804;11834935;99999
+2026-10-25;macarrao-grano-duro-paganini-rigatoni-88728;Macarrão Grano Duro Paganini Rigatoni 500g;6.59;6.59;un;1.0;39235;39235;Paganini;7898152990149;88728983;99999
+2026-10-25;macarrao-grano-duro-paganini-conchiglioni-88730;Macarrão Grano Duro Paganini Conchiglioni 500g;12.9;12.9;un;1.0;39237;39237;Paganini;7898152990408;88730980;99999
+2026-10-25;macarrao-grano-duro-baronia-boccoli-11838;Macarrão Grano Duro Baronia Boccoli 500g;7.49;7.49;un;1.0;60656;60483;Baronia;8005709300552;11838973;99999
+2026-10-25;macarrao-grano-duro-paganini-farfalloni-88729;Macarrão Grano Duro Paganini Farfalloni 500g;7.49;7.49;un;1.0;39236;39236;Paganini;7898152991573;88729942;99999
+2026-10-25;macarrao-grano-duro-paganini-fusilli-68093;Macarrão Grano Duro Paganini Fusilli 500g;7.59;7.59;un;1.0;2739;2739;Paganini;7898152990156;68093908;99999
+2026-10-25;macarrao-de-semola-adria-caseiro-fidelini-17432;Macarrão de Sêmola Adria Caseiro Fidelini 400g;6.98;6.98;un;1.0;180874;63601;Adria;7896085087455;17432940;99999
+2026-10-25;macarrao-com-ovos-dona-benta-aviaozinho-5416;Macarrão com Ovos Dona Benta Aviãozinho 500g;3.49;3.49;un;1.0;57566;57406;Dona Benta;7896005212844;5416926;99999
+2026-10-25;macarrao-grano-duro-paganini-spaguetti-68096;Macarrão Grano Duro Paganini Spaguetti 500g;7.59;7.59;un;1.0;2753;2753;Paganini;7898152990170;68096987;99999
+2026-10-25;macarrao-u-f-o--nissin-galinha-caipira-95397;Macarrão U.F.O. Nissin Galinha Caipira 93g;7.99;7.99;un;1.0;45415;45415;Nissin;7891079014172;95397911;99999
+2026-10-25;macarrao-grano-duro-paganini-fettuccine-68092;Macarrão Grano Duro Paganini Fettuccine 500g;7.59;7.59;un;1.0;2735;2735;Paganini;7898152991580;68092949;99999
+2026-10-25;macarrao-grano-duro-baronia-fusilli-11836;Macarrão Grano Duro Baronia Fusilli 500g;7.49;7.49;un;1.0;60655;60482;Baronia;8005709300989;11836954;99999
+2026-10-25;macarrao-de-semola-adria-caseiro-pappardelle-17438;Macarrão de Sêmola Adria Caseiro Pappardelle 400g;6.98;6.98;un;1.0;180872;63603;Adria;7896085087479;17438997;99999
+2026-10-25;macarrao-grano-duro-petybon-cavatappi-89842;Macarrão Grano Duro Petybon Cavatappi 500g;7.29;7.29;un;1.0;53320;52780;Petybon;7896005210314;89842972;99999
+2026-10-25;macarrao-grano-duro-baronia-farfalle-11831;Macarrão Grano Duro Baronia Farfalle 500g;7.49;7.49;un;1.0;60653;60480;Baronia;8005709301139;11831957;99999
+2026-10-25;macarrao-grano-duro-baronia-fettuccine-11830;Macarrão Grano Duro Baronia Fettuccine 500g;11.45;11.45;un;1.0;60652;60479;Baronia;8005709301289;11830992;99999
+2026-10-25;macarrao-grano-duro-baronia-spaghetti-11824;Macarrão Grano Duro Baronia Spaghetti 500g;7.49;7.49;un;1.0;60651;60478;Baronia;8005709300057;11824957;99999
+2026-10-25;macarrao-grano-duro-baronia-lingue-di-passero-11822;Macarrão Grano Duro Baronia Lingue di Passero 500g;7.49;7.49;un;1.0;60650;60477;Baronia;8005709300149;11822938;99999
+2026-10-25;macarrao-grano-duro-baronia-penne-rigate-11837;Macarrão Grano Duro Baronia Penne Rigate 500g;7.49;7.49;un;1.0;59791;59630;Baronia;8005709300736;11837913;99999
+2026-10-25;macarrao-grano-duro-antico-molino-spaghetti-97678;Macarrão Grano Duro Antico Molino Spaghetti 500g;7.08;7.08;un;1.0;47614;47614;Antico Molino;8004690040157;97678984;99999
+2026-10-25;macarrao-grano-duro-antico-molino-fusilli-97675;Macarrão Grano Duro Antico Molino Fusilli 500g;7.79;7.79;un;1.0;47611;47611;Antico Molino;8004690040287;97675905;99999
+2026-10-25;macarrao-grano-duro-paganini-fettuccine-nidi-8714;Macarrão Grano Duro Paganini Fettuccine Nidi 500g;10.2;10.2;un;1.0;58990;58829;Paganini;7898152992174;8714975;99999
+2026-10-25;macarrao-grano-duro-paganini-penne-rigate-68094;Macarrão Grano Duro Paganini Penne Rigate 500g;7.59;7.59;un;1.0;2743;2743;Paganini;7898152990132;68094968;99999
+2026-10-25;macarrao-grano-duro-antico-molino-farfalle-97674;Macarrão Grano Duro Antico Molino Farfalle 500g;7.49;7.49;un;1.0;47610;47610;Antico Molino;8004690040669;97674946;99999
+2026-10-25;macarrao-grano-duro-paganini-fettuccine-nidi-verde-88745;Macarrão Grano Duro Paganini Fettuccine Nidi Verde 500g;10.49;10.49;un;1.0;39252;39252;Paganini;7898152996400;88745961;99999
+2026-10-25;macarrao-instantaneo-nissin-cup-noodles-carne-protein-17778;Macarrão Instantâneo Nissin Cup Noodles Carne Protein 71g;8.29;8.29;un;1.0;181932;63836;Nissin;7891079014448;17778983;99999
+2026-10-25;tamara-recheada-freakin-awesome-amendoa--nozes-e-macadamia-2104;Tâmara Rech Freakin Awesome Amêndoa, Nozes Macadâmia 80g;8.9;8.9;un;1.0;55822;55662;Freakin Awesome;2104944;2104944;99999
+2026-10-25;macarrao-instantaneo-nissin-cup-noodles-galinha-caipira-protein-17780;Macarrão Instantâneo Nissin Cup Noodles Galinha Caipira Protein 71g;8.29;8.29;un;1.0;181933;63837;Nissin;7891079014509;17780980;99999
+2026-10-25;maca-golden-84114;Maçã Golden Quilo;0.0;0.0;kg;0.15;46644;46644;Atacadão S/A;84114;84114928;0
+2026-10-25;banana-maca-8193;Banana Maçã 18kg;0.0;0.0;un;1.0;46544;46544;Atacadão S/A;8193995;8193995;0
+2026-10-25;maca-gala-55272;Maçã Gala 700g;0.0;0.0;un;1.0;46607;46607;Atacadão S/A;7898060741871;55272971;0
+2026-10-25;maca-red-55270;Maçã Red 800g;0.0;0.0;un;1.0;46605;46605;Atacadão S/A;7898060741857;55270946;0
+2026-10-25;maca-70377;Maçã Pacote 850g;0.0;0.0;un;1.0;46634;46634;Atacadão S/A;7896132201742;70377947;0
+2026-10-25;maca-fuji-55273;Maçã Fuji 700g;0.0;0.0;un;1.0;46608;46608;Atacadão S/A;7898060741888;55273930;0
+2026-10-25;maca-granny-55271;Maçã Granny 800g;0.0;0.0;un;1.0;46606;46606;Atacadão S/A;7898060741840;55271911;0
+2026-10-25;suco-de-maca-juq-integral-93259;Suco de Maçã Juq 200ml;0.0;0.0;un;1.0;43663;43663;Juq;7898942775864;93259930;0
+2026-10-25;maca-pink-lady-88598;Maçã Pink Lady quilo;0.0;0.0;kg;0.15;45964;45964;Atacadão S/A;88598;88598948;0
+2026-10-25;maca-turma-da-monica-21164;Maçã Turma da Mônica 1Kg;0.0;0.0;un;1.0;46572;46572;Atacadão S/A;7896304000012;21164931;0
+2026-10-25;vinagre-regina-maca-50952;Vinagre Regina Maçã 500ml;0.0;0.0;un;1.0;33519;33519;Regina (Regina Temperos);7896108300226;50952942;0
+2026-10-25;suco-de-maca-oq-5016;Suco de Maçã OQ 1L;0.0;0.0;un;1.0;57371;57211;OQ;7898942775802;5016973;0
+2026-10-25;vinagre-camarao-maca-98283;Vinagre Camarão Maçã 500ml;0.0;0.0;un;1.0;48417;48417;Camarão;7898362502804;98283999;0
+2026-10-25;maca-importada-golden-97626;Maçã Importada Golden quilo;0.0;0.0;kg;0.15;47674;47674;Atacadão S/A;97626;97626974;0
+2026-10-25;maca-disney-34320;Maçã Disney Sacola com 1kg;0.0;0.0;un;1.0;46586;46586;Atacadão S/A;7898901614159;34320950;0
+2026-10-25;maca-red-importada-caixa-com-18kg-1818;Maçã Red Importada 18kg;0.0;0.0;un;1.0;42012;42012;Atacadão S/A;1818917;1818917;0
+2026-10-25;cha-de-maca-barao-28968;Chá de Maçã Barão 18g;0.0;0.0;un;1.0;14120;14120;Barão;7896328210077;28968984;0
+2026-10-25;vinagre-toscano-maca-52180;Vinagre Toscano Maçã 750ml;0.0;0.0;un;1.0;33530;33530;Toscano;7891144000147;52180939;0
+2026-10-25;coquetel-rustoff-maca-80486;Coquetel Rustoff Maçã 970ml;0.0;0.0;un;1.0;50075;50075;Rustoff;7897946400444;80486956;0
+2026-10-25;detergente-marilux-maca-frasco-com-500ml-79118;Detergente Marilux Maçã 500ml;0.0;0.0;un;1.0;36746;36746;Marilux;7897423000129;79118957;0
+2026-10-25;alimento-sollys-maca-tp-com-200ml-29822;Alimento Sollys Maçã 200ml;0.0;0.0;un;1.0;9155;9155;Sollys;29822921;29822921;0
+2026-10-25;alface-mimosa-maco-4846;Alface Mimosa Maço;0.0;0.0;un;1.0;42064;42064;Atacadão S/A;7898398270104;4846927;0
+2026-10-25;alface-lisa-maco-1581;Alface Lisa Maço;0.0;0.0;un;1.0;41974;41974;Atacadão S/A;7898274730074;1581976;0
+2026-10-25;alface-americana-unidade-22051;Alface Americana un;0.0;0.0;un;1.0;49292;49292;Atacadão S/A;22051993;22051993;0
+2026-10-25;alface-americana-4739;Alface Americana un;0.0;0.0;un;1.0;42059;42059;Atacadão S/A;7898274730043;4739936;0
+2026-10-25;alface-crespa-unidade-1592;Alface Crespa un;0.0;0.0;un;1.0;41975;41975;Atacadão S/A;7898331860058;1592913;0
+2026-10-25;alface-crespa-hidroponica-unidade-5810;Alface Crespa Hidropônica un;0.0;0.0;un;1.0;42072;42072;Atacadão S/A;7898341710435;5810928;0
+2026-10-25;alface-roxa-crespa-maco-47248;Alface Roxa Crespa Maço;0.0;0.0;un;1.0;42163;42163;Atacadão S/A;47248;47248990;0
+2026-10-25;alface-americana-organica-57177;Alface Americana Orgânica un;0.0;0.0;un;1.0;48447;48447;Atacadão S/A;7898538670078;57177973;0
+2026-10-25;alface-crespa-higienizada-hiromi-93145;Alface Crespa Higienizada Hiromi 170g;0.0;0.0;un;1.0;43555;43555;Hiromi;7898077653037;93145923;0
+2026-10-25;cenoura-quilo-1920;Cenoura Quilo;5.89;5.89;kg;0.15;42036;42036;Atacadão S/A;1920;1920905;99999
+2026-10-25;cenoura-baby-daucy-congelada-7205;Cenoura Baby Daucy Congelada 300g;6.9;6.9;un;1.0;54016;60755;Daucy;3248451062292;7205985;99999
+2026-10-25;bolo-milla-cenoura-com-chocolate-94530;Bolo Milla Cenoura com Chocolate 300g;12.49;12.49;un;1.0;60235;60066;Milla;7898919501465;94530904;99999
+2026-10-25;bolo-bauducco-cenoura-com-chocolate-5584;Bolo Bauducco Cenoura com Chocolate 200g;9.49;9.49;un;1.0;57655;57495;Bauducco;7891962076379;5584946;99999
+2026-10-25;mistura-para-bolo-apti-cenoura-3401;Mistura para Bolo Apti Cenoura 400g;2.98;2.98;un;1.0;56551;56391;Apti;7896327511502;3401937;99999
+2026-10-25;bolo-ana-maria-cenoura-com-chocolate-15752;Bolo Ana Maria Cenoura com Chocolate 70g;3.89;3.89;un;1.0;167420;62465;Ana Maria;7896002369992;15752974;99999
+2026-10-25;mistura-para-bolo-dr-oetker-cenoura---confeitos-92693;Mistura para Bolo Dr Oetker Cenoura + confeitos 300g;5.78;5.78;un;1.0;43179;43179;Dr. Oetker;7891048061848;92693953;99999
+2026-10-25;cenoura-1919;Cenoura 19kg;0.0;0.0;un;1.0;42035;42035;Atacadão S/A;1919968;1919968;0
+2026-10-25;cenoura-44788;Cenoura 5kg;0.0;0.0;un;1.0;46596;46596;Atacadão S/A;44788964;44788964;0
+2026-10-25;cenoura-fugini-92106;Cenoura Fugini 170g;0.0;0.0;un;1.0;41875;41875;Fugini;7897517209452;92106954;0
+2026-10-25;cenoura-bandeja-com-500g-69149;Cenoura bdj 500g;0.0;0.0;un;1.0;44773;44773;Atacadão S/A;69149952;69149952;0
+2026-10-25;cenoura-baby-57456;Cenoura Baby 250g;0.0;0.0;un;1.0;46613;46613;Atacadão S/A;7898615973115;57456930;0
+2026-10-25;bolo-de-cenoura-91014;Bolo de Cenoura quilo;0.0;0.0;kg;0.3;49378;49378;Atacadão S/A;91014;91014953;0
+2026-10-25;cenoura-selecionada-33174;Cenoura Selecionada Quilo;0.0;0.0;kg;1.0;46581;46581;Atacadão S/A;33174;33174904;0
+2026-10-25;paezinhos-milani-cenoura-8941;Pãezinhos Milani Cenoura 250g;0.0;0.0;un;1.0;59105;58944;Milani;7896093200952;8941913;0
+2026-10-25;bolo-bokitu-s-cenoura-96219;Bolo Bokitu's Cenoura 350g;0.0;0.0;un;1.0;46047;46047;Bokitu's;96219911;96219911;0
+2026-10-25;bolo-bamboo-cenoura-84742;Bolo Bamboo Cenoura 500g;0.0;0.0;un;1.0;39018;39018;Bamboo;7893595200664;84742991;0
+2026-10-25;cenoura-baby-swift-pacote-com-300g-77248;Cenoura Baby Swift 300g;0.0;0.0;un;1.0;10578;10578;Swift;8429098309819;77248987;0
+2026-10-25;ervilha-e-cenoura-quero-5058;Ervilha e Cenoura Quero 200g;0.0;0.0;un;1.0;3475;3475;Quero;5058904;5058904;0
+2026-10-25;bolo-bgm-cenoura-13157;Bolo BGM Cenoura quilo;0.0;0.0;kg;0.3;171581;63287;BGM;13157;13157928;0
+2026-10-25;bolo-caramella-cenoura-90313;Bolo Caramella Cenoura 350g;0.0;0.0;un;1.0;40173;40173;Caramella;70341989623;90313938;0
+2026-10-25;bolo-primix-cenoura-93935;Bolo Primix Cenoura 400g;0.0;0.0;un;1.0;181560;63721;Primix;7898972097691;93935974;0
+2026-10-25;bolo-mais-que-pao-cenoura-89526;Bolo Mais que Pão Cenoura 400g;0.0;0.0;un;1.0;40550;40550;Mais que Pão;192505398185;89526980;0
+2026-10-25;bolo-de-panes-cenoura-85314;Bolo De Panes Cenoura 400g;0.0;0.0;un;1.0;34743;34743;De Panes;7898043740525;85314908;0
+2026-10-25;ervilha-e-cenoura-quero-lata-com-170g-65825;Ervilha e Cenoura Quero 170g;0.0;0.0;un;1.0;3470;3470;Quero;7896102500622;65825903;0
+2026-10-25;bolo-pannemix-cenoura-13081;Bolo Pannemix Cenoura quilo;0.0;0.0;kg;0.3;171573;63284;Pannemix;13081;13081926;0
+2026-10-25;bolo-de-cenoura-com-chocolate-87768;Bolo de Cenoura Com Chocolate quilo;0.0;0.0;kg;0.3;50118;50118;Atacadão S/A;87768;87768998;0
+2026-10-25;pao-de-cenoura-bisnaguinha-94361;Pão de Cenoura Bisnaguinha quilo;0.0;0.0;kg;0.1;45479;45479;Atacadão S/A;94361;94361922;0
+2026-10-25;cenoura-em-conserva-quero-lata-com-170g-76136;Cenoura em Conserva Quero 170g;0.0;0.0;un;1.0;10583;10583;Quero;7896102501698;76136900;0
+2026-10-25;cenoura-baby-de-marchi-congelada-89489;Cenoura Baby De Marchi Congelada 300g;0.0;0.0;un;1.0;39676;39676;De Marchi;7896519235964;89489936;0
+2026-10-25;cenoura-ralada-higienizada-hiromi-92912;Cenoura Ralada Higienizada Hiromi 250g;0.0;0.0;un;1.0;43372;43372;Hiromi;7898077653440;92912941;0
+2026-10-25;auroggets-aurora-kids-cenoura-93015;Auroggets Aurora Kids Cenoura 275g;0.0;0.0;un;1.0;43469;43469;Aurora;7891164110741;93015908;0
+2026-10-25;bolo-cabocla-mineira-cenoura-88049;Bolo Cabocla Mineira Cenoura 400g;0.0;0.0;un;1.0;40456;40456;Cabocla Mineira;7898970357094;88049972;0
+2026-10-25;bolo-pancristal-cenoura-com-chocolate-14065;Bolo Pancristal Cenoura com Chocolate quilo;0.0;0.0;kg;0.3;164189;61940;Pancristal;14065;14065905;0
+2026-10-25;bolo-milla-cenoura-com-chocolate-1565;Bolo Milla Cenoura com Chocolate 1kg;0.0;0.0;un;1.0;55602;55442;Milla;7898919501717;1565957;0
+2026-10-25;bolo-golden-soft-cenoura-89543;Bolo Golden Soft Cenoura 400g;0.0;0.0;un;1.0;42868;42868;Golden Soft;7898691310637;89543958;0
+2026-10-25;bolo-vo-ana-cenoura-87871;Bolo Vó Ana Cenoura 300g;0.0;0.0;un;1.0;35168;35168;Vó Ana;7898716800228;87871951;0
+2026-10-25;bolo-bauducco-cenoura-com-chocolate-81859;Bolo Bauducco Cenoura com Chocolate 280g;0.0;0.0;un;1.0;34659;34659;Bauducco;7891962066868;81859982;0
+2026-10-25;bolo-santa-edwiges-cenoura-com-chocolate-36752;Bolo Santa Edwiges Cenoura com Chocolate 250g;0.0;0.0;un;1.0;35036;35036;Santa Edwiges;7896064202923;36752970;0
+2026-10-25;iogurte-batavo-laranja--cenoura-e-mel-53813;Iogurte Batavo Laranja, Cenoura e Mel 170g;0.0;0.0;un;1.0;22431;22431;Batavo;7891097000195;53813911;0
+2026-10-25;biscoito-nestle-nesfit-laranja-e-cenoura-67602;Biscoito Nestlé Nesfit Laranja e Cenoura 160g;0.0;0.0;un;1.0;27232;27232;Nesfit;7891000304754;67602965;0
+2026-10-25;sopao-knorr-cenoura--batata-e-mandioquinha-46500;Sopão Knorr Cenoura, Batata e Mandioquinha 183g;0.0;0.0;un;1.0;22672;22672;Knorr;7891150027312;46500953;0
+2026-10-25;mistura-para-bolo-nordeste-cenoura-50668;Mistura para Bolo Nordeste Cenoura 400g;0.0;0.0;un;1.0;10753;10753;Nordeste;7896021822676;50668903;0
+2026-10-25;mistura-para-bolo-da-barra-cenoura-22358;Mistura para Bolo Da Barra Cenoura 400g;0.0;0.0;un;1.0;9922;9922;Da Barra;7896032500921;22358971;0
+2026-10-25;bolo-ana-maria-cenoura-com-chocolate-86246;Bolo Ana Maria Cenoura com Chocolate 35g;0.0;0.0;un;1.0;34970;34970;Ana Maria;7896002366557;86246969;0
+2026-10-25;mistura-para-bolo-vilma-cenoura-50553;Mistura para Bolo Vilma Cenoura 400g;0.0;0.0;un;1.0;11131;11131;Vilma;7896417209517;50553937;0
+2026-10-25;biscoito-sem-acucar-linea-laranja-e-cenoura-90021;Biscoito Sem Açúcar Linea Laranja e Cenoura 100g;0.0;0.0;un;1.0;42551;42551;Linea;7896001282216;90021935;0
+2026-10-25;pao-de-forma-limiar-milho-e-cenoura-72592;Pão de Forma Limiar Milho e Cenoura 350g;0.0;0.0;un;1.0;21863;21863;Limiar;72592904;72592904;0
+2026-10-25;mistura-para-bolo-vilma-cenoura-66346;Mistura para Bolo Vilma Cenoura 5kg;0.0;0.0;un;1.0;11135;11135;Vilma;7896417209524;66346962;0
+2026-10-25;mistura-para-bolo-itaiquara-cenoura-53613;Mistura para Bolo Itaiquara Cenoura 450g;0.0;0.0;un;1.0;10390;10390;Itaiquara;7896545500739;53613929;0
+2026-10-25;mistura-para-bolo-itaiquara-cenoura-pouch-com-390g-83376;Mistura para Bolo Itaiquara Cenoura 390g;0.0;0.0;un;1.0;10388;10388;Itaiquara;7896545506267;83376900;0
+2026-10-25;mistura-para-bolo-marata-cenoura-16204;Mistura para Bolo Maratá Cenoura 400g;0.0;0.0;un;1.0;169638;62709;Maratá;7898617580731;16204926;0
+2026-10-25;biscoito-nesfit-nestle-laranja-e-cenoura-55087;Biscoito Nesfit Nestlé Laranja e Cenoura 200g;0.0;0.0;un;1.0;27205;27205;Nesfit;55087975;55087975;0
+2026-10-25;mistura-para-bolo-lunar-cenoura-51629;Mistura para Bolo Lunar Cenoura 5kg;0.0;0.0;un;1.0;10509;10509;Lunar;7896185640154;51629968;0
+2026-10-25;mistura-para-bolo-italac-cenoura-70767;Mistura para Bolo Italac Cenoura 400g;0.0;0.0;un;1.0;10457;10457;Italac;7898080642165;70767933;0
+2026-10-25;mistura-para-bolo-orquidea-cenoura-95672;Mistura para Bolo Orquídea Cenoura 350g;0.0;0.0;un;1.0;45709;45709;Orquídea;7896412852725;95672931;0
+2026-10-25;bolo-milla-cenoura-com-chocolate-1571;Bolo Milla Cenoura com Chocolate 1,5kg;0.0;0.0;un;1.0;55605;55445;Milla;7898919501519;1571998;0
+2026-10-25;bolo-ana-maria-cenoura-com-chocolate-61975;Bolo Ana Maria Cenoura com Chocolate 35g;0.0;0.0;un;1.0;34583;34583;Ana Maria;61975994;61975994;0
+2026-10-25;bolinho-turma-da-monica-cenoura-com-chocolate-76536;Bolinho Turma da Mônica Cenoura com Chocolate 40g;0.0;0.0;un;1.0;34542;34542;Casa Suíça;7897173093600;76536965;0
+2026-10-25;biscoito-sem-acucar-linea-laranja-e-cenoura-83028;Biscoito Sem Açúcar Linea Laranja e Cenoura 120g;0.0;0.0;un;1.0;30891;30891;Linea;83028966;83028966;0
+2026-10-25;iogurte-natural-betania-cenoura-e-laranja-39597;Iogurte Natural Betânia Cenoura e Laranja 170g;0.0;0.0;un;1.0;24194;24194;Betânia;7898403780727;39597992;0
+2026-10-25;iogurte-isis-laranja--cenoura-e-mel-69272;Iogurte Isis Laranja, cenoura e mel 150g;0.0;0.0;un;1.0;23896;23896;Isis;7898034922343;69272962;0
+2026-10-25;mistura-para-bolo-uniao-cenoura-65648;Mistura para Bolo União Cenoura 400g;0.0;0.0;un;1.0;11083;11083;União;7891910030255;65648956;0
+2026-10-25;mistura-para-bolo-panfacil-cenoura-pacote-com-5kg-81396;Mistura para Bolo Panfácil Cenoura 5kg;0.0;0.0;un;1.0;10801;10801;Panfácil;7898665611241;81396961;0
+2026-10-25;mistura-para-bolo-nita-cenoura-pouch-com-450g-7935;Mistura para Bolo Nita Cenoura 450g;0.0;0.0;un;1.0;10651;10651;Nita;7898234850804;7935975;0
+2026-10-25;mistura-para-bolo-lunar-cenoura-51634;Mistura para Bolo Lunar Cenoura 400g;0.0;0.0;un;1.0;10514;10514;Lunar;7896185641014;51634949;0
+2026-10-25;mistura-para-bolo-dona-benta-cenoura-1010;Mistura para Bolo Dona Benta Cenoura 450g;0.0;0.0;un;1.0;10012;10012;Dona Benta;7896005280911;1010918;0
+2026-10-25;iogurte-natural-danone-laranja--cenoura-e-mel-72058;Iogurte Natural Danone Laranja, Cenoura e Mel 160g;0.0;0.0;un;1.0;24239;24239;Danone;7891025121251;72058903;0
+2026-10-25;iogurte-integral-cooper-laranja--cenoura-e-mel-16515;Iogurte Integral Cooper Laranja, Cenoura e Mel 170g;0.0;0.0;un;1.0;169961;62837;Cooper (Cooperativa de Laticínios Cooper);7896598302076;16515955;0
+2026-10-25;polpa-de-fruta-polpanorte-congelada-acerola-e-cenoura-89037;Polpa de fruta Polpanorte Congelada Acerola e Cenoura 100g;0.0;0.0;un;1.0;42585;42585;Polpanorte;7898181471411;89037973;0
+2026-10-25;iogurte-natural-paulista-laranja--cenoura-e-mel-71382;Iogurte Natural Paulista Laranja, Cenoura e Mel 150g;0.0;0.0;un;1.0;24341;24341;Paulista;7891025121220;71382946;0
+2026-10-25;mistura-para-bolo-nita-mix-cenoura-7926;Mistura para Bolo Nita Mix Cenoura 5kg;0.0;0.0;un;1.0;10708;10708;Nita;7898234850873;7926956;0
+2026-10-25;pao-de-forma-integral-limiar-milho-e-cenoura-98251;Pão de Forma Integral Limiar Milho e cenoura 400g;0.0;0.0;un;1.0;55358;52465;Limiar;7898253589495;98251945;0
+2026-10-25;iogurte-natural-vigor-laranja--cenoura-e-mel-75334;Iogurte Natural Vigor Laranja, Cenoura e Mel 150g;0.0;0.0;un;1.0;24360;24360;Vigor;7896625210725;75334966;0
+2026-10-25;pao-brioche-mini-santa-edwiges-cenoura-15240;Pão Brioche Mini Santa Edwiges Cenoura 270g;0.0;0.0;un;1.0;165396;62263;Santa Edwiges;7908427002207;15240915;0
+2026-10-25;iogurte-integral-serramar-cenoura--mel-e-laranja-89529;Iogurte Integral Serramar Cenoura, Mel e Laranja 170g;0.0;0.0;un;1.0;39871;39871;Serramar;89529958;89529958;0
+2026-10-25;iogurte-natural-itambe-laranja--cenoura-e-mel-32039;Iogurte Natural Itambé Laranja, Cenoura e Mel 170g;0.0;0.0;un;1.0;24276;24276;Itambé;7896051121275;32039910;0
+2026-10-25;mistura-para-bolo-santa-amalia-cenoura-53199;Mistura para Bolo Santa Amália Cenoura 400g;0.0;0.0;un;1.0;10948;10948;Santa Amália;7896021305469;53199956;0
+2026-10-25;mistura-para-bolo-pre-mescla-cenoura-42182;Mistura para Bolo Pré-Mescla Cenoura 5kg;0.0;0.0;un;1.0;10834;10834;Pré-Mescla;42182965;42182965;0
+2026-10-25;iogurte-natural-nestle-cenoura--laranja-e-mel-copo-com-170g-58413;Iogurte Natural Nestlé Cenoura, Laranja e Mel 170g;0.0;0.0;un;1.0;24293;24293;Nestlé;7891000072998;58413937;0
+2026-10-25;mini-pao-brioche-santa-edwiges-cenoura-76418;Mini Pão Brioche Santa Edwiges Cenoura 270g;0.0;0.0;un;1.0;9417;9417;Casa D'Oro;76418936;76418936;0
+2026-10-25;salada-de-atum-gomes-da-costa-batata--ervilha-e-cenoura-71350;Salada de Atum Gomes da Costa Batata, Ervilha,Cenoura 150g;0.0;0.0;un;1.0;13697;13697;Gomes da Costa;7891167014022;71350987;0
+2026-10-25;iogurte-natural-gurt-natural-laranja--cenoura-e-mel-15097;Iogurte Natural Gurt Natural Laranja, Cenoura e Mel 120g;0.0;0.0;un;1.0;170511;62978;Natural Gurt;7898141552693;15097957;0
+2026-10-25;mini-pao-brioche-casa-d-oro-cenoura-78153;Mini Pão Brioche Casa D'Oro Cenoura 270g;0.0;0.0;un;1.0;9398;9398;Casa D'Oro;7908427000173;78153975;0
+2026-10-25;iogurte-natural-fazenda-bela-vista-cenoura--laranja-e-mel-96139;Iogurte Nat. Fazenda Bela Vista Cenoura, Laranja e Mel 170g;0.0;0.0;un;1.0;46026;46026;Fazenda Bela Vista;7896229800285;96139977;0
+2026-10-25;polpa-de-fruta-polpanorte-congelada-acerola--cenoura-e-laranja-89038;Polpa de Fruta Polpanorte Cong Acerola, Cen e lar 100g;0.0;0.0;un;1.0;40516;40516;Polpanorte;7898181478120;89038932;0
+2026-10-25;iogurte-natural-canto-de-minas-laranja--cenoura-e-mel-35504;Iogurte Natural Canto de Minas Laranja,Cen e Mel 180g;0.0;0.0;un;1.0;24221;24221;Canto de Minas;7896629640535;35504900;0
+2026-10-25;repolho-roxo-quilo-1683;Repolho Roxo Quilo;6.89;6.89;kg;1.0;41993;41993;Atacadão S/A;1683;1683986;99999
+2026-10-25;repolho-branco-quilo-1677;Repolho Branco Quilo;4.99;4.99;kg;1.0;41992;41992;Atacadão S/A;1677;1677945;99999
+2026-10-25;repolho-branco-1676;Repolho Branco un;0.0;0.0;un;1.0;48726;48726;Atacadão S/A;1676986;1676986;0
+2026-10-25;detergente-liquido-bulnez-clear-15206;Detergente Líquido Bulnez Clear 500ml;1.99;1.99;un;1.0;182104;63874;Bulnez;7896105510802;15206947;99999
+2026-10-25;detergente-liquido-ype-titanium-15978;Detergente Líquido Ypê Titanium 500ml;3.39;3.39;un;1.0;169063;62585;Ypê;7896098904329;15978969;99999
+2026-10-25;detergente-liquido-bulnez-coco-15209;Detergente Líquido Bulnez Coco 500ml;1.99;1.99;un;1.0;182101;63873;Bulnez;7896105510796;15209925;99999
+2026-10-25;detergente-liquido-candura-neutro-98163;Detergente Líquido Candura Neutro 5L;18.9;18.9;un;1.0;48161;48161;Candura;7896105500711;98163951;99999
+2026-10-25;detergente-liquido-bulnez-neutro-15207;Detergente Líquido Bulnez Neutro 500ml;1.99;1.99;un;1.0;170513;62979;Bulnez;7896105510789;15207906;99999
+2026-10-25;porta-detergente-bucha-plasutil-tear-12417;Porta Detergente/Bucha Plasútil Tear un;13.98;13.98;un;1.0;114501;61148;Plasútil;7899808862940;12417991;99999
+2026-10-25;detergente-em-po-finish-lava-loucas-12325;Detergente para Lava Louças em Pó Finish 1kg;59.9;59.9;un;1.0;114466;61187;Finish;7891035024351;12325959;99999
+2026-10-25;lava-loucas-em-tablete-finish-powerball-10559;Detergente p Lava Louças em tabletes Finish Quantum All in 1 com 26 un;59.9;59.9;un;1.0;59894;59726;Finish;7791130963619;10559998;99999
+2026-10-25;lava-roupas-em-po-apyce-multiacao-95482;Lava Roupas em Pó Ápyce Multiação 800g;3.79;3.79;un;1.0;45454;45454;Ápyce;798190210261;95482927;99999
+2026-10-25;pera-bulnez-13782;Pera Bulnez Pacote com 500g;6.99;6.99;un;1.0;68693;60870;Bulnez;7898689482469;13782912;99999
+2026-10-25;lava-roupas-em-po-coquel-natureza-limpa-86210;Lava Roupas em Pó Coquel Natureza Limpa 800g;9.99;9.99;un;1.0;35074;35074;Coquel;7896040706186;86210972;99999
+2026-10-25;lava-roupas-em-po-urca-maxx-95215;Lava Roupas em Pó Urca Maxx 2,2kg;16.9;16.9;un;1.0;45552;45552;Urca;7896060402495;95215976;99999
+2026-10-25;detergente-liquido-prapiso-frasco-com-1l-38867;Detergente Líquido Prapiso 1L;0.0;0.0;un;1.0;36544;36544;Prapiso;7898948339015;38867932;0
+2026-10-25;detergente-em-po-triplacao-assim-68979;Detergente em Pó Triplação Assim 900g;0.0;0.0;un;1.0;35780;35780;Assim;7891176118117;68979917;0
+2026-10-25;detergente-urca-clear-86500;Detergente Urca Clear 5L;0.0;0.0;un;1.0;36755;36755;Urca;86500949;86500949;0
+2026-10-25;detergente-marilux-neutro-frasco-com-500ml-79120;Detergente Marilux Neutro 500ml;0.0;0.0;un;1.0;36750;36750;Marilux;7897423000136;79120954;0
+2026-10-25;detergente-liquido-ype-61246;Detergente Líquido Ypê 5L;0.0;0.0;un;1.0;36684;36684;Ypê;7896098905265;61246981;0
+2026-10-25;detergente-urca-neutro-86501;Detergente Urca Neutro 5L;0.0;0.0;un;1.0;36760;36760;Urca;86501914;86501914;0
+2026-10-25;detergente-marilux-limao-frasco-com-500ml-79117;Detergente Marilux Limão 500ml;0.0;0.0;un;1.0;36743;36743;Marilux;7897423000112;79117998;0
+2026-10-25;detergente-liquido-odd-original-93708;Detergente Líquido Odd Original 500ml;0.0;0.0;un;1.0;44085;44085;Limppano;7896021627011;93708917;0
+2026-10-25;detergente-liquido-minuano-marine-4986;Detergente Líquido Minuano Marine 500ml;0.0;0.0;un;1.0;36500;36500;Minuano;7897664130319;4986931;0
+2026-10-25;detergente-liquido-limpol-maca-6795;Detergente Líquido Limpol Maçã 500ml;0.0;0.0;un;1.0;36402;36402;Limpol;7891022639001;6795964;0
+2026-10-25;detergente-liquido-invicto-neutro-27764;Detergente Líquido Invicto Neutro 500ml;0.0;0.0;un;1.0;36320;36320;Invicto;7898031170327;27764966;0
+2026-10-25;detergente-liquido-teiu-neutro-59916;Detergente Liquido Teiú Neutro 500ml;0.0;0.0;un;1.0;36613;36613;Teiú;7896394800080;59916969;0
+2026-10-25;detergente-liquido-minuano-limao-34455;Detergente Líquido Minuano Limão 500ml;0.0;0.0;un;1.0;36490;36490;Minuano;7897664130029;34455979;0
+2026-10-25;detergente-liquido-invicto-limao-37911;Detergente Líquido Invicto Limão 500ml;0.0;0.0;un;1.0;36301;36301;Invicto;7898031170358;37911978;0
+2026-10-25;detergente-liquido-invicto-coco-27763;Detergente Líquido Invicto Coco 500ml;0.0;0.0;un;1.0;36290;36290;Invicto;7898031171416;27763906;0
+2026-10-25;detergente-liquido-absoluto-neutro-86291;Detergente Líquido Absoluto Neutro 500ml;0.0;0.0;un;1.0;35944;35944;Absoluto;7897274416407;86291963;0
+2026-10-25;detergente-liquido-guarani-neutro-47691;Detergente Líquido Guarani Neutro 500ml;0.0;0.0;un;1.0;36284;36284;Guarani;7897274410276;47691929;0
+2026-10-25;detergente-liquido-dragao-coco-15015;Detergente Líquido Dragão Coco 500ml;0.0;0.0;un;1.0;164429;61999;Dragão;7896221600791;15015912;0
+2026-10-25;detergente-liquido-vida-maca-frasco-com-500ml-84283;Detergente Líquido Vida Maçã 500ml;0.0;0.0;un;1.0;36666;36666;Vida;7896274800599;84283907;0
+2026-10-25;detergente-liquido-teiu-neutro-66920;Detergente Líquido Teiú Neutro 5L;0.0;0.0;un;1.0;36609;36609;Teiú;7896394806211;66920990;0
+2026-10-25;detergente-liquido-teiu-clear-13575;Detergente Líquido Teiú Clear 2L;0.0;0.0;un;1.0;113865;61108;Teiú;7896394807911;13575930;0
+2026-10-25;detergente-liquido-branmix-coco-91059;Detergente Líquido Branmix Coco 500ml;0.0;0.0;un;1.0;40705;40705;Branmix;7893095189209;91059963;0
+2026-10-25;detergente-liquido-branmix-limao-91058;Detergente Líquido Branmix Limão 500ml;0.0;0.0;un;1.0;40704;40704;Branmix;7893095189216;91058903;0
+2026-10-25;detergente-liquido-teiu-limao-59912;Detergente Líquido Teiú Limão 500ml;0.0;0.0;un;1.0;36598;36598;Teiú;7896394800103;59912931;0
+2026-10-25;detergente-liquido-guarani-limao-47689;Detergente Líquido Guarani Limão 500ml;0.0;0.0;un;1.0;36277;36277;Guarani;7897274410245;47689926;0
+2026-10-25;detergente-liquido-dragao-maca-15017;Detergente Líquido Dragão Maçã 500ml;0.0;0.0;un;1.0;164440;62001;Dragão;7896221600777;15017931;0
+2026-10-25;detergente-liquido-boltz-maca-3828;Detergente Líquido Boltz Maçã 500ml;0.0;0.0;un;1.0;56762;56602;Boltz;751320559630;3828992;0
+2026-10-25;detergente-liquido-atol-coco-27341;Detergente Líquido Atol Coco 2L;0.0;0.0;un;1.0;35993;35993;Atol;7896055510075;27341967;0
+2026-10-25;detergente-liquido-bulnez-neutro-16719;Detergente Líquido Bulnez Neutro 5L;0.0;0.0;un;1.0;180732;63590;Bulnez;7896923700515;16719975;0
+2026-10-25;detergente-liquido-jua-limao-45106;Detergente Líquido Juá Limão 500ml;0.0;0.0;un;1.0;36324;36324;Juá;7898123120353;45106953;0
+2026-10-25;detergente-liquido-absoluto-limao-86286;Detergente Líquido Absoluto Limão 2L;0.0;0.0;un;1.0;35917;35917;Absoluto;7897274416421;86286982;0
+2026-10-25;detergente-liquido-brilux-maca-10631;Detergente Líquido Brilux Maçã 3L;0.0;0.0;un;1.0;59934;59766;Brilux;7896013109181;10631957;0
+2026-10-25;detergente-liquido-oeste-neutro-95036;Detergente Líquido Oeste Neutro 5L;0.0;0.0;un;1.0;45647;45647;Oeste;7898247332137;95036920;0
+2026-10-25;detergente-liquido-jua-coco-90358;Detergente Líquido Juá Coco 500ml;0.0;0.0;un;1.0;40196;40196;Juá;7898123120797;90358948;0
+2026-10-25;detergente-liquido-candura-maca-89365;Detergente Líquido Candura Maçã 500ml;0.0;0.0;un;1.0;39724;39724;Candura;7896105501039;89365951;0
+2026-10-25;detergente-liquido-brinort-neutro-frasco-com-500ml-75004;Detergente Líquido Brinort Neutro 500ml;0.0;0.0;un;1.0;38628;38628;Brinort;7898910758233;75004951;0
+2026-10-25;shampoo-darling-ceramidas-4824;Shampoo Darling Ceramidas 650ml;9.9;9.9;un;1.0;57267;57107;Darling;7509546696300;4824952;99999
+2026-10-25;shampoo-skala-morango-17702;Shampoo Skala Morango 600ml;11.5;11.5;un;1.0;181708;63791;Skala;7897042020997;17702961;99999
+2026-10-25;shampoo-monange-hialuronico-13753;Shampoo Monange Hialurônico 325ml;6.19;6.19;un;1.0;117795;61508;Monange;7896235353362;13753937;99999
+2026-10-25;shampoo-ox-hidrata-3937;Shampoo OX Hidrata 400ml;25.5;25.5;un;1.0;56817;56657;OX;7908324406160;3937901;99999
+2026-10-25;shampoo-kolene-baby-6131;Shampoo Kolene Baby 300ml;13.9;13.9;un;1.0;57889;57729;Kolene;7908324409505;6131910;99999
+2026-10-25;shampoo-darling-cachos-17639;Shampoo Darling Cachos 315ml;7.45;7.45;un;1.0;181682;63771;Darling;7509546704340;17639938;99999
+2026-10-25;shampoo-skala-uva-17694;Shampoo Skala Uva 600ml;11.5;11.5;un;1.0;181695;63782;Skala;7897042021734;17694910;99999
+2026-10-25;shampoo-darling-tilia-17656;Shampoo Darling Tília 315ml;7.45;7.45;un;1.0;181679;63773;Darling;7509546707747;17656916;99999
+2026-10-25;shampoo-seda-ceramidas-14447;Shampoo Seda Ceramidas 560ml;14.9;14.9;un;1.0;151976;61810;Seda;7791293052137;14447921;99999
+2026-10-25;shampoo-skala-mais-cachos-17699;Shampoo Skala Mais Cachos 600ml;11.5;11.5;un;1.0;183943;64017;Skala;7897042021000;17699907;99999
+2026-10-25;shampoo-tresemme-hydra-17328;Shampoo Tresemmé Hydra 250ml;25.9;25.9;un;1.0;179489;63505;Tresemmé;7891150197831;17328927;99999
+2026-10-25;shampoo-palmolive-detox-17625;Shampoo Palmolive Detox 315ml;10.5;10.5;un;1.0;181786;63828;Palmolive;7509546707273;17625922;99999
+2026-10-25;shampoo-darling-detox-17642;Shampoo Darling Detox 315ml;7.45;7.45;un;1.0;181683;63772;Darling;7509546707761;17642900;99999
+2026-10-25;shampoo-palmolive-anticaspa-17618;Shampoo Palmolive Anticaspa 315ml;10.9;10.9;un;1.0;181775;63819;Palmolive;7509546707242;17618922;99999
+2026-10-25;shampoo-pantene-bambu-11693;Shampoo Pantene Bambu 510ml;34.9;34.9;un;1.0;60578;60406;Pantene;7500435260367;11693963;99999
+2026-10-25;shampoo-skala-melancia-17692;Shampoo Skala Melancia 600ml;11.5;11.5;un;1.0;181697;63788;Skala;7897042021710;17692992;99999
+2026-10-25;shampoo-skala-glicolico-17698;Shampoo Skala Glicólico 600ml;11.5;11.5;un;1.0;181706;63790;Skala;7897042020973;17698948;99999
+2026-10-25;shampoo-seda-hidratacao-diaria-5315;Shampoo Seda Hidratação Diária 325ml;12.9;12.9;un;1.0;57503;57343;Seda;7891150037458;5315976;99999
+2026-10-25;shampoo-palmolive-bond-repair-17612;Shampoo Palmolive Bond Repair 315ml;10.5;10.5;un;1.0;181772;63818;Palmolive;7509546707884;17612966;99999
+2026-10-25;shampoo-palmolive-lisos-radiantes-17621;Shampoo Palmolive Lisos Radiantes 315ml;10.5;10.5;un;1.0;181770;63826;Palmolive;7509546707297;17621985;99999
+2026-10-25;shampoo-palmolive-ceramidas-force-17635;Shampoo Palmolive Ceramidas Force 315ml;10.5;10.5;un;1.0;181733;63799;Palmolive;7509546707228;17635900;99999
+2026-10-25;shampoo-pantene-biotinamina-b3-3554;Shampoo Pantene Biotinamina B3 510ml;34.9;34.9;un;1.0;56630;56470;Pantene;7500435248068;3554915;99999
+2026-10-25;shampoo-pantene-bond-repair-11694;Shampoo Pantene Bond Repair 510ml;34.9;34.9;un;1.0;60579;60407;Pantene;7500435260312;11694922;99999
+2026-10-25;shampoo-tresemme-blindagem-antiumidade-3840;Shampoo Tresemmé Blindagem Antiumidade 650ml;33.99;33.99;un;1.0;56771;56611;Tresemmé;7891150100312;3840967;99999
+2026-10-25;shampoo-muriel-deita-cabelo-92748;Shampoo Muriel Deita Cabelo 300ml;7.9;7.9;un;1.0;43220;43220;Muriel;7896279114639;92748950;99999
+2026-10-25;shampoo-palmolive-limpeza-balanceada-17661;Shampoo Palmolive Limpeza Balanceada 650ml;17.5;17.5;un;1.0;181752;63816;Palmolive;7509546707433;17661998;99999
+2026-10-25;shampoo-seda-toque-de-seda-4734;Shampoo Seda Toque de Seda 300ml;12.9;12.9;un;1.0;57222;57062;Seda;7891150101616;4734939;99999
+2026-10-25;shampoo-elseve-glycolic-gloss-90020;Shampoo Elseve Glycolic Gloss 400ml;25.9;25.9;un;1.0;53340;52800;Elseve;7908615060606;90020970;99999
+2026-10-25;shampoo-seda-cachos-definidos-14448;Shampoo Seda Cachos Definidos 560ml;14.9;14.9;un;1.0;151978;61811;Seda;7791293052151;14448981;99999
+2026-10-25;shampoo-pantene-biotinamina-b3-3553;Shampoo Pantene Biotinamina B3 300ml;25.9;25.9;un;1.0;56629;56469;Pantene;7500435248143;3553956;99999
+2026-10-25;shampoo-palmolive-hidratacao-extraordinaria-17630;Shampoo Palmolive Hidratação Extraordinária 315ml;10.5;10.5;un;1.0;181731;63801;Palmolive;7509546707266;17630998;99999
+2026-10-25;shampoo-skala-amido-de-milho-17691;Shampoo Skala Amido de Milho 600ml;11.5;11.5;un;1.0;181698;63785;Skala;7897042021727;17691932;99999
+2026-10-25;shampoo-seda-liso-perfeito-14450;Shampoo Seda Liso Perfeito 560ml;14.9;14.9;un;1.0;151977;61809;Seda;7791293052144;14450978;99999
+2026-10-25;shampoo-seda-forca-e-crescimento-14455;Shampoo Seda Força e Crescimento 300ml;12.9;12.9;un;1.0;151987;61812;Seda;7891150103900;14455981;99999
+2026-10-25;kit-clear-1-shampoo-anticaspa-400ml---1-shampoo-200ml-ice-cool-menthol-16048;Kit Clear 1 Shampoo Anticaspa 400ml + 1 Shampoo 200ml Ice Cool Menthol;39.9;39.9;un;1.0;169471;62634;Clear;7891150108257;16048923;99999
+2026-10-25;shampoo-elseve-liso-dos-sonhos-1929;Shampoo Elseve Liso dos Sonhos 400ml;25.9;25.9;un;1.0;55740;55580;Elseve;7908785461708;1929946;99999
+2026-10-25;shampoo-sanol-dog-antipulgas-15347;Shampoo Sanol Dog Antipulgas 500ml;19.9;19.9;un;1.0;165202;62207;Sanol;7896183300852;15347928;99999
+2026-10-25;shampoo-palmolive-hidratacao-extraordinaria-17660;Shampoo Palmolive Hidratação Extraordinária 650ml;17.5;17.5;un;1.0;181757;63814;Palmolive;7509546707426;17660932;99999
+2026-10-25;shampoo-pantene-bond-repair-11699;Shampoo Pantene Bond Repair 300ml;25.9;25.9;un;1.0;60107;59939;Pantene;7500435260251;11699919;99999
+2026-10-25;shampoo-seda-luminous-uv-5312;Shampoo Seda Luminous UV 250ml;12.9;12.9;un;1.0;57500;57340;Seda;7891150099845;5312998;99999
+2026-10-25;shampoo-huggies-kids-cachinhos-93397;Shampoo Huggies Kids Cachinhos 360ml;17.9;17.9;un;1.0;43772;43772;Huggies;7896018750807;93397915;99999
+2026-10-25;shampoo-infantil-huggies-crespinhos-4993;Shampoo Infantil Huggies Crespinhos 360ml;17.9;17.9;un;1.0;57356;57196;Huggies;7896018751033;4993931;99999
+2026-10-25;shampoo-seda-cha-verde-5314;Shampoo Seda Chá Verde 325ml;12.9;12.9;un;1.0;57502;57342;Seda;7891150037564;5314916;99999
+2026-10-25;shampoo-elseve-collagen-lifter-13468;Shampoo Elseve Collagen Lifter 400ml;25.9;25.9;un;1.0;113851;61103;Elseve;7908966527155;13468939;99999
+2026-10-25;shampoo-seda-mega-crescimento-17325;Shampoo Seda Mega Crescimento 300ml;12.9;12.9;un;1.0;179488;63503;Seda;7891150106352;17325949;99999
+2026-10-25;shampoo-dove-cachos---biotina-8627;Shampoo Dove Cachos + Biotina 370ml;26.99;26.99;un;1.0;58935;58774;Dove;7891150102668;8627940;99999
+2026-10-25;kit-ox-shampoo---condicionador-colageno-3931;Kit OX Shampoo + Condicionador Colágeno;37.9;37.9;un;1.0;56812;56652;OX;7908324404753;3931945;99999
+2026-10-25;kit-ox-shampoo---condicionador-micelar-3930;Kit OX Shampoo + Condicionador Micelar;37.9;37.9;un;1.0;56811;56651;OX;7908324404814;3930980;99999
+2026-10-25;shampoo-e-condicionador-darling-2-em-1-17657;Shampoo e Condicionador Darling 2 em 1 315ml;7.45;7.45;un;1.0;181674;63776;Darling;7509546707594;17657976;99999
+2026-10-25;shampoo-dove-hidratacao---hialuron-8623;Shampoo Dove Hidratação + Hialuron 370ml;26.99;26.99;un;1.0;58933;58772;Dove;7891150102545;8623902;99999
+2026-10-25;kit-ox-shampoo---condicionador-hidrata-3934;Kit OX Shampoo + Condicionador Hidrata;37.9;37.9;un;1.0;56815;56655;OX;7908324406399;3934923;99999
+2026-10-25;shampoo-dove-reconstrucao---aminoacido-8629;Shampoo Dove Reconstrução + Aminoácido 370ml;26.99;26.99;un;1.0;58937;58776;Dove;7891150102637;8629959;99999
+2026-10-25;shampoo-infantil-granado-bebe-camomila-93279;Shampoo Infantil Granado Bebê Camomila 250ml;14.99;14.99;un;1.0;43680;43680;Granado;7896512954060;93279987;99999
+2026-10-25;kit-ox-shampoo---condicionador-glicolico-3933;Kit OX Shampoo + Condicionador Glicólico;37.9;37.9;un;1.0;56814;56654;OX;7908324408737;3933964;99999
+2026-10-25;kit-ox-shampoo---condicionador-hialuronico-3932;Kit OX Shampoo + Condicionador Hialurônico;37.9;37.9;un;1.0;56813;56653;OX;7908324404760;3932904;99999
+2026-10-25;shampoo-seda-colageno-e-vitamina-c-5307;Shampoo Seda Colágeno e Vitamina C 300ml;12.9;12.9;un;1.0;57496;57336;Seda;7891150101692;5307999;99999
+2026-10-25;shampoo-skala-anticaspa-2-em-1-17697;Shampoo Skala Anticaspa 2 em 1 600ml;15.5;15.5;un;1.0;181704;63787;Skala;7897042020966;17697989;99999
+2026-10-25;kit-palmolive-shampoo---condicionador-lisos-radiantes-17623;Kit Palmolive Shampoo + Condicionador Lisos Radiantes;15.9;15.9;un;1.0;181779;63822;Palmolive;7509546707457;17623903;99999
+2026-10-25;shampoo-dove-uv-repair-glow-ferulico-10592;Shampoo Dove UV Repair Glow Ferúlico 370ml;26.99;26.99;un;1.0;59916;59748;Dove;7891150102729;10592995;99999
+2026-10-25;kit-inoar-shampoo---condicionador-500ml-latifah-12446;Kit Inoar Shampoo + Condicionador 500ml Latifah;28.9;28.9;un;1.0;113090;60965;Inoar;7908124408845;12446966;99999
+2026-10-25;kit-salon-line-shampoo---creme-definicao-12745;Kit Salon Line Shampoo + Creme Definição;25.9;25.9;un;1.0;60812;60632;Salon Line;7908458334520;12745980;99999
+2026-10-25;shampoo-dove-umectacao---coco-antioxi-8632;Shampoo Dove Umectação + Coco Antioxi 370ml;26.99;26.99;un;1.0;58938;58777;Dove;7891150102620;8632921;99999
+2026-10-25;shampoo-e-condicionador-johnson-s-kids-2-em-1-3236;Shampoo e Condicionador Johnson's Kids 2 em 1 180ml;16.5;16.5;un;1.0;56466;56306;Johnson's;7891010257125;3236904;99999
+2026-10-25;kit-niely-shampoo---condicionador-salva-fios-92944;Kit Niely Shampoo + Condicionador Salva Fios;14.9;14.9;un;1.0;43404;43404;Niely;7908615077079;92944995;99999
+2026-10-25;kit-pantene-shampoo---condicionador-bond-repair-11698;Kit Pantene Shampoo + Condicionador Bond Repair;32.9;32.9;un;1.0;60581;60409;Pantene;7500435261227;11698960;99999
+2026-10-25;shampoo-e-condicionador-johnson-s-kids-2-em-1-3241;Shampoo e Condicionador Johnson's Kids 2 em 1 400ml;29.9;29.9;un;1.0;56468;56308;Johnson's;7891010257101;3241986;99999
+2026-10-25;shampoo-e-condicionador-johnson-s-kids-2-em-1-3239;Shampoo e Condicionador Johnson's Kids 2 em 1 200ml;19.9;19.9;un;1.0;56467;56307;Johnson's;7891010257118;3239983;99999
+2026-10-25;shampoo-head---shouldres-limpeza-eficaz-10205;Shampoo Head & Shouldres Limpeza Eficaz 650ml;37.9;37.9;un;1.0;59553;59392;Head & Shoulders;7500435248914;10205978;99999
+2026-10-25;kit-seda-shampoo---condicionador-toque-de-seda-5306;Kit Seda Shampoo + Condicionador Toque de Seda;16.9;16.9;un;1.0;57495;57335;Seda;7891150101630;5306939;99999
+2026-10-25;kit-skala-shampoo---condicionador-amido-de-milho-17676;Kit Skala Shampoo + Condicionador Amido de Milho;14.5;14.5;un;1.0;181641;63755;Skala;7897042020195;17676973;99999
+2026-10-25;shampoo-infantil-palmolive-kids-todo-tipo-de-cabelo-17615;Shampoo Infantil Palmolive Kids Todo tipo de cabelo 315ml;14.9;14.9;un;1.0;181774;63820;Palmolive;7509546707785;17615944;99999
+2026-10-25;shampoo-dove-nutricao---tri-oleos-8628;Shampoo Dove Nutrição + Tri-óleos 370ml;26.99;26.99;un;1.0;58936;58775;Dove;7891150102613;8628900;99999
+2026-10-25;kit-pantene-shampoo---condicionador-biotinamina-b3-3552;Kit Pantene Shampoo + Condicionador Biotinamina B3;32.9;32.9;un;1.0;56628;56468;Pantene;7500435253598;3552997;99999
+2026-10-25;kit-palmolive-shampoo---condicionador-bond-repair-17614;Kit Palmolive Shampoo + Condicionador Bond Repair;15.9;15.9;un;1.0;181773;63821;Palmolive;7509546707938;17614985;99999
+2026-10-25;shampoo-head---shoulders-fragrancia-poderosa-88484;Shampoo Head & Shoulders Fragrância Poderosa 650ml;37.9;37.9;un;1.0;39116;39116;Head & Shoulders;7500435238687;88484941;99999
+2026-10-25;shampoo-clear-anti-caspa-max-power-17973;Shampoo Clear Anti Caspa Max Power 350ml;29.9;29.9;un;1.0;182342;63986;Clear;7891150105294;17973968;99999
+2026-10-25;kit-bebe-natureza-shampoo---condicionador-girafinha-93491;Kit Bebê Natureza Shampoo + Condicionador Girafinha;37.9;37.9;un;1.0;43859;43859;Bebê Natureza;7908082303435;93491950;99999
+2026-10-25;shampoo-huggies-kids-nutricao-e-forca---meninos-93392;Shampoo Huggies Kids Nutrição e força - Meninos 360ml;17.9;17.9;un;1.0;43767;43767;Huggies;7896018750968;93392918;99999
+2026-10-25;shampoo-huggies-kids-nutricao-e-forca---meninas-93393;Shampoo Huggies Kids Nutrição e força - Meninas 360ml;17.9;17.9;un;1.0;43768;43768;Huggies;7896018750869;93393978;99999
+2026-10-25;shampoo-above-men-anticaspa-16909;Shampoo Above Men Anticaspa LEVE 600ml PAGUE 500ml;19.9;19.9;un;1.0;171130;63133;Above;7899674045409;16909961;99999
+2026-10-25;kit-dove-shampoo---condicionador-cachos---biotina-8622;Kit Dove Shampoo + Condicionador Cachos + Biotina;25.9;25.9;un;1.0;58932;58771;Dove;7891150103795;8622943;99999
+2026-10-25;kit-dove-shampoo---condicionador-reconstrucao---aminoacido-8616;Kit Dove Shampoo + Condic Reconstrução + Aminoácido;25.9;25.9;un;1.0;58927;58766;Dove;7891150103771;8616902;99999
+2026-10-25;kit-monange-shampoo-300ml---condicionador-170ml-lisos-13573;Kit Monange Shampoo 300ml + Condicionador 170ml Lisos;13.9;13.9;un;1.0;115268;61474;Monange;7896235354925;13573911;99999
+2026-10-25;kit-monange-shampoo-300ml---condicionador-170ml-hidratacao-13574;Kit Monange Shampoo 300ml + Condicionador 170ml Hidratação;13.9;13.9;un;1.0;115265;61363;Monange;7896235354918;13574971;99999
+2026-10-25;kit-dove-shampoo---condicionador-hidratacao---hialuron-8618;Kit Dove Shampoo + Condicionador Hidratação + Hialuron;25.9;25.9;un;1.0;58929;58768;Dove;7891150103801;8618921;99999
+2026-10-25;kit-salon-line-shampoo---creme-bob-esponja-12747;Kit Salon Line Shampoo + Creme Bob Esponja;25.9;25.9;un;1.0;60813;60633;Salon Line;7908458333189;12747999;99999
+2026-10-25;kit-salon-line-shampoo---condicionador-hidra-melao-96468;Kit Salon Line Shampoo + Condicionador Hidra Melão;16.9;16.9;un;1.0;53361;52821;Salon Line;7908458326396;96468925;99999
+2026-10-25;kit-inoar-shampoo-1l---condicionador-1l-cicatrifios-6917;Kit Inoar Shampoo 1L + Condicionador 1L Cicatrifios;45.99;45.99;un;1.0;58143;57983;Inoar;7898581089285;6917939;99999
+2026-10-25;kit-inoar-shampoo-1l---condicionador-1l-bambu-7137;Kit Inoar Shampoo 1L + Condicionador 1L Bambu;45.99;45.99;un;1.0;58230;58070;Inoar;7908124401761;7137965;99999
+2026-10-25;kit-salon-line-shampoo---condicionador-hidra-maracuja-96467;Kit Salon Line Shampoo + Condicionador Hidra Maracujá;16.9;16.9;un;1.0;53360;52820;Salon Line;7908458326365;96467966;99999
+2026-10-25;kit-dove-shampoo---condicionador-bond-repair-peptideo-8621;Kit Dove Shampoo + Condicionador Bond Repair Peptídeo;25.9;25.9;un;1.0;58931;58770;Dove;7891150097643;8621984;99999
+2026-10-25;kit-niely-gold-shampoo---condicionador-reconstrucao-potente-9009;Kit Niely Gold Shampoo + Condicionador Reconstrução Potente;14.9;14.9;un;1.0;59146;58985;Niely;7908785490166;9009947;99999
+2026-10-25;kit-inoar-shampoo-500ml---condicionador-500ml-argan-6914;Kit Inoar Shampoo 500ml + Condicionador 500ml Argan;28.9;28.9;un;1.0;58140;57980;Inoar;7898581088066;6914961;99999
+2026-10-25;kit-vizet-shampoo---mascara-condicionante-cresce-forte-5373;Kit Vizet Shampoo + Máscara Condicionante Cresce Forte;35.9;35.9;un;1.0;57538;57378;Vizet;7908003911701;5373926;99999
+2026-10-25;kit-inoar-shampoo-500ml---condicionador-500ml-glycolic-6915;Kit Inoar Shampoo 500ml + Condicionador 500ml Glycolic;28.9;28.9;un;1.0;58141;57981;Inoar;7908124408104;6915920;99999
+2026-10-25;kit-elseve-shampoo-385ml---condicionador-170ml-collagen-lifter-13749;Kit Elseve Shampoo 385ml + Condicionador 170ml Collagen Lifter;33.9;33.9;un;1.0;113967;61130;Elseve;7908966557855;13749915;99999
+2026-10-25;kit-dove-shampoo---condicionador-uv-repair-glow-ferulico-10585;Kit Dove Shampoo + Condicionador UV Repair Glow Ferúlico;25.9;25.9;un;1.0;59913;59745;Dove;7891150103818;10585995;99999
+2026-10-25;creme-dental-colgate-tripla-acao-17453;Creme Dental Colgate Tripla Ação 4x180g;22.8;22.8;un;1.0;180923;63608;Colgate;7509546708607;17453956;99999
+2026-10-25;creme-dental-oral-b-3d-white-13850;Creme Dental Oral-B 3D White 140g;13.5;13.5;un;1.0;135997;61566;Oral-B;7500435177054;13850944;99999
+2026-10-25;creme-dental-oral-b-extra-branco-13849;Creme Dental Oral-B Extra Branco 180g;7.9;7.9;un;1.0;135998;61563;Oral-B;7500435243858;13849906;99999
+2026-10-25;creme-dental-colgate-total-limpeza-interdental-17456;Creme Dental Colgate Total Limpeza Interdental 90g;10.5;10.5;un;1.0;180921;63612;Colgate;7509546704067;17456934;99999
+2026-10-25;creme-dental-colgate-total-original-mint-8887;Creme Dental Colgate Total Original Mint 90g;10.5;10.5;un;1.0;59068;58907;Colgate;7509546702605;8887992;99999
+2026-10-25;creme-dental-colgate-total-original-mint-8889;Creme Dental Colgate Total Original Mint 220g;19.5;19.5;un;1.0;59069;58908;Colgate;7509546702667;8889910;99999
+2026-10-25;creme-dental-sensodyne-protecao-completa-94013;Creme Dental Sensodyne Proteção Completa 2x180g;34.9;34.9;un;1.0;44316;44316;Sensodyne;7896009499142;94013988;99999
+2026-10-25;creme-dental-oral-b-4-em-1-96725;Creme Dental Oral-B 4 em 1 L12 P10;34.9;34.9;un;1.0;46822;46822;Oral-B;7500435243834;96725907;99999
+2026-10-25;creme-dental-oral-b-extra-branco-pack-com-12x70g-66952;Creme Dental Oral-B Extra branco 12x70g;34.9;34.9;un;1.0;28788;28788;Oral-B;7500435150255;66952949;99999
+2026-10-25;creme-dental-colgate-total-carvao-ativado-4818;Creme Dental Colgate Total Carvão Ativado 4x90g;29.8;29.8;un;1.0;57266;57106;Colgate;7509546697383;4818911;99999
+2026-10-25;creme-dental-oral-b-extra-branco-11702;Creme Dental Oral-B Extra Branco 3x70g;9.9;9.9;un;1.0;60583;60411;Oral-B;7500435257824;11702973;99999
+2026-10-25;creme-dental-colgate-total-original-mint-8890;Creme Dental Colgate Total Original Mint 4x90g;29.8;29.8;un;1.0;59070;58909;Colgate;7509546702612;8890948;99999
+2026-10-25;creme-dental-oral-b-3d-white-carvao-17738;Creme Dental Oral-B 3D White Carvão 140g;13.5;13.5;un;1.0;181618;63744;Oral-B;7500435269018;17738970;99999
+2026-10-25;creme-dental-oral-b-3d-white-carvao-17737;Creme Dental Oral-B 3D White Carvão 3x70g;18.9;18.9;un;1.0;181619;63739;Oral-B;7500435268318;17737910;99999
+2026-10-25;creme-dental-colgate-luminous-white-color-10670;Creme Dental Clareador Colgate Luminous White Color Correct 70g;8.59;8.59;un;1.0;59955;59787;Colgate;7509546700434;10670904;99999
+2026-10-25;creme-dental-colgate-maxima-protecao-anticaries-74475;Creme Dental Colgate Máxima Proteção Anticáries 180g 3 un com Desconto;15.9;15.9;un;1.0;28272;28272;Colgate;7509546669960;74475931;99999
+2026-10-25;creme-dental-sensodyne-original-65504;Creme Dental Sensodyne Original 90g;0.0;0.0;un;1.0;28842;28842;Sensodyne;7896009419324;65504997;0
+2026-10-25;creme-dental-bianco-supermint-94254;Creme Dental Bianco Supermint 70g;0.0;0.0;un;1.0;44184;44184;Bianco;7897534860605;94254931;0
+2026-10-25;creme-dental-sorriso-kids-unidade-com-50g-64546;Creme Dental Sorriso Kids 50g;0.0;0.0;un;1.0;29007;29007;Sorriso;7891528041902;64546948;0
+2026-10-25;creme-dental-ice-clean-61454;Creme Dental Ice Clean 70g;0.0;0.0;un;1.0;28661;28661;Ice Clean;7896425511350;61454922;0
+2026-10-25;creme-dental-colgate-mpa-61172;Creme dental Colgate MPA 180g;0.0;0.0;un;1.0;28324;28324;Colgate;7891024040379;61172987;0
+2026-10-25;creme-dental-bianco-extramint-94253;Creme Dental Bianco Extramint 70g;0.0;0.0;un;1.0;44183;44183;Bianco;7897534860629;94253972;0
+2026-10-25;creme-dental-colgate-neutracucar-unidade-com-70g-48852;Creme Dental Colgate Neutraçúcar 70g;0.0;0.0;un;1.0;28355;28355;Colgate;7891024028353;48852956;0
+2026-10-25;creme-dental-condor-lilica-49550;Creme Dental Condor Lilica 50g;0.0;0.0;un;1.0;28600;28600;Condor;7891055538418;49550956;0
+2026-10-25;creme-dental-sorriso-dentes-brancos-6461;Creme Dental Sorriso Dentes Brancos 180g;0.0;0.0;un;1.0;38115;38115;Sorriso;7891528038001;6461918;0
+2026-10-25;creme-dental-oral-b-1-2-3-51014;Creme Dental Oral-B 1-2-3 70g;0.0;0.0;un;1.0;28697;28697;Oral-B;7506339363883;51014957;0
+2026-10-25;creme-dental-sorriso-carvao-ativado-96668;Creme Dental Sorriso Carvão Ativado 90g;0.0;0.0;un;1.0;46492;46492;Sorriso;7509546675138;96668907;0
+2026-10-25;creme-dental-sorriso-carvao-ativado-74175;Creme Dental Sorriso Carvão ativado 140g;0.0;0.0;un;1.0;18283;18283;Sorriso;7509546675145;74175958;0
+2026-10-25;creme-dental-sensodyne-anti-tartaro-91287;Creme Dental Sensodyne Anti tártaro 90g;0.0;0.0;un;1.0;40984;40984;Sensodyne;7896009498794;91287950;0
+2026-10-25;creme-dental-sensodyne-repair-e-protect-tubo-com-100g-39044;Creme Dental Sensodyne Repair e Protect 100g;0.0;0.0;un;1.0;28877;28877;Sensodyne;7896015525583;39044978;0
+2026-10-25;creme-dental-sensodyne-rapido-alivio-94015;Creme Dental Sensodyne Rápido Alívio 180g;0.0;0.0;un;1.0;44318;44318;Sensodyne;7896009499111;94015906;0
+2026-10-25;creme-dental-sensodyne-protecao-completa-3996;Creme Dental Sensodyne Proteção Completa 20g;0.0;0.0;un;1.0;56845;56685;Sensodyne;7896090611966;3996911;0
+2026-10-25;creme-dental-even-fluor-e-calcio-27519;Creme Dental Even Flúor e Cálcio 90g;0.0;0.0;un;1.0;38152;38152;Even;7896013102489;27519990;0
+2026-10-25;creme-dental-tandy-63762;Creme Dental Tandy 3x50g un;0.0;0.0;un;1.0;29105;29105;Tandy;63762951;63762951;0
+2026-10-25;creme-dental-sorriso-super-refrescancia-unidade-com-90g-18342;Creme Dental Sorriso Super Refrescância 90g;0.0;0.0;un;1.0;29025;29025;Sorriso;7891528020600;18342925;0
+2026-10-25;creme-dental-sorriso-dentes-brancos-59263;Creme Dental Sorriso Dentes Brancos 180g;0.0;0.0;un;1.0;28937;28937;Sorriso;7891528032535;59263944;0
+2026-10-25;creme-dental-sorriso-dentes-brancos-19342;Creme Dental Sorriso Dentes Brancos 50g;0.0;0.0;un;1.0;28906;28906;Sorriso;7891528038025;19342923;0
+2026-10-25;creme-dental-colgate-mpa-pacote-com-6x90g-53923;Creme Dental Colgate MPA 6x90g;0.0;0.0;un;1.0;28305;28305;Colgate;7891024033494;53923981;0
+2026-10-25;creme-dental-colgate-mpa-pack-com-15x90g-62299;Creme Dental Colgate MPA 15x90g;0.0;0.0;un;1.0;28282;28282;Colgate;7891024040362;62299948;0
+2026-10-25;creme-dental-even-tri-protecao-66540;Creme Dental Even Tri proteção 70g;0.0;0.0;un;1.0;28650;28650;Even;7896013108153;66540982;0
+2026-10-25;creme-dental-oral-b-100--68870;Creme Dental Oral-B 100% 70g;0.0;0.0;un;1.0;28712;28712;Oral-B;7500435153164;68870986;0
+2026-10-25;creme-dental-kids-condor-barbie-86455;Creme Dental Kids Condor Barbie 50g;0.0;0.0;un;1.0;28666;28666;Condor;7891055394212;86455970;0
+2026-10-25;creme-dental-oral-b-1-2-3-tubo-com-150g-72981;Creme Dental Oral-B 1.2.3 150g;0.0;0.0;un;1.0;28707;28707;Oral-B;7500435124638;72981931;0
+2026-10-25;creme-dental-colgate-18978;Creme Dental Colgate Harry Potter 100g;0.0;0.0;un;1.0;192583;64658;Colgate;7509546706207;18978963;0
+2026-10-25;creme-dental-sorriso-fresh-gremio-17740;Creme Dental Sorriso Fresh Grêmio 90g;0.0;0.0;un;1.0;181621;63743;Sorriso;7509546704388;17740967;0
+2026-10-25;creme-dental-sensodyne-rapido-alivio-89080;Creme Dental Sensodyne Rápido Alívio 140g;0.0;0.0;un;1.0;39948;39948;Sensodyne;7896009498985;89080942;0
+2026-10-25;creme-dental-sorriso-tripla-vitaminas-tubo-com-90g-9026;Creme Dental Sorriso Tripla Vitaminas 90g;0.0;0.0;un;1.0;29069;29069;Sorriso;9026943;9026943;0
+2026-10-25;creme-dental-sorriso-dentes-brancos-unidade-com-180g-64054;Creme Dental Sorriso Dentes brancos 180g;0.0;0.0;un;1.0;28974;28974;Sorriso;7891528041544;64054963;0
+2026-10-25;creme-dental-sorriso-dentes-brancos-71439;Creme Dental Sorriso Dentes Brancos 220g;0.0;0.0;un;1.0;28951;28951;Sorriso;7509546669571;71439962;0
+2026-10-25;creme-dental-sensodyne-true-white-tubo-com-100g-52008;Creme Dental Sensodyne True White 100g;0.0;0.0;un;1.0;28890;28890;Sensodyne;7896015530006;52008997;0
+2026-10-25;creme-dental-colgate-total-whitening-10863;Creme Dental Colgate Total Whitening 90g;0.0;0.0;un;1.0;28507;28507;Colgate;7891024135020;10863993;0
+2026-10-25;creme-dental-closeup-red-hot-4717;Creme Dental Closeup Red Hot 90g;0.0;0.0;un;1.0;28189;28189;Closeup;7891037744356;4717961;0
+2026-10-25;creme-dental-sensodyne-limpeza-profunda-tubo-com-90g-62808;Creme Dental Sensodyne Limpeza profunda 90g;0.0;0.0;un;1.0;28836;28836;Sensodyne;7896015591106;62808913;0
+2026-10-25;creme-dental-closeup-eucalyptus-freeze-16187;Creme Dental Closeup Eucalyptus Freeze 90g;0.0;0.0;un;1.0;28136;28136;Closeup;7891037006324;16187957;0
+2026-10-25;creme-dental-closeup-red-hot-65875;Creme Dental Closeup Red Hot 130g;0.0;0.0;un;1.0;28185;28185;Closeup;7891037002647;65875995;0
+2026-10-25;creme-dental-sorriso-fresh-menthol-91071;Creme Dental Sorriso Fresh Menthol 140g;0.0;0.0;un;1.0;40709;40709;Sorriso;7509546686691;91071944;0
+2026-10-25;creme-dental-sensodyne-protecao-completa-tubo-com-90g-80870;Creme Dental Sensodyne Proteção Completa 90g;0.0;0.0;un;1.0;28852;28852;Sensodyne;7896009498107;80870980;0
+2026-10-25;creme-dental-sorriso-super-refrescancia-unidade-com-50g-18341;Creme Dental Sorriso Super Refrescância 50g;0.0;0.0;un;1.0;69409;60890;Sorriso;7897173025502;18341966;0
+2026-10-25;creme-dental-bianco-kids-morango-4799;Creme Dental Bianco Kids Morango 60g;0.0;0.0;un;1.0;57255;57095;Bianco;7897534868038;4799905;0
+2026-10-25;creme-dental-sensodyne-protecao-completa-89081;Creme Dental Sensodyne Proteção Completa 140g;0.0;0.0;un;1.0;39949;39949;Sensodyne;7896009498978;89081907;0
+2026-10-25;creme-dental-sorriso-fort-protect-unidade-com-70g-53672;Creme dental Sorriso Fort Protect 70g;0.0;0.0;un;1.0;29003;29003;Sorriso;7891528031132;53672939;0
+2026-10-25;creme-dental-sensodyne-ultra-protecao-74981;Creme Dental Sensodyne Ultra Proteção 90g;0.0;0.0;un;1.0;28894;28894;Sensodyne;7896015592721;74981927;0
+2026-10-25;creme-dental-sensodyne-repair-whitening-tubo-com-100g-45847;Creme Dental Sensodyne Repair Whitening 100g;0.0;0.0;un;1.0;28882;28882;Sensodyne;7896015528577;45847981;0
+2026-10-25;creme-dental-even-fluor-e-calcio-43772;Creme Dental Even Flúor e Cálcio 90g;0.0;0.0;un;1.0;28612;28612;Even;7896013101062;43772931;0
+2026-10-25;creme-dental-colgate-tripla-acao-71438;Creme Dental Colgate Tripla Ação 220g;0.0;0.0;un;1.0;28513;28513;Colgate;7509546669557;71438902;0
+2026-10-25;creme-dental-colgate-mpa-75615;Creme Dental Colgate MPA 15x180g;0.0;0.0;un;1.0;28303;28303;Colgate;7891024042519;75615942;0
+2026-10-25;creme-dental-closeup-protecao-bioativa-75089;Creme Dental Closeup Proteção Bioativa 150g;0.0;0.0;un;1.0;28172;28172;Closeup;7891150084810;75089992;0
+2026-10-25;creme-dental-even-fluor-e-calcio-60036;Creme Dental Even Flúor e Cálcio 70g;0.0;0.0;un;1.0;28607;28607;Even;7896013106968;60036913;0
+2026-10-25;creme-dental-even-jua-e-hortela-60035;Creme Dental Even Juá e Hortelã 70g;0.0;0.0;un;1.0;28634;28634;Even;7896013106951;60035954;0
+2026-10-25;creme-dental-sorriso-dentes-brancos-19343;Creme Dental Sorriso Dentes Brancos 90g;0.0;0.0;un;1.0;28911;28911;Sorriso;7891528030142;19343983;0
+2026-10-25;creme-dental-closeup-menthol-paradise-1895;Creme Dental Closeup Menthol Paradise 90g;0.0;0.0;un;1.0;28141;28141;Closeup;7891037744257;1895965;0
+2026-10-25;creme-dental-sensodyne-protecao-completa-94016;Creme Dental Sensodyne Proteção Completa 180g;0.0;0.0;un;1.0;44319;44319;Sensodyne;7896009499135;94016966;0
+2026-10-25;creme-dental-sensodyne-rapido-alivio-62807;Creme Dental Sensodyne Rápido Alívio 90g;0.0;0.0;un;1.0;28858;28858;Sensodyne;7896015528300;62807954;0
+2026-10-25;creme-dental-colgate-18979;Creme Dental Colgate Fresh Mint 220g;0.0;0.0;un;1.0;192582;64654;Colgate;7509546710228;18979922;0
+2026-10-25;creme-dental-colgate-18980;Creme Dental Colgate Total Whitening 220g;0.0;0.0;un;1.0;192581;64656;Colgate;7509546710211;18980960;0
+2026-10-25;creme-dental-sensodyne-sensibilidade-e-gengivas-71665;Creme Dental Sensodyne Sensibilidade e Gengivas 100g;0.0;0.0;un;1.0;28886;28886;Sensodyne;7896015591786;71665941;0
+2026-10-25;creme-dental-oral-b-detox-75590;Creme Dental Oral-B Detox 102g;0.0;0.0;un;1.0;28772;28772;Oral-B;7500435130547;75590974;0
+2026-10-25;creme-dental-even-jua-e-hortela-32772;Creme Dental Even Juá e Hortelã 90g;0.0;0.0;un;1.0;28644;28644;Even;7896013102502;32772934;0
+2026-10-25;creme-dental-colgate-tripla-acao-unidade-com-50g-72723;Creme Dental Colgate Tripla ação 50g;0.0;0.0;un;1.0;28579;28579;Colgate;7891024131909;72723999;0
+2026-10-25;creme-dental-colgate-smiles-minions-tubo-com-100g-57698;Creme Dental Colgate Smiles Minions 100g;0.0;0.0;un;1.0;28405;28405;Colgate;7509546069593;57698944;0
+2026-10-25;creme-dental-closeup-poder-antibac-71845;Creme Dental Closeup Poder antibac 85g;0.0;0.0;un;1.0;28155;28155;Closeup;7891150078543;71845967;0
+2026-10-25;creme-dental-closeup-dentes-brancos-76752;Creme Dental Closeup Dentes Brancos 130g;0.0;0.0;un;1.0;28132;28132;Closeup;7891150086210;76752966;0
+2026-10-25;creme-dental-oral-b-1-2-3-85959;Creme Dental Oral-B 1-2-3 12x70g;0.0;0.0;un;1.0;28692;28692;Oral-B;7500435228992;85959965;0
+2026-10-25;creme-dental-sensodyne-rapido-alivio-pack-com-3x90g-76475;Creme Dental Sensodyne Rápido Alívio 3x90g;0.0;0.0;un;1.0;28874;28874;Sensodyne;7896015592042;76475927;0
+2026-10-25;creme-dental-colgate-18976;Creme Dental Colgate Original Mint 2x90g;0.0;0.0;un;1.0;192584;64655;Colgate;7509546710327;18976944;0
+2026-10-25;creme-dental-sorriso-tripla-limpeza-10671;Creme Dental Sorriso Tripla Limpeza 4x70g;0.0;0.0;un;1.0;59956;59788;Sorriso;7509546701165;10671970;0
+2026-10-25;creme-dental-colgate-total-carvao-ativado-10206;Creme Dental Colgate Total Carvão Ativado 140g;0.0;0.0;un;1.0;59554;59393;Colgate;7509546686035;10206937;0
+2026-10-25;creme-dental-sorriso-tripla-limpeza-completa-embalagem-com-180g-67246;Creme Dental Sorriso Tripla Limpeza Completa 180g;0.0;0.0;un;1.0;29040;29040;Sorriso;7891528042428;67246969;0
+2026-10-25;creme-dental-sorriso-extremo-branco-68030;Creme Dental Sorriso Extremo branco 3x70g;0.0;0.0;un;1.0;28991;28991;Sorriso;7509546660004;68030955;0
+2026-10-25;creme-dental-sorriso-dentes-brancos-53922;Creme Dental Sorriso Dentes Brancos 6x90g;0.0;0.0;un;1.0;28932;28932;Sorriso;7891528033136;53922921;0
+2026-10-25;creme-dental-oral-b-kids-princesas-embalagem-com-50g-63430;Creme Dental Oral-B Kids Princesas 50g;0.0;0.0;un;1.0;28810;28810;Oral-B;7500435137737;63430918;0
+2026-10-25;creme-dental-oral-b-antiacucar-66950;Creme Dental Oral-B Antiaçúcar 3x70g;0.0;0.0;un;1.0;28761;28761;Oral-B;7500435150286;66950924;0
+2026-10-25;creme-dental-oral-b-1•2•3-70936;Creme Dental Oral-B 1•2•3 24x70g;0.0;0.0;un;1.0;28676;28676;Oral-B;17500435160251;70936921;0
+2026-10-25;creme-dental-even-fluor-e-calcio-pack-com-12-unidades-62591;Creme Dental Even Flúor e cálcio 12 un;0.0;0.0;un;1.0;28601;28601;Even;7896013107545;62591946;0
+2026-10-25;creme-dental-colgate-tripla-acao-pacote-com-6x90g-53924;Creme Dental Colgate Tripla Ação 6x90g;0.0;0.0;un;1.0;28573;28573;Colgate;53924940;53924940;0
+2026-10-25;salgadinho-romanato-presunto-16960;Salgadinho Romanato Presunto 70g;0.49;0.49;un;1.0;171259;63179;Romanato;7898633333977;16960907;99999
+2026-10-25;presunto-em-pedaco-sadia-85510;Presunto em Pedaço Sadia quilo;37.9;37.9;kg;0.4;42451;42451;Sadia;85510;85510947;99999
+2026-10-25;presunto-em-pedaco-perdigao-85502;Presunto em Pedaço Perdigão quilo;30.9;30.9;kg;0.4;41550;41550;Perdigão;85502;85502976;99999
+2026-10-25;pate-de-presunto-sadia-32895;Patê de Presunto Sadia 100g;4.7;4.7;un;1.0;26315;26315;Sadia;7893000004757;32895960;99999
+2026-10-25;presunto-em-pedaco-aurora-85492;Presunto em Pedaço Aurora quilo;35.9;35.9;kg;0.4;41546;41546;Aurora;85492;85492906;99999
+2026-10-25;presunto-sadia-fatiado-84465;Presunto Sadia Fatiado 180g;5.99;5.99;un;1.0;33905;33905;Sadia;7891515598266;84465952;99999
+2026-10-25;presunto-ralado-perdigao-88821;Presunto Ralado Perdigão quilo;30.9;30.9;kg;0.3;41664;41664;Perdigão;88821;88821958;99999
+2026-10-25;presunto-cozido-frimesa-fatiado-67624;Presunto Cozido Frimesa Fatiado 500g;18.9;18.9;un;1.0;33687;33687;Frimesa;7896275921095;67624958;99999
+2026-10-25;presunto-cozido-fatiado-aurora-85477;Presunto Cozido Fatiado Aurora quilo;35.9;35.9;kg;0.3;39461;39461;Aurora;85477;85477947;99999
+2026-10-25;salgadinho-romanato-agora-presunto-16970;Salgadinho Romanato Agora Presunto 35g;0.64;0.64;un;1.0;171271;63182;Romanato;7898633335308;16970986;99999
+2026-10-25;presunto-cozido-fatiado-sadia-85506;Presunto Cozido Fatiado Sadia quilo;37.9;37.9;kg;0.3;39463;39463;Sadia;85506;85506913;99999
+2026-10-25;croissant-swift-presunto-e-queijo-1036;Croissant Swift Presunto e Queijo 180g;19.9;19.9;un;1.0;55376;55219;Swift;7899567238024;1036937;99999
+2026-10-25;presunto-cozido-frimesa-fatiado-67623;Presunto Cozido Frimesa Fatiado 200g;8.29;8.29;un;1.0;33693;33693;Frimesa;7896275900953;67623999;99999
+2026-10-25;salgadinho-yokitos-conchinha-de-presunto-84020;Salgadinho Yokitos Conchinha de Presunto 153g;3.99;3.99;un;1.0;17120;17120;Yokitos;7891095023219;84020983;99999
+2026-10-25;presunto-cozido-fatiado-perdigao-85499;Presunto Cozido Fatiado Perdigão quilo;32.9;32.9;kg;0.3;41549;41549;Perdigão;85499;85499922;99999
+2026-10-25;salgadinho-elma-chips-fandangos-presunto-17783;Salgadinho Elma Chips Fandangos Presunto 85g;7.98;7.98;un;1.0;181938;63833;Elma Chips;7892840825065;17783964;99999
+2026-10-25;rondelli-dona-thereza-presunto-e-queijo-1353;Rondelli Dona Thereza Presunto e Queijo 750g;38.9;38.9;un;1.0;55527;55367;Dona Thereza;7898058582028;1353978;99999
+2026-10-25;presunto-cozido-pamplona-11813;Presunto Cozido Pamplona Preço por quilo na peça;18.9;18.9;kg;0.5;60695;60521;Pamplona;11813;11813919;99999
+2026-10-25;presunto-cru-espanho-ceratti-fatiado-93990;Presunto Cru Espanho Ceratti Fatiado 80g;19.9;19.9;un;1.0;44257;44257;Ceratti;7898618520965;93990940;99999
+2026-10-25;presunto-magro-cozido-fatiado-seara-85514;Presunto Magro Cozido Fatiado Seara quilo;33.9;33.9;kg;0.3;39464;39464;Seara;85514;85514991;99999
+2026-10-25;presunto-cozido-aurora-14719;Presunto Cozido Aurora Preço por quilo na peça;25.9;25.9;kg;0.5;33634;33634;Aurora;14719;14719979;99999
+2026-10-25;presunto-serrano-haciendas-extra-fino-98328;Presunto Serrano Haciendas Extra Fino 100g;25.4;25.4;un;1.0;48290;48290;Haciendas;8412954020737;98328917;99999
+2026-10-25;salgadinho-elma-chips-fandangos-presunto-4203;Salgadinho Elma Chips Fandangos Presunto 250g;14.98;14.98;un;1.0;56943;56783;Elma Chips;7892840824129;4203972;99999
+2026-10-25;presunto-cozido-alegra-92769;Presunto Cozido Alegra Preço por quilo na peça;22.6;22.6;kg;0.5;43241;43241;Alegra;92769;92769966;99999
+2026-10-25;presunto-espanhol-d-or-fatiado-96975;Presunto Espanhol D'OR Fatiado 80g;15.5;15.5;un;1.0;46972;46972;D'OR;7898727790389;96975981;99999
+2026-10-25;empanado-de-frango-recheado-sadia-presunto-e-queijo-17407;Empanado de Frango Recheado Sadia Presunto e Queijo 110g;4.3;4.3;un;1.0;180281;63555;Sadia;7891515644659;17407985;99999
+2026-10-25;presunto-magro-cozido-seara-28092;Presunto Magro Cozido Seara Preço por quilo na peça;25.9;25.9;kg;0.5;33869;33869;Seara;28092;28092953;99999
+2026-10-25;presunto-cozido-fatiado-sadia-86614;Presunto Cozido Fatiado Sadia Preço por quilo na bandeja;37.9;37.9;kg;0.3;42508;42508;Sadia;86614;86614980;99999
+2026-10-25;presunto-cozido-fatiado-seara-86617;Presunto Cozido Fatiado Seara Preço por quilo na bandeja;33.9;33.9;kg;0.3;42510;42510;Seara;86617;86617958;99999
+2026-10-25;presunto-italiano-cru-d-or-fatiado-95419;Presunto Italiano Cru D'OR Fatiado 80g;18.9;18.9;un;1.0;45431;45431;D'OR;7898902568451;95419996;99999
+2026-10-25;presunto-cozido-fatiado-aurora-86615;Presunto Cozido Fatiado Aurora Preço por quilo na bandeja;35.9;35.9;kg;0.3;42509;42509;Aurora;86615;86615939;99999
+2026-10-25;presunto-cozido-fatiado-perdigao-86613;Presunto Cozido Fatiado Perdigão Preço por quilo na bandeja;32.9;32.9;kg;0.3;42507;42507;Perdigão;86613;86613920;99999
+2026-10-25;presunto-cozido-sadia-sem-capa-de-gordura-8915;Presunto Cozido Sadia Sem capa gord Preço por quilo na peça;29.5;29.5;kg;0.5;33792;33792;Sadia;8915;8915916;99999
+2026-10-25;presunto-cozido-rezende-sem-capa-de-gordura-15253;Presunto Cozido Rezende Sem capa gord Preço por quilo na peça;22.5;22.5;kg;0.5;33758;33758;Rezende;15253;15253978;99999
+2026-10-25;presunto-cozido-perdigao-sem-capa-de-gordura-57127;Presunto Cozido Perdigão Sem capa gord Preço por quilo na peça;24.8;24.8;kg;0.5;33738;33738;Perdigão;57127;57127982;99999
+2026-10-25;presunto-cozido-frimesa-sem-capa-de-gordura-88430;Presunto Cozido Frimesa Sem capa gord Preço por quilo na peça;25.5;25.5;kg;0.5;39091;39091;Frimesa;88430;88430906;99999
+2026-10-25;capeletti-dona-thereza-presunto-e-queijo-1340;Capeletti Dona Thereza Pres e Queijo 750g;23.9;23.9;un;1.0;55524;55364;Dona Thereza;7898058581977;1340915;99999
+2026-10-25;salgadinho-levinho-s-presunto-76776;Salgadinho Levinho's Presunto 50g;0.0;0.0;un;1.0;15696;15696;Levinho's;7896005219980;76776960;0
+2026-10-25;presunto-pamplona-fatiado-61996;Presunto Pamplona Fatiado 500g;0.0;0.0;un;1.0;33874;33874;Pamplona;7896716310891;61996909;0
+2026-10-25;pate-de-presunto-seara-39596;Patê de Presunto Seara 100g;0.0;0.0;un;1.0;26320;26320;Seara;7894904573387;39596932;0
+2026-10-25;salgadinho-kro-presunto-82248;Salgadinho Kró Presunto 100g;0.0;0.0;un;1.0;15627;15627;Kró;7896221400483;82248996;0
+2026-10-25;salgadinho-mikao-presunto-7506;Salgadinho Mikão Presunto 28g;0.0;0.0;un;1.0;54178;60787;Mikão;7896245707483;7506917;0
+2026-10-25;salgadinho-mikao-presunto-76461;Salgadinho Mikão Presunto 90g;0.0;0.0;un;1.0;16492;16492;Mikão;7896245709432;76461911;0
+2026-10-25;salgadinho-kerus-presunto-pacote-com-80g-75873;Salgadinho Kerus Presunto 80g;0.0;0.0;un;1.0;15568;15568;Kerus;7898957757558;75873975;0
+2026-10-25;salgadinho-lobits-presunto-10160;Salgadinho Lobits Presunto 60g;0.0;0.0;un;1.0;59529;59368;Lobits;7896499902757;10160971;0
+2026-10-25;presunto-em-cubo-friato-2022;Presunto em Cubo Friato quilo;0.0;0.0;kg;1.0;55790;55630;Friato;2022;2022919;0
+2026-10-25;presunto-em-cubo-alegra-94107;Presunto em Cubo Alegra quilo;0.0;0.0;kg;0.3;44486;44486;Alegra;94107;94107909;0
+2026-10-25;salgadinho-skiny-presunto-93176;Salgadinho Skiny Presunto 60g;0.0;0.0;un;1.0;43584;43584;Skiny;93176917;93176917;0
+2026-10-25;presunto-em-pedaco-lebon-87122;Presunto em Pedaço Lebon quilo;0.0;0.0;kg;0.4;41645;41645;Lebon;87122;87122982;0
+2026-10-25;presunto-em-pedaco-peperi-85497;Presunto em Pedaço Peperi quilo;0.0;0.0;kg;0.4;41548;41548;Peperi;85497;85497903;0
+2026-10-25;salgadinho-kro-presunto-pacote-com-100g-36079;Salgadinho Kró Presunto 100g;0.0;0.0;un;1.0;38185;38185;Kró;36079915;36079915;0
+2026-10-25;presunto-fatiado-frimesa-pacote-com-500g-64820;Presunto Fatiado Frimesa 500g;0.0;0.0;un;1.0;33844;33844;Frimesa;64820902;64820902;0
+2026-10-25;pate-excelsior-presunto-35895;Patê Excelsior Presunto 250g;0.0;0.0;un;1.0;26357;26357;Excelsior;7896610902642;35895954;0
+2026-10-25;pate-de-presunto-lebon-unidade-com-100g-62197;Patê de Presunto Lebon 100g;0.0;0.0;un;1.0;26300;26300;Lebon;62197938;62197938;0
+2026-10-25;pate-bordon-presunto-56303;Patê Bordon Presunto 100g;0.0;0.0;un;1.0;26223;26223;Bordon;56303954;56303954;0
+2026-10-25;salgadinho-mikitos-presunto-86266;Salgadinho Mikitos Presunto 30g;0.0;0.0;un;1.0;16571;16571;Mikitos;7898901732303;86266925;0
+2026-10-25;salgadinho-mikao-presunto-60845;Salgadinho Mikão Presunto 140g;0.0;0.0;un;1.0;16478;16478;Mikão;7896245701450;60845950;0
+2026-10-25;salgadinho-mikao-presunto-48865;Salgadinho Mikão Presunto 100g;0.0;0.0;un;1.0;16473;16473;Mikão;7896245702266;48865912;0
+2026-10-25;salgadinho-lukitao-presunto-pacote-com-100g-76729;Salgadinho Lukitão Presunto 100g;0.0;0.0;un;1.0;16308;16308;Lukitão;7898965992095;76729947;0
+2026-10-25;salgadinho-skiny-presunto-92530;Salgadinho Skiny Presunto 60g;0.0;0.0;un;1.0;41776;41776;Skiny;7892840823283;92530908;0
+2026-10-25;salgadinho-bebela-presunto-pacote-com-50g-50275;Salgadinho Bebela Presunto 50g;0.0;0.0;un;1.0;14410;14410;Bebela;7896635190901;50275939;0
+2026-10-25;salgadinho-skiny-presunto-92576;Salgadinho Skiny Presunto 35g;0.0;0.0;un;1.0;41822;41822;Skiny;7892840823269;92576984;0
+2026-10-25;salgadinho-amavita-presunto-74800;Salgadinho Amavita Presunto 200g;0.0;0.0;un;1.0;13997;13997;Amavita;7898931140680;74800927;0
+2026-10-25;presunto-ralado-frimesa-89450;Presunto Ralado Frimesa quilo;0.0;0.0;kg;0.3;60191;60022;Frimesa;89450;89450961;0
+2026-10-25;salgadinho-jumbitos-presunto-8932;Salgadinho Jumbitos Presunto 27g;0.0;0.0;un;1.0;59098;58937;Jumbitos;7898940958030;8932995;0
+2026-10-25;salgadinho-micos-presunto-4828;Salgadinho Micos Presunto 18g;0.0;0.0;un;1.0;57270;57110;Micos;7896245710414;4828990;0
+2026-10-25;presunto-em-pedaco-friato-2024;Presunto em Pedaço Friato quilo;0.0;0.0;kg;1.0;55792;55632;Friato;2024;2024938;0
+2026-10-25;salgadinho-campitos-presunto-98266;Salgadinho Campitos Presunto 50g;0.0;0.0;un;1.0;48245;48245;Campilar;98266920;98266920;0
+2026-10-25;presunto-em-pedaco-alegra-94111;Presunto em Pedaço Alegra quilo;0.0;0.0;kg;0.4;44490;44490;Alegra;94111;94111949;0
+2026-10-25;presunto-ralado-alegra-94108;Presunto Ralado Alegra quilo;0.0;0.0;kg;0.3;44487;44487;Alegra;94108;94108969;0
+2026-10-25;presunto-lebon-fatiado-92881;Presunto Lebon Fatiado 700g;0.0;0.0;un;1.0;43342;43342;Lebon;7894904289974;92881938;0
+2026-10-25;presunto-ralado-cofril-92254;Presunto Ralado Cofril quilo;0.0;0.0;kg;0.3;43093;43093;Cofril;92254;92254935;0
+2026-10-25;presunto-em-pedaco-cofril-92252;Presunto em Pedaço Cofril quilo;0.0;0.0;kg;0.5;43091;43091;Cofril;92252;92252916;0
+2026-10-25;presunto-em-cubo-seara-85922;Presunto em Cubo Seara quilo;0.0;0.0;kg;0.3;41626;41626;Seara;85922;85922914;0
+2026-10-25;pate-de-presunto-lebon-78764;Patê de Presunto Lebon 100g;0.0;0.0;un;1.0;38744;38744;Lebon;78764959;78764959;0
+2026-10-25;salgadinho-mikao-presunto-55909;Salgadinho Mikão Presunto 50g;0.0;0.0;un;1.0;16488;16488;Mikão;55909959;55909959;0
+2026-10-25;salgadinho-mikao-85197;Salgadinho Mikão Presunto 120g;0.0;0.0;un;1.0;16411;16411;Mikão;7896245707094;85197930;0
+2026-10-25;salgadinho-lobits-presunto-pacote-com-40g-84497;Salgadinho Lobits Presunto 40g;0.0;0.0;un;1.0;15749;15749;Lobits;7896499902634;84497905;0
+2026-10-25;salgadinho-jumbitos-presunto-45942;Salgadinho Jumbitos Presunto 55g;0.0;0.0;un;1.0;15455;15455;Jumbitos;7896221400131;45942975;0
+2026-10-25;salgadinho-amavita-presunto-77562;Salgadinho Amavita Presunto 25g;0.0;0.0;un;1.0;14002;14002;Amavita;7898931140796;77562960;0
+2026-10-25;presunto-perdigao-fatiado-66896;Presunto Perdigão Fatiado 200g;0.0;0.0;un;1.0;38445;38445;Perdigão;7891515484040;66896908;0
+2026-10-25;salgadinho-mikao-presunto-78789;Salgadinho Mikão Presunto 41g;0.0;0.0;un;1.0;16484;16484;Mikão;7896245709579;78789912;0
+2026-10-25;presunto-sadia-fatiado-51281;Presunto Sadia Fatiado 200g;0.0;0.0;un;1.0;33898;33898;Sadia;7893000084339;51281998;0
+2026-10-25;pate-excelsior-presunto-35896;Patê Excelsior Presunto 100g;0.0;0.0;un;1.0;26355;26355;Excelsior;7896610905902;35896913;0
+2026-10-25;salgadinho-maratitos-presunto-3386;Salgadinho Maratitos Presunto 45g;0.0;0.0;un;1.0;56542;56382;Maratitos;7898617580076;3386987;0
+2026-10-25;salgadinho-salsitos-18044;Salgadinho Salsitos Presunto 32g;0.0;0.0;un;1.0;184675;64038;Salsitos;7898211132336;18044982;0
+2026-10-25;presunto-ralado-friato-2035;Presunto Ralado Friato quilo;0.0;0.0;kg;1.0;55799;55639;Friato;2035;2035976;0
+2026-10-25;presunto-fatiado-friato-2020;Presunto Fatiado Friato quilo;0.0;0.0;kg;1.0;55788;55628;Friato;2020;2020995;0
+2026-10-25;pate-lebon-presunto-92705;Patê Lebon Presunto 100g;0.0;0.0;un;1.0;47737;47737;Lebon;7896589554002;92705941;0
+2026-10-25;salgadinho-kro-presunto-94427;Salgadinho Kró Presunto 70g;0.0;0.0;un;1.0;44829;44829;Kró;7898940958085;94427957;0
+2026-10-25;presunto-fatiado-alegra-94109;Presunto Fatiado Alegra quilo;0.0;0.0;kg;0.3;44488;44488;Alegra;94109;94109928;0
+2026-10-25;presunto-ralado-aurora-88822;Presunto Ralado Aurora quilo;0.0;0.0;kg;0.3;41665;41665;Aurora;88822;88822917;0
+2026-10-25;presunto-ralado-seara-88820;Presunto Ralado Seara quilo;0.0;0.0;kg;0.3;41663;41663;Seara;88820;88820993;0
+2026-10-25;presunto-em-cubo-rezende-87121;Presunto em Cubo Rezende quilo;0.0;0.0;kg;0.3;41644;41644;Rezende;87121;87121922;0
+2026-10-25;presunto-em-cubo-perdigao-85918;Presunto em Cubo Perdigão quilo;0.0;0.0;kg;0.3;41624;41624;Perdigão;85918;85918993;0
+2026-10-25;presunto-em-cubo-peperi-85916;Presunto em Cubo Peperi quilo;0.0;0.0;kg;0.3;41623;41623;Peperi;85916;85916974;0
+2026-10-25;presunto-em-cubo-aurora-85914;Presunto em Cubo Aurora quilo;0.0;0.0;kg;0.3;41622;41622;Aurora;85914;85914955;0
+2026-10-25;salgadinho-kro-presunto-82743;Salgadinho Kró Presunto 70g;0.0;0.0;un;1.0;38807;38807;Kró;82743954;82743954;0
+2026-10-25;presunto-seara-fatiado-48943;Presunto Seara Fatiado 200g;0.0;0.0;un;1.0;33911;33911;Seara;7894904729227;48943928;0
+2026-10-25;presunto-da-fazenda-fatiado-pacote-com-400g-82783;Presunto Da Fazenda Fatiado 400g;0.0;0.0;un;1.0;33804;33804;Da Fazenda;7898541230818;82783967;0
+2026-10-25;margarina-claybom-94112;Margarina Claybom 14kg;115.0;115.0;un;1.0;44435;44435;Claybom;7891515622930;94112908;99999
+2026-10-25;margarina-doriana-sem-sal-16946;Margarina Doriana Sem Sal 250g;44.9;44.9;un;1.0;69248;60887;Doriana;7908733211263;16946913;99999
+2026-10-25;margarina-originale-coamo-13622;Margarina Originale Coamo Com sal 500g;5.99;5.99;un;1.0;115077;61393;Coamo;7896279600477;13622952;99999
+2026-10-25;margarina-qualy-facil-tradicional-16388;Margarina Qualy Fácil Tradicional 500g;13.5;13.5;un;1.0;169747;62732;Qualy;7891515662141;16388999;99999
+2026-10-25;margarina-vigor-77--lipidios-com-sal-14180;Margarina Vigor 77% Lipídios Com sal 500g;7.45;7.45;un;1.0;163858;61889;Vigor;7891999011039;14180939;99999
+2026-10-25;margarina-vigor-77--lipidios-com-sal-14181;Margarina Vigor 77% Lipídios Com sal 250g;4.1;4.1;un;1.0;163861;61890;Vigor;7891999011008;14181904;99999
+2026-10-25;margarina-vigor-77--lipidios-com-sal-14303;Margarina Vigor 77% Lipídios Com sal 1kg;14.9;14.9;un;1.0;163907;61895;Vigor;7891999004833;14303962;99999
+2026-10-25;margarina-delicia-com-sal-14186;Margarina Delícia Com Sal Promopack 2x500g;17.5;17.5;un;1.0;139380;61622;Delícia;7894904609505;14186901;99999
+2026-10-25;margarina-sina-cheff-80--lipidios-sem-sal-15580;Margarina Sina Cheff 80% Lipídios Sem Sal 14,5kg;145.9;145.9;un;1.0;171784;63320;Sina Cheff;15580901;15580901;99999
+2026-10-25;margarina-sina-cheff-80--lipidios-com-sal-15581;Margarina Sina Cheff 80% Lipídios Com Sal 14,5kg;145.9;145.9;un;1.0;171785;63319;Sina Cheff;15581967;15581967;99999
+2026-10-25;margarina-sofiteli-25055;Margarina Sofiteli 15kg;0.0;0.0;un;1.0;6332;6332;Sofiteli;7891515593865;25055924;0
+2026-10-25;margarina-elogiata-balde-com-15kg-82405;Margarina Elogiata 15kg;0.0;0.0;un;1.0;6126;6126;Elogiata;7898914796347;82405969;0
+2026-10-25;margarina-adorita-38736;Margarina Adorita 15kg;0.0;0.0;un;1.0;5821;5821;Adorita;38736947;38736947;0
+2026-10-25;margarina-margarett-9391;Margarina Margarett 15kg;0.0;0.0;un;1.0;6140;6140;Margarett;7896520102378;9391956;0
+2026-10-25;margarina-elogiata-82404;Margarina Elogiata 3kg;0.0;0.0;un;1.0;6131;6131;Elogiata;7898914796330;82404909;0
+2026-10-25;margarina-suprema-64261;Margarina Suprema 15kg;0.0;0.0;un;1.0;6357;6357;Suprema;7891080401817;64261934;0
+2026-10-25;margarina-soya-10478;Margarina Soya 15kg;0.0;0.0;un;1.0;6340;6340;Soya;7891080403705;10478903;0
+2026-10-25;margarina-coamo-balde-com-15kg-16959;Margarina Coamo 15kg;0.0;0.0;un;1.0;5919;5919;Coamo;16959970;16959970;0
+2026-10-25;margarina-pastella-10458;Margarina Pastella 15kg;0.0;0.0;un;1.0;6184;6184;Pastella;7896520102385;10458947;0
+2026-10-25;margarina-amelia-20515;Margarina Amélia 15kg;0.0;0.0;un;1.0;5841;5841;Amélia;7896096000429;20515946;0
+2026-10-25;margarina-deline-com-sal-4616;Margarina Deline Com sal 250g;0.0;0.0;un;1.0;6054;6054;Deline;7893000979932;4616910;0
+2026-10-25;margarina-primor-com-sal-2151;Margarina Primor Com sal 500g;0.0;0.0;un;1.0;6210;6210;Primor;7891080400599;2151975;0
+2026-10-25;margarina-deline-com-sal-54966;Margarina Deline Com sal 3kg;0.0;0.0;un;1.0;6046;6046;Deline;7891515430412;54966970;0
+2026-10-25;margarina-cremosy-com-sal-pote-com-500g-75365;Margarina Cremosy Com Sal 500g;0.0;0.0;un;1.0;5958;5958;Cremosy;7891080404870;75365960;0
+2026-10-25;margarina-primor-com-sal-4877;Margarina Primor Com sal 250g;0.0;0.0;un;1.0;6214;6214;Primor;7891080400605;4877921;0
+2026-10-25;margarina-primor-com-sal-52204;Margarina Primor Com Sal 1kg;0.0;0.0;un;1.0;6219;6219;Primor;7891080806469;52204930;0
+2026-10-25;margarina-deline-com-sal-9627;Margarina Deline com Sal 15kg;0.0;0.0;un;1.0;6042;6042;Deline;9627938;9627938;0
+2026-10-25;margarina-vigor-com-sal-93155;Margarina Vigor Com sal 1kg;0.0;0.0;un;1.0;43563;43563;Vigor;7891999004864;93155901;0
+2026-10-25;margarina-vigor-com-sal-67394;Margarina Vigor Com sal 1kg;0.0;0.0;un;1.0;6384;6384;Vigor;67394932;67394932;0
+2026-10-25;margarina-soya-com-sal-4831;Margarina Soya Com sal 250g;0.0;0.0;un;1.0;6344;6344;Soya;7891080839429;4831952;0
+2026-10-25;margarina-delicia-com-sal-75418;Margarina Delícia Com sal 500g;0.0;0.0;un;1.0;6007;6007;Delícia;7891080145940;75418938;0
+2026-10-25;margarina-delicata-com-sal-18923;Margarina Delicata Com sal 500g;0.0;0.0;un;1.0;5989;5989;Delicata;7894904928989;18923975;0
+2026-10-25;margarina-coamo-sem-sal-balde-com-15kg-54583;Margarina Coamo Sem sal 15kg;0.0;0.0;un;1.0;5934;5934;Coamo;54583984;54583984;0
+2026-10-25;margarina-adorita-com-sal-38296;Margarina Adorita Com sal 500g;0.0;0.0;un;1.0;5827;5827;Adorita;7891152501223;38296961;0
+2026-10-25;margarina-delicia-com-sal-4512;Margarina Delícia Com sal 1kg;0.0;0.0;un;1.0;6000;6000;Delícia;7894904271511;4512982;0
+2026-10-25;margarina-claybom-com-sal-21187;Margarina Claybom Com sal 500g;0.0;0.0;un;1.0;5882;5882;Claybom;7891515901059;21187966;0
+2026-10-25;margarina-qualy-sem-sal-35266;Margarina Qualy Sem sal 500g;0.0;0.0;un;1.0;6291;6291;Qualy;7893000383005;35266932;0
+2026-10-25;margarina-delicia-com-sal-35927;Margarina Delícia Com sal 250g;0.0;0.0;un;1.0;6004;6004;Delícia;7891080400100;35927916;0
+2026-10-25;margarina-doriana-sem-sal-85184;Margarina Doriana Sem Sal 1kg;0.0;0.0;un;1.0;6098;6098;Doriana;7894904284832;85184974;0
+2026-10-25;margarina-primor-com-sal-13542;Margarina Primor Com Sal 15kg;0.0;0.0;un;1.0;6195;6195;Primor;7894904271672;13542917;0
+2026-10-25;margarina-deline-com-sal-46324;Margarina Deline Com sal 1kg;0.0;0.0;un;1.0;6050;6050;Deline;7893000079311;46324989;0
+2026-10-25;margarina-qualy-aera-57396;Margarina Qualy Aéra 500g;0.0;0.0;un;1.0;6269;6269;Qualy;7893000084360;57396952;0
+2026-10-25;margarina-ricca-folhados-38923;Margarina Ricca Folhados 2kg;0.0;0.0;un;1.0;6301;6301;Ricca;38923973;38923973;0
+2026-10-25;margarina-puro-sabor-14429;Margarina Puro Sabor 15kg;0.0;0.0;un;1.0;6233;6233;Puro Sabor;7891152501575;14429984;0
+2026-10-25;margarina-pastella-com-sal-balde-com-14kg-83388;Margarina Pastella Com Sal 14kg;0.0;0.0;un;1.0;6190;6190;Pastella;7896625211296;83388998;0
+2026-10-25;margarina-doriana-com-sal-pote-com-500g-47496;Margarina Doriana Com sal 500g;0.0;0.0;un;1.0;6084;6084;Doriana;7894904571956;47496944;0
+2026-10-25;margarina-doriana-com-sal-pote-com-1kg-72595;Margarina Doriana Com Sal 1kg;0.0;0.0;un;1.0;38546;38546;Doriana;7894904929658;72595983;0
+2026-10-25;margarina-delicia-com-sal-35926;Margarina Delícia Com Sal 500g;0.0;0.0;un;1.0;38183;38183;Delícia;7894904271528;35926957;0
+2026-10-25;margarina-sofiteli-com-sal-69677;Margarina Sofiteli Com sal 3kg;0.0;0.0;un;1.0;6336;6336;Sofiteli;7891515550097;69677923;0
+2026-10-25;margarina-vigor-com-sal-10997;Margarina Vigor Com sal 500g;0.0;0.0;un;1.0;6375;6375;Vigor;7891999872500;10997956;0
+2026-10-25;margarina-soya-com-sal-3471;Margarina Soya Com sal 500g;0.0;0.0;un;1.0;6352;6352;Soya;7891080839474;3471902;0
+2026-10-25;margarina-qualy-aera-46137;Margarina Qualy Aéra 250g;0.0;0.0;un;1.0;6262;6262;Qualy;7893000081628;46137963;0
+2026-10-25;margarina-primor-com-sal-29452;Margarina Primor Com Sal 3kg;0.0;0.0;un;1.0;6201;6201;Primor;7891080402166;29452992;0
+2026-10-25;margarina-margarett-com-sal-45453;Margarina Margarett Com sal 500g;0.0;0.0;un;1.0;6148;6148;Margarett;7896520100886;45453957;0
+2026-10-25;margarina-margarett-com-sal-45452;Margarina Margarett Com sal 250g;0.0;0.0;un;1.0;6144;6144;Margarett;7896520100923;45452998;0
+2026-10-25;margarina-delicata-com-sal-74555;Margarina Delicata Com sal 3kg;0.0;0.0;un;1.0;5979;5979;Delicata;7894904259991;74555966;0
+2026-10-25;margarina-delicata-com-sal-74403;Margarina Delicata Com sal 15kg;0.0;0.0;un;1.0;5974;5974;Delicata;7894904260003;74403947;0
+2026-10-25;margarina-qualy-com-sal-35265;Margarina Qualy Com sal 500g;0.0;0.0;un;1.0;6283;6283;Qualy;7893000394209;35265973;0
+2026-10-25;margarina-qualy-com-sal-46135;Margarina Qualy Com sal 1kg;0.0;0.0;un;1.0;6273;6273;Qualy;7893000079298;46135944;0
+2026-10-25;margarina-claybom-com-sal-58384;Margarina Claybom Com sal 1kg;0.0;0.0;un;1.0;5871;5871;Claybom;7891515410315;58384953;0
+2026-10-25;margarina-cremosy-com-sal-pote-com-1kg-75364;Margarina Cremosy Com sal 1kg;0.0;0.0;un;1.0;5953;5953;Cremosy;7891080404887;75364900;0
+2026-10-25;margarina-doriana-sem-sal-pote-com-500g-47493;Margarina Doriana Sem Sal 500g;0.0;0.0;un;1.0;6102;6102;Doriana;7849904571963;47493966;0
+2026-10-25;margarina-dualis-com-sal-74992;Margarina Dualís Com sal 500g;0.0;0.0;un;1.0;6106;6106;Dualís;7896279600293;74992965;0
+2026-10-25;margarina-deline-com-sal-18627;Margarina Deline Com sal 500g;0.0;0.0;un;1.0;6061;6061;Deline;7893000980006;18627939;0
+2026-10-25;margarina-delicia-sem-sal-35925;Margarina Delícia Sem Sal 500g;0.0;0.0;un;1.0;6023;6023;Delícia;7891080400070;35925998;0
+2026-10-25;margarina-vigor-com-sal-61119;Margarina Vigor Com sal 500g;0.0;0.0;un;1.0;38339;38339;Vigor;61119933;61119933;0
+2026-10-25;margarina-puro-sabor-balde-com-3kg-14431;Margarina Puro Sabor 3kg;0.0;0.0;un;1.0;6238;6238;Puro Sabor;7891152501599;14431987;0
+2026-10-25;margarina-doriana-com-sal-pote-com-1kg-57352;Margarina Doriana Com sal 1kg;0.0;0.0;un;1.0;6070;6070;Doriana;57352901;57352901;0
+2026-10-25;margarina-qualy-light-com-sal-35267;Margarina Qualy Light Com Sal 500g;0.0;0.0;un;1.0;6286;6286;Qualy;7893000502888;35267992;0
+2026-10-25;margarina-puro-sabor-com-sal-pote-com-500g-22904;Margarina Puro Sabor Com sal 500g;0.0;0.0;un;1.0;6257;6257;Puro Sabor;7891152501544;22904971;0
+2026-10-25;margarina-becel-original-sem-sal-81626;Margarina Becel Original Sem Sal 500g;0.0;0.0;un;1.0;5862;5862;Becel;7891515555252;81626987;0
+2026-10-25;margarina-becel-original-sem-sal-75245;Margarina Becel Original Sem Sal 250g;0.0;0.0;un;1.0;6169;6169;Becel;7891515555269;75245912;0
+2026-10-25;margarina-delicia-supreme-com-sal-52205;Margarina Delícia Supreme com Sal 250g;0.0;0.0;un;1.0;6025;6025;Delícia;7891080112829;52205990;0
+2026-10-25;margarina-ricca-folhados-peca-com-2kg-82611;Margarina Ricca Folhados Peça com 2kg;0.0;0.0;un;1.0;6306;6306;Ricca;7894904271764;82611909;0
+2026-10-25;margarina-qualy-vita-com-sal-79384;Margarina Qualy Vita Com Sal 500g;0.0;0.0;un;1.0;6296;6296;Qualy;7891515520632;79384949;0
+2026-10-25;margarina-primor-folhados-pacote-com-1-010kg-62881;Margarina Primor Folhados 1,010kg;0.0;0.0;un;1.0;6225;6225;Primor;62881941;62881941;0
+2026-10-25;margarina-cremosa-primor-com-sal-43604;Margarina Cremosa Primor Com sal 500g;0.0;0.0;un;1.0;5944;5944;Primor;7891080177996;43604994;0
+2026-10-25;margarina-becel-original-com-sal-86283;Margarina Becel Original com Sal 1kg;0.0;0.0;un;1.0;5853;5853;Becel;86283903;86283903;0
+2026-10-25;margarina-becel-original-com-sal-75244;Margarina Becel Original com Sal 500g;0.0;0.0;un;1.0;5857;5857;Becel;7891515555337;75244953;0
+2026-10-25;margarina-delicia-supreme-com-sal-35923;Margarina Delícia Supreme com Sal 500g;0.0;0.0;un;1.0;6030;6030;Delícia;7891080112836;35923979;0
+2026-10-25;margarina-medalha-de-ouro-com-sal-balde-com-10kg-75694;Margarina Medalha de Ouro Com sal 10kg;0.0;0.0;un;1.0;6161;6161;Medalha de Ouro;7891152801408;75694908;0
+2026-10-25;margarina-becel-original-com-sal-75243;Margarina Becel Original com Sal 250g;0.0;0.0;un;1.0;6166;6166;Becel;7891515555245;75243994;0
+2026-10-25;margarina-puro-sabor-com-sal-pote-com-250g-22903;Margarina Puro Sabor Com sal 250g;0.0;0.0;un;1.0;6252;6252;Puro Sabor;7891152501537;22903911;0
+2026-10-25;margarina-doriana-light-com-sal-pote-com-500g-47495;Margarina Doriana Light Com Sal 500g;0.0;0.0;un;1.0;6088;6088;Doriana;7894904571949;47495985;0
+2026-10-25;margarina-sebella-70--lipideos-48964;Margarina Sebella 70% Lipídios 3kg;0.0;0.0;un;1.0;6309;6309;Sebella;48964944;48964944;0
+2026-10-25;margarina-puro-sabor-com-sal-pote-com-1kg-64260;Margarina Puro Sabor Com sal 1kg;0.0;0.0;un;1.0;6247;6247;Puro Sabor;7891152501551;64260969;0
+2026-10-25;margarina-puro-sabor-com-sal-balde-com-10kg-75693;Margarina Puro Sabor Com sal 10kg;0.0;0.0;un;1.0;6242;6242;Puro Sabor;7891152801415;75693949;0
+2026-10-25;margarina-cremosy-com-sal-balde-com-14-5kg-82343;Margarina Cremosy Com Sal 14,5kg;0.0;0.0;un;1.0;5949;5949;Cremosy;7894904270002;82343990;0
+2026-10-25;margarina-cremosa-primor-com-sal-43603;Margarina Cremosa Primor Com sal 250g;0.0;0.0;un;1.0;5939;5939;Primor;7891080177989;43603934;0
+2026-10-25;margarina-com-sal-qualy-edicao-especial-93669;Margarina com Sal Qualy Edição Especial 250g;0.0;0.0;un;1.0;44035;44035;Qualy;7891515537531;93669973;0
+2026-10-25;margarina-vigor-sabor-manteiga-com-sal-80953;Margarina Vigor Sabor Manteiga com sal 1kg;0.0;0.0;un;1.0;6389;6389;Vigor;80953999;80953999;0
+2026-10-25;margarina-deline-sabor-milho-com-sal-93321;Margarina Deline Sabor Milho com Sal 250g;0.0;0.0;un;1.0;43717;43717;Deline;7891515618872;93321911;0
+2026-10-25;margarina-delicata-75--lipidios-86921;Margarina Delicata 75% Lipídios com Sal 3kg;0.0;0.0;un;1.0;5967;5967;Delicata;7894904264629;86921953;0
+2026-10-25;margarina-becel-sabor-manteiga-com-sal-75246;Margarina Becel Sabor Manteiga com Sal 500g;0.0;0.0;un;1.0;5867;5867;Becel;7891515555344;75246972;0
+2026-10-25;margarina-elogiata-com-sal-60--lipidios-5720;Margarina Elogiata Com sal 60% Lipídios 3kg;0.0;0.0;un;1.0;57712;57552;Elogiata;7898914796446;5720915;0
+2026-10-25;margarina-e-manteiga-vigor-mix-com-sal-54120;Margarina e Manteiga Vigor Mix Com sal 250g;0.0;0.0;un;1.0;6117;6117;Vigor;7891999852205;54120966;0
+2026-10-25;margarina-amelia-massa-folhada-38131;Margarina Amélia Massa Folhada 1,010kg;0.0;0.0;un;1.0;5847;5847;Amélia;7896096002324;38131903;0
+2026-10-25;margarina-e-manteiga-vigor-mix-com-sal-pote-com-500g-27926;Margarina e Manteiga Vigor Mix Com sal 500g;0.0;0.0;un;1.0;6123;6123;Vigor;7891999862501;27926954;0
+2026-10-25;mix-manteiga-e-margarina-linda-mineira-75320;Mix Manteiga e Margarina Linda Mineira 500g;0.0;0.0;un;1.0;11566;11566;Linda Mineira;7896339900721;75320944;0
+2026-10-25;margarina-elogiata-com-sal-60--lipidios-5559;Margarina Elogiata Com sal 60% Lipídios 15kg;0.0;0.0;un;1.0;57640;57480;Elogiata;7898914796453;5559908;0
+2026-10-25;margarina-vigor-80--lipidios-com-sal-65864;Margarina Vigor 80% Lipídios Com sal 250g;0.0;0.0;un;1.0;6369;6369;Vigor;65864957;65864957;0
+2026-10-25;margarina-coamo-50--lipidios-com-sal-balde-com-15kg-61960;Margarina Coamo 50% Lipídios Com sal 15kg;0.0;0.0;un;1.0;5902;5902;Coamo;61960912;61960912;0
+2026-10-25;margarina-amelia-80--lipidios-com-sal-balde-com-14kg-83717;Margarina Amélia 80% Lipídios Com Sal 14kg;0.0;0.0;un;1.0;5840;5840;Amélia;7896625211319;83717955;0
+2026-10-25;margarina-claybom-sabor-manteiga---com-sal-74402;Margarina Claybom Sabor manteiga Com sal 1kg;0.0;0.0;un;1.0;5891;5891;Claybom;7891515574840;74402988;0
+2026-10-25;margarina-claybom-sabor-manteiga---com-sal-69284;Margarina Claybom Sabor manteiga Com sal 500g;0.0;0.0;un;1.0;5887;5887;Claybom;7891515548889;69284959;0
+2026-10-25;mix-manteiga-e-margarina-linda-mineira-75319;Mix Manteiga e Margarina Linda Mineira 200g;0.0;0.0;un;1.0;11561;11561;Linda Mineira;7896339900738;75319906;0
+2026-10-25;margarina-primor-forno-e-fogao-tablete-com-4x100g-3910;Margarina Primor Forno e Fogão 4x100g;0.0;0.0;un;1.0;6229;6229;Primor;7891080400780;3910923;0
+2026-10-25;margarina-e-manteiga-danny-vita-com-sal-74993;Margarina e Manteiga Danny Vita Com sal 500g;0.0;0.0;un;1.0;6111;6111;Danny Vita;7898946883053;74993924;0
+2026-10-25;margarina-culinaria-coamo-sem-sal-54581;Margarina Culinária Coamo Sem sal 1,010kg;0.0;0.0;un;1.0;5961;5961;Coamo;7896279601672;54581965;0
+2026-10-25;margarina-amelia-50--lipidios-com-sal-balde-com-14kg-83716;Margarina Amélia 50% Lipídios Com Sal 14kg;0.0;0.0;un;1.0;5832;5832;Amélia;7896625211302;83716996;0
+2026-10-25;margarina-primor-60--lipidios-com-sal-85186;Margarina Primor 60% Lipídios - Com Sal 3kg;0.0;0.0;un;1.0;6206;6206;Primor;7894904282111;85186993;0
+2026-10-25;margarina-coamo-sabor-manteiga---com-sal-pote-com-500g-74994;Margarina Coamo Sabor Manteiga - Com Sal 500g;0.0;0.0;un;1.0;5929;5929;Coamo;7896279600286;74994984;0
+2026-10-25;alimento-a-base-de-manteiga-e-margarina-leco-com-sal-54119;Alimento à Base de Manteiga e Margarina Leco Com sal 200g;0.0;0.0;un;1.0;6725;6725;Leco;7892999862201;54119928;0
+2026-10-25;margarina-sina-cheff-com-sal-80--lipidios-43839;Margarina Sina Cheff Com Sal 80% Lipídios 15kg;0.0;0.0;un;1.0;6328;6328;Sina Cheff;43839925;43839925;0
+2026-10-25;margarina-sina-cheff-com-sal-50--lipidios-balde-com-15kg-48965;Margarina Sina Cheff Com Sal 50% Lipídios 15kg;0.0;0.0;un;1.0;6316;6316;Sina Cheff;7898947056692;48965903;0
+2026-10-25;alimento-a-base-de-manteiga-e-margarina-leco-sem-sal-32744;Alimento à Base de Manteiga e Margarina Leco Sem sal 200g;0.0;0.0;un;1.0;5494;5494;Leco;7892999861204;32744918;0
+2026-10-25;margarina-puro-sabor-com-sal-60--lipidios-10343;Margarina Puro Sabor Com sal 60% Lipídios 3kg;0.0;0.0;un;1.0;59637;59476;Puro Sabor;7891152802726;10343981;0
+2026-10-25;margarina-sina-cheff-com-sal-50--lipidios-62560;Margarina Sina Cheff Com sal 50% Lipídios 3kg;0.0;0.0;un;1.0;6323;6323;Sina Cheff;62560946;62560946;0
+2026-10-25;margarina-coamo-80--lipidios-sem-sal-72095;Margarina Coamo 80% Lipídios Sem sal 14,5kg;0.0;0.0;un;1.0;5912;5912;Coamo;7896279600217;72095938;0
+2026-10-25;margarina-coamo-80--lipidios-com-sal-balde-com-14-5kg-72097;Margarina Coamo 80% Lipídios Com Sal 14,5kg;0.0;0.0;un;1.0;5907;5907;Coamo;7896279600200;72097957;0
+2026-10-25;margarina-coamo-50--lipidios-com-sal-72094;Margarina Coamo 50% Lipídios Com Sal 14,5kg;0.0;0.0;un;1.0;5897;5897;Coamo;7896279600194;72094979;0
+2026-10-25;margarina-delicia-alho-e-cebola-85185;Margarina Delícia Alho e Cebola - Com Sal 500g;0.0;0.0;un;1.0;5992;5992;Delícia;7894904272938;85185933;0
+2026-10-25;margarina-delicia-tablete-culinario---com-sal-85188;Margarina Delícia Tablete Culinário - Com Sal 4x100g;0.0;0.0;un;1.0;6035;6035;Delícia;7894904281015;85188911;0
+2026-10-25;margarina-sina-chef-50--lipidios-com-sal-17362;Margarina Sina Chef 50% Lipídios Com Sal 14,5kg;0.0;0.0;un;1.0;179750;63528;Sina Cheff;7898621560453;17362984;0
+2026-10-25;margarina-para-confeitaria-amelia-uso-geral-sem-sal-38740;Margarina para Confeitaria Amélia Uso geral S/sal 1,010kg;0.0;0.0;un;1.0;6181;6181;Amélia;7896096000313;38740963;0
+2026-10-25;margarina-para-confeitaria-amelia-uso-geral-com-sal-38739;Margarina para Confeitaria Amélia Uso geral C/sal 1,010kg;0.0;0.0;un;1.0;6176;6176;Amélia;7896096000337;38739925;0
+2026-10-25;requeijao-vigor-light-88937;Requeijão Vigor Light 400g;18.9;18.9;un;1.0;39319;39319;Vigor;7896625211395;88937984;99999
+2026-10-25;salgadinho-amavita-requeijao-5605;Salgadinho Amavita Requeijão 80g;2.09;2.09;un;1.0;57668;57508;Amavita;7898766840007;5605953;99999
+2026-10-25;requeijao-catupiry-tradicional-12492;Requeijão Catupiry Tradicional 400g;17.8;17.8;un;1.0;60807;60627;Catupiry;7896353303393;12492919;99999
+2026-10-25;requeijao-catupiry-light-12491;Requeijão Catupiry Light 400g;17.8;17.8;un;1.0;60806;60626;Catupiry;7896353303409;12491960;99999
+2026-10-25;requeijao-roseli-cremoso-11167;Requeijão Roseli Cremoso 180g;5.49;5.49;un;1.0;60084;59916;Roseli;7896825400858;11167910;99999
+2026-10-25;salgadinho-bulnez-requeijao-13861;Salgadinho Bulnez Requeijão 200g;5.49;5.49;un;1.0;140922;61712;Bulnez;7898766840342;13861988;99999
+2026-10-25;requeijao-roseli-cremoso-11165;Requeijão Roseli Cremoso 400g;11.59;11.59;un;1.0;60083;59915;Roseli;7896825400995;11165992;99999
+2026-10-25;salgadinho-lucky-fofura-requeijao-92556;Salgadinho Lucky Fofura Requeijão 60g;2.15;2.15;un;1.0;41802;41802;Lucky;7892840823221;92556927;99999
+2026-10-25;croissant-swift-frango-com-requeijao-1156;Croissant Swift Frango com Requeijão 180g;19.9;19.9;un;1.0;55438;55278;Swift;7899567238000;1156974;99999
+2026-10-25;pizza-aurora-lombo-com-requeijao-16598;Pizza Aurora Lombo com Requeijão 460g;18.5;18.5;un;1.0;170222;62921;Aurora;7891164026271;16598959;99999
+2026-10-25;empadao-frango-com-bacon-e-requeijao-perdigao-11987;Empadão Perdigão Frango com Bacon e Requeijão 500g;14.8;14.8;un;1.0;60617;60445;Perdigão;7891515647353;11987996;99999
+2026-10-25;torta-swift-congelada-frango-com-requeijao-2684;Torta Swift Congelada Frango com Requeijão 400g;40.9;40.9;un;1.0;56152;55992;Swift;7908625605552;2684943;99999
+2026-10-25;requeijao-cremoso-roseli-sabor-cheddar-11163;Requeijão Cremoso Roseli Sabor Cheddar 400g;13.99;13.99;un;1.0;60082;59914;Roseli;7896825401039;11163973;99999
+2026-10-25;requeijao-president-sabor-queijo-cheddar-4418;Requeijão Président Sabor Queijo Cheddar 200g;12.2;12.2;un;1.0;57063;56903;Président;7891097107283;4418947;99999
+2026-10-25;rondelli-dona-thereza-espinafre-e-requeijao-1354;Rondelli Dona Thereza Espinafre e Requeijão 750g;32.27;32.27;un;1.0;55528;55368;Dona Thereza;7898058582035;1354937;99999
+2026-10-25;requeijao-president-sabor-queijo-brie-4420;Requeijão Président Sabor Queijo Brie 200g;12.2;12.2;un;1.0;57064;56904;Président;7891097107276;4420944;99999
+2026-10-25;rondelli-dona-thereza-bacon-e-requeijao-1352;Rondelli Dona Thereza Bacon e Requeijão 750g;38.9;38.9;un;1.0;55526;55366;Dona Thereza;7898058582059;1352918;99999
+2026-10-25;requeijao-cremoso-president-queijo-azul-12780;Requeijão Cremoso Président Queijo Azul 200g;12.2;12.2;un;1.0;60780;60605;Président;7891097107269;12780990;99999
+2026-10-25;salgadinho-yokitos-redinha-de-requeijao-84018;Salgadinho de Milho Redinha Requeijão Yoki Yokitos 135g;8.99;8.99;un;1.0;17162;17162;Yokitos;7891095023233;84018986;99999
+2026-10-25;salgadinho-elma-chips-cheetos-onda-requeijao-14891;Salgadinho Elma Chips Cheetos Onda Requeijão 90g;7.49;7.49;un;1.0;164475;62014;Elma Chips;7892840825003;14891920;99999
+2026-10-25;cobertura-culinaria-bulnez-sabor-requeijao-14322;Cobertura Culinária Bulnez Sabor Requeijão 1,5kg;11.9;11.9;un;1.0;141020;61724;Bulnez;7896825400414;14322977;99999
+2026-10-25;salgadinho-elma-chips-cheetos-onda-requeijao-4197;Salgadinho Elma Chips Cheetos Onda Requeijão 250g;14.98;14.98;un;1.0;56942;56782;Elma Chips;7892840824143;4197940;99999
+2026-10-25;mistura-top-milk-sabor-requeijao-11128;Mistura Top Milk Sabor Requeijão 1,8kg;5.99;5.99;un;1.0;178717;63477;Top Milk (Vale do Pardo Laticínios);7896557218226;11128957;99999
+2026-10-25;requeijao-cremoso-roseli-sabor-cheddar-89016;Requeijão Cremoso Roseli Sabor Cheddar 1,2kg;36.49;36.49;un;1.0;39553;39553;Roseli;7896825401015;89016957;99999
+2026-10-25;requeijao-aviacao-45658;Requeijão Aviação 250g;0.0;0.0;un;1.0;7756;7756;Aviação;78906679;45658936;0
+2026-10-25;requeijao-tirolez-76333;Requeijão Tirolez 480g;0.0;0.0;un;1.0;8502;8502;Tirolez;7896030520808;76333904;0
+2026-10-25;requeijao-itambe-48215;Requeijão Itambé 220g;0.0;0.0;un;1.0;8205;8205;Itambé;48215975;48215975;0
+2026-10-25;requeijao-betania-82335;Requeijão Betânia 400g;0.0;0.0;un;1.0;7766;7766;Betânia;7898064011604;82335930;0
+2026-10-25;requeijao-valeza-91209;Requeijão Valeza 500g;0.0;0.0;un;1.0;42308;42308;Valeza;7898004441379;91209925;0
+2026-10-25;requeijao-danone-copo-com-200g-44577;Requeijão Danone 200g;0.0;0.0;un;1.0;8127;8127;Danone;7891025699880;44577944;0
+2026-10-25;requeijao-tirolez-64482;Requeijão Tirolez 250g;0.0;0.0;un;1.0;8507;8507;Tirolez;7896030518409;64482932;0
+2026-10-25;requeijao-polenguinho-pote-com-150g-47512;Requeijão Polenguinho 150g;0.0;0.0;un;1.0;8364;8364;Polenghi;47512972;47512972;0
+2026-10-25;requeijao-itambe-64959;Requeijão Itambé 420g;0.0;0.0;un;1.0;8212;8212;Itambé;64959969;64959969;0
+2026-10-25;requeijao-tirolez-tradicional-95109;Requeijão Tirolez Tradicional 400g;0.0;0.0;un;1.0;45584;45584;Tirolez;7896030521690;95109926;0
+2026-10-25;requeijao-vigor-light-34931;Requeijão Vigor Light 200g;0.0;0.0;un;1.0;8517;8517;Vigor;7891999144461;34931940;0
+2026-10-25;requeijao-cremoso-tirolez-64480;Requeijão Cremoso Tirolez 200g;0.0;0.0;un;1.0;8095;8095;Tirolez;7896030518027;64480907;0
+2026-10-25;salgadinho-mikao-requeijao-78786;Salgadinho Mikão Requeijão 41g;0.0;0.0;un;1.0;16522;16522;Mikão;7896245709593;78786934;0
+2026-10-25;requeijao-itambe-tradicional-82762;Requeijão Itambé Tradicional 400g;0.0;0.0;un;1.0;8232;8232;Itambé;7896051164661;82762951;0
+2026-10-25;requeijao-itambe-tradicional-82685;Requeijão Itambé Tradicional 200g;0.0;0.0;un;1.0;8228;8228;Itambé;7896051140016;82685995;0
+2026-10-25;requeijao-cremoso-scala-93355;Requeijão Cremoso Scala 380g;0.0;0.0;un;1.0;43733;43733;Scala;7898039680873;93355984;0
+2026-10-25;requeijao-maranguape-tradicional-98264;Requeijão Maranguape Tradicional 400g;0.0;0.0;un;1.0;48115;48115;Maranguape;7896510100520;98264901;0
+2026-10-25;requeijao-itambe-tradicional-97378;Requeijão Itambé Tradicional 200g;0.0;0.0;un;1.0;47267;47267;Itambé;7896051167167;97378910;0
+2026-10-25;requeijao-catupiry-tradicional-75396;Requeijão Catupiry Tradicional 420g;0.0;0.0;un;1.0;7886;7886;Catupiry;7896353302068;75396954;0
+2026-10-25;requeijao-catupiry-cheddar-pouch-com-250g-61058;Requeijão Catupiry Cheddar 250g;0.0;0.0;un;1.0;7857;7857;Catupiry;7896353301177;61058906;0
+2026-10-25;requeijao-natville-tradicional-97006;Requeijão Natville Tradicional 200g;0.0;0.0;un;1.0;46919;46919;Natville;7898387120168;97006964;0
+2026-10-25;requeijao-canto-de-minas-pote-com-400g-84735;Requeijão Canto de Minas 400g;0.0;0.0;un;1.0;7822;7822;Canto de Minas;7896629630277;84735991;0
+2026-10-25;salgadinho-jumbitos-requeijao-6112;Salgadinho Jumbitos Requeijão 55g;0.0;0.0;un;1.0;57879;57719;Jumbitos;7896221402340;6112913;0
+2026-10-25;requeijao-cremoso-regina-4952;Requeijão Cremoso Regina 220g;0.0;0.0;un;1.0;57333;57173;Regina (Regina Laticínios);4952959;4952959;0
+2026-10-25;salgadinho-micos-requeijao-4826;Salgadinho Micos Requeijão 18g;0.0;0.0;un;1.0;57268;57108;Micos;7896245710438;4826971;0
+2026-10-25;coxinha-frango-com-requeijao-492;Coxinha Frango com Requeijão un;0.0;0.0;un;1.0;45058;45058;Atacadão S/A;492904;492904;0
+2026-10-25;croissant-frango-com-requeijao-172;Croissant Frango com Requeijão un;0.0;0.0;un;1.0;45040;45040;Atacadão S/A;172975;172975;0
+2026-10-25;requeijao-cremoso-scala-92148;Requeijão Cremoso Scala 380g;0.0;0.0;un;1.0;42313;42313;Scala;92148903;92148903;0
+2026-10-25;salgadinho-mikao-requeijao-78785;Salgadinho Mikão Requeijão 90g;0.0;0.0;un;1.0;16527;16527;Mikão;7896245709456;78785975;0
+2026-10-25;salgadinho-micos-requeijao-83300;Salgadinho Micos Requeijão 18g;0.0;0.0;un;1.0;16404;16404;Micos;83300973;83300973;0
+2026-10-25;salgadinho-lobits-requeijao-63973;Salgadinho Lobits Requeijão 50g;0.0;0.0;un;1.0;15790;15790;Lobits;63973971;63973971;0
+2026-10-25;salgadinho-gulao-requeijao-71262;Salgadinho Gulão Requeijão 120g;0.0;0.0;un;1.0;15396;15396;Gulozitos;7896565005078;71262999;0
+2026-10-25;requeijao-regatas-tradicional-copo-com-180g-74752;Requeijão Regatas Tradicional 180g;0.0;0.0;un;1.0;8427;8427;Regatas;7896260737311;74752970;0
+2026-10-25;requeijao-regatas-light-copo-com-180g-74751;Requeijão Regatas Light 180g;0.0;0.0;un;1.0;8417;8417;Regatas;7896260737328;74751910;0
+2026-10-25;requeijao-pia-light-29013;Requeijão Piá Light 180g;0.0;0.0;un;1.0;8301;8301;Piá;7896348843101;29013985;0
+2026-10-25;requeijao-holandes-light-copo-com-180g-81942;Requeijão Holandês Light 180g;0.0;0.0;un;1.0;8180;8180;Holandês;7896733401336;81942979;0
+2026-10-25;requeijao-cremoso-duleit-pote-com-200g-60325;Requeijão Cremoso Duleit 200g;0.0;0.0;un;1.0;7982;7982;Duleit;7898959504846;60325938;0
+2026-10-25;requeijao-cotoches-tradicional-copo-com-200g-73451;Requeijão Cotochés Tradicional 200g;0.0;0.0;un;1.0;7900;7900;Cotochés;7891097101410;73451939;0
+2026-10-25;requeijao-catupiry-light-79289;Requeijão Catupiry Light 500g;0.0;0.0;un;1.0;7879;7879;Catupiry;7896353301092;79289955;0
+2026-10-25;requeijao-aurora-tradicional-36600;Requeijão Aurora Tradicional 200g;0.0;0.0;un;1.0;7752;7752;Aurora;7891164027377;36600945;0
+2026-10-25;requeijao-nestle-tradicional-59072;Requeijão Nestlé Tradicional 200g;0.0;0.0;un;1.0;8281;8281;Nestlé;7891000084649;59072992;0
+2026-10-25;requeijao-catupiry-light-52483;Requeijão Catupiry Light 200g;0.0;0.0;un;1.0;7872;7872;Catupiry;7896353301191;52483997;0
+2026-10-25;requeijao-maranguape-light-98263;Requeijão Maranguape Light 400g;0.0;0.0;un;1.0;48114;48114;Maranguape;7896510100575;98263942;0
+2026-10-25;requeijao-elege-light-14340;Requeijão Elegê Light 200g;0.0;0.0;un;1.0;8135;8135;Elegê;7896079588531;14340908;0
+2026-10-25;requeijao-cremoso-lider-87962;Requeijão Cremoso Líder 400g;0.0;0.0;un;1.0;39037;39037;Líder (Líder Laticínios);7896569406697;87962923;0
+2026-10-25;requeijao-elege-tradicional-14339;Requeijão Elegê Tradicional 200g;0.0;0.0;un;1.0;8140;8140;Elegê;7896079588548;14339971;0
+2026-10-25;salgadinho-campitos-requeijao-15806;Salgadinho Campitos Requeijão 40g;0.0;0.0;un;1.0;167439;62488;Campilar;7896547904061;15806994;0
+2026-10-25;requeijao-compleite-tradicional-15744;Requeijão Compleite Tradicional 200g;0.0;0.0;un;1.0;166282;62384;Compleite;7896773900899;15744914;0
+2026-10-25;salgadinho-jumbitos-requeijao-8928;Salgadinho Jumbitos Requeijão 27g;0.0;0.0;un;1.0;59097;58936;Jumbitos;7898940958139;8928973;0
+2026-10-25;salgadinho-campitos-requeijao-98265;Salgadinho Campitos Requeijão 50g;0.0;0.0;un;1.0;48244;48244;Campilar;98265961;98265961;0
+2026-10-25;requeijao-natville-light-97008;Requeijão Natville Light 200g;0.0;0.0;un;1.0;46920;46920;Natville;7898387120175;97008983;0
+2026-10-25;pao-de-batata-requeijao-264;Pão de Batata Requeijão un;0.0;0.0;un;1.0;45026;45026;Atacadão S/A;264906;264906;0
+2026-10-25;salgadinho-kro-requeijao-94430;Salgadinho Kró Requeijão 70g;0.0;0.0;un;1.0;44832;44832;Kró;7898940958122;94430913;0
+2026-10-25;salgadinho-teens-requeijao-76550;Salgadinho Teens Requeijão 80g;0.0;0.0;un;1.0;16964;16964;Marilan;7896003738179;76550959;0
+2026-10-25;salgadinho-lobits-requeijao-pacote-com-40g-84499;Salgadinho Lobits Requeijão 40g;0.0;0.0;un;1.0;15781;15781;Lobits;7896499902658;84499924;0
+2026-10-25;requeijao-vigor-tradicional-64674;Requeijão Vigor Tradicional 500g;0.0;0.0;un;1.0;8530;8530;Vigor;7891999000064;64674955;0
+2026-10-25;requeijao-tirolez-light-copo-com-200g-32893;Requeijão Tirolez Light 200g;0.0;0.0;un;1.0;8490;8490;Tirolez;32893941;32893941;0
+2026-10-25;requeijao-pia-tradicional-29014;Requeijão Piá Tradicional 180g;0.0;0.0;un;1.0;8308;8308;Piá;7896348843095;29014944;0
+2026-10-25;requeijao-holandes-tradicional-copo-com-180g-81941;Requeijão Holandês Tradicional 180g;0.0;0.0;un;1.0;8188;8188;Holandês;7896733401329;81941919;0
+2026-10-25;requeijao-fornato-25072;Requeijão Fornato 1,8kg;0.0;0.0;un;1.0;8156;8156;Fornato;7898282530222;25072902;0
+2026-10-25;requeijao-cremoso-imbauba-31941;Requeijão Cremoso Imbaúba 200g;0.0;0.0;un;1.0;8015;8015;Imbaúba;7897119300502;31941924;0
+2026-10-25;requeijao-canto-de-minas-pote-com-200g-22418;Requeijão Canto de Minas 200g;0.0;0.0;un;1.0;7817;7817;Canto de Minas;7896629630178;22418949;0
+2026-10-25;requeijao-canto-de-minas-33548;Requeijão Canto de Minas 400g;0.0;0.0;un;1.0;7797;7797;Canto de Minas;7896629630086;33548972;0
+2026-10-25;requeijao-vigor-tradicional-14830;Requeijão Vigor Tradicional 200g;0.0;0.0;un;1.0;8524;8524;Vigor;7891999144485;14830986;0
+2026-10-25;requeijao-catupiry-tradicional-52484;Requeijão Catupiry Tradicional 200g;0.0;0.0;un;1.0;7883;7883;Catupiry;7896353301184;52484956;0
+2026-10-25;requeijao-tirolez-light-95108;Requeijão Tirolez Light 400g;0.0;0.0;un;1.0;45583;45583;Tirolez;7896030521706;95108967;0
+2026-10-25;salgadinho-kro-requeijao-82251;Salgadinho Kró Requeijão 100g;0.0;0.0;un;1.0;15661;15661;Kró;7896221402456;82251958;0
+2026-10-25;salgadinho-kerus-requeijao-pacote-com-43g-83288;Salgadinho Kerus Requeijão 43g;0.0;0.0;un;1.0;15584;15584;Kerus;7898957757138;83288906;0
+2026-10-25;requeijao-pocos-de-caldas-53429;Requeijão Poços de Caldas 200g;0.0;0.0;un;1.0;8317;8317;Poços de Caldas;7898955617397;53429982;0
+2026-10-25;requeijao-tirolez-light-76481;Requeijão Tirolez Light 200g;0.0;0.0;un;1.0;38673;38673;Tirolez;7896030518751;76481968;0
+2026-10-25;salgadinho-bebela-requeijao-pacote-com-50g-52965;Salgadinho Bebela Requeijão 50g;0.0;0.0;un;1.0;14420;14420;Bebela;7896635192219;52965914;0
+2026-10-25;requeijao-scala-cremoso-60198;Requeijão Scala Cremoso 200g;0.0;0.0;un;1.0;8453;8453;Scala;7898039680392;60198982;0
+2026-10-25;requeijao-betania-light-39642;Requeijão Betânia Light 200g;0.0;0.0;un;1.0;7761;7761;Betânia;7898403780291;39642995;0
+2026-10-25;requeijao-gran-mestri-75468;Requeijão Gran Mestri 180g;0.0;0.0;un;1.0;8173;8173;Gran Mestri;7891164151041;75468929;0
+2026-10-25;requeijao-betania-tradicional-39641;Requeijão Betânia Tradicional 200g;0.0;0.0;un;1.0;7774;7774;Betânia;7898403780116;39641935;0
+2026-10-25;requeijao-valeza-cremoso-11471;Requeijão Valeza Cremoso 400g;0.0;0.0;un;1.0;59784;59623;Valeza;7898004442260;11471905;0
